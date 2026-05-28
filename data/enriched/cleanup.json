@@ -1,0 +1,227 @@
+[
+  {
+    "lounge_id": "f862e0c1-e4e2-490c-8ea1-09efffa65450",
+    "name": "Star Alliance Lounge Paris CDG",
+    "airport_iata": "CDG",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO DE LOCALIZACAO: DB indica Terminal 2E Hall M, mas o Star Alliance Lounge documentado de CDG fica no Terminal 1. Amenidades especificas nao confirmadas. Foto anterior (aviao B6 A321 pousando em JFK) generica - removida."
+  },
+  {
+    "lounge_id": "803994d0-97b5-4f2e-bb8f-098fc7381030",
+    "name": "American Airlines Admirals Club Bogota",
+    "airport_iata": "BOG",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "ATENCAO: O Admirals Club em BOG aparenta estar FECHADO (Foursquare: 'Ahora cerrado'); relatos indicam que passageiros AA passaram a usar o El Dorado Lounge. Recomendado verificar se este registro deve ser desativado/mesclado. Foto anterior (aerea SJU) generica - removida."
+  },
+  {
+    "lounge_id": "3967ea61-a2ee-4495-a180-ec18dcaa63e5",
+    "name": "LATAM First Class Lounge GIG (a verificar existencia)",
+    "airport_iata": "GIG",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "CONFLITO: nao foi encontrado lounge proprio 'LATAM First Class' no GIG T2. LATAM utiliza lounges parceiros (ex.: Plaza Premium). Verificar se o registro existe de fato ou deve ser remapeado. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "baa60fc0-1462-4767-bea9-fcc5967789a8",
+    "name": "Etihad Airways Lounge Paris CDG",
+    "airport_iata": "CDG",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO DE LOCALIZACAO: DB indica T2E Hall L; o Etihad Lounge real de CDG fica no Terminal 2A-2C - corrigir terminal. Horario variavel (abre 3h antes do voo). Acesso restrito a Business/First Etihad e status."
+  },
+  {
+    "lounge_id": "80d99d6d-6b3b-4b06-be42-ae6da017cfec",
+    "name": "Salon VIP LATAM Buenos Aires (Ezeiza)",
+    "airport_iata": "EZE",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: uma fonte indica fechamento temporario; outras mostram operacao normal (02:30-23:00). Verificar status atual. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "6fc1e25d-a808-4c52-8fbf-2e182d5a2779",
+    "name": "Star Alliance Lounge 27 Amsterdam",
+    "airport_iata": "AMS",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: DB indica 'Departures 1'; o lounge fica em Departures 2 (Schengen). Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "cb43c3d9-ba95-4fa6-b318-8405269ac658",
+    "name": "Avianca Lounge Bogota (registro generico)",
+    "airport_iata": "BOG",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "f2fcac6c",
+    "detail": "DUPLICATA PROVAVEL: registro 'Avianca Lounge' sem terminal nem descricao - Avianca tem em BOG o Gold Lounge (internacional, id f2fcac6c...), o Diamond (id 80a370ed...) e o Lounge domestico. Recomendado mesclar/identificar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "833e99ae-cde8-4d7f-867c-5687fc5f1854",
+    "name": "Cathay Pacific Lounge Paris CDG",
+    "airport_iata": "CDG",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO DE LOCALIZACAO: DB indica T2E Hall L; o lounge real fica no T2AC. Abre ~4h antes de voos Cathay. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "98848301-d841-4c46-96a4-adb222d52a81",
+    "name": "Star Alliance Lounge Paris CDG (Non-Schengen)",
+    "airport_iata": "CDG",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "f862e0c1",
+    "detail": "CONFLITO: DB indica Terminal 2E; o Star Alliance Lounge de CDG fica no Terminal 1 (aberto fim de 2023). Possivel duplicata do id f862e0c1 (Star Alliance First). Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "e86d7f76-686c-488b-9bff-baa8b9f19260",
+    "name": "Air France La Premiere Lounge CDG",
+    "airport_iata": "CDG",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: a La Premiere fica no Hall K, nao no Hall L. Acesso ultra-exclusivo (passageiros La Premiere / convite). Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "bdb29ec1-53e6-4ae1-9463-b99bf3f3e87d",
+    "name": "British Airways Lounge GIG (a verificar existencia)",
+    "airport_iata": "GIG",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "CONFLITO: nao existe lounge dedicado da British Airways no GIG. Passageiros BA/oneworld usam o Plaza Premium (Priority Pass) no T2. Recomendado mesclar/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "c35e1136-6856-438f-a9cf-311b1c6fb663",
+    "name": "OneWorld Lounge GIG (a verificar existencia)",
+    "airport_iata": "GIG",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "CONFLITO: nao existe lounge dedicado 'oneworld' no GIG. Provavel duplicata do registro BA Lounge GIG. Recomendado mesclar/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "692eeaa2-0c63-4178-9b1a-0661f06625fa",
+    "name": "Avianca Gold Lounge Bogota (Silver & Gold)",
+    "airport_iata": "BOG",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "f2fcac6c",
+    "detail": "DUPLICATA PROVAVEL do 'Sala VIP Avianca' (id f2fcac6c) - ambos sao o Avianca Gold Lounge internacional. Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "4167b9dd-bf86-425f-9571-4ddd00a936a2",
+    "name": "Ezeiza Lounge (American Express)",
+    "airport_iata": "EZE",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "eb41acd3",
+    "detail": "DUPLICATA PROVAVEL do 'Visa Lounge' (id eb41acd3) - ambos sao o 'Ezeiza Lounge'. Conflito de terminal (A vs C). Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "fb6bd5ea-d836-4301-b107-57376aaaf3be",
+    "name": "Emirates Lounge Ezeiza (a verificar existencia)",
+    "airport_iata": "EZE",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "CONFLITO: nenhuma fonte confirma um lounge dedicado da Emirates em Ezeiza. A Emirates encerrou voos BUE-DXB ha anos. Recomendado verificar/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "f6950ed0-7b88-430d-b4e1-78d1635563eb",
+    "name": "First Class & Business Class Lounge CDG T2E (registro generico)",
+    "airport_iata": "CDG",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "DUPLICATA PROVAVEL: registro generico 'First Class & Business Class Lounge' no T2E - corresponde aos lounges Air France (La Premiere Hall K e Business Hall L) ja registrados. Recomendado mesclar/identificar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "47090cbc-f4d7-43a8-a300-7a3f1ffddc02",
+    "name": "Salon VIP Aeropuertos Argentina 2000 (Ezeiza)",
+    "airport_iata": "EZE",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "Possivel sobreposicao com 'Aeropuertos VIP Club' / 'Ezeiza Lounge' do Terminal A. Verificar duplicata. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "eca6be7b-32fa-42ba-b665-05edb3f73db8",
+    "name": "Qatar Airways Premium Lounge Paris CDG",
+    "airport_iata": "CDG",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "CONFLITO: lounge permanente fica no Terminal 1 (11o andar), nao no T2E. ATENCAO: avaliacoes de 2025 indicam possivel fechamento temporario - verificar status atual. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "f2cef392-cd39-478b-825d-f2ff3299576a",
+    "name": "Emirates Business Class Lounge GIG (a verificar existencia)",
+    "airport_iata": "GIG",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "CONFLITO: a Emirates nao opera voos nem lounge proprio no GIG (servia GRU no Brasil). Recomendado verificar/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "e7351081-0354-4f49-89fd-20abd66d9b03",
+    "name": "Royal Jordanian Crew Center (NAO e sala VIP)",
+    "airport_iata": "AMM",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "ATENCAO: NAO e uma sala VIP de passageiros - e o centro/portal de tripulacao (crew) da Royal Jordanian. Recomendado remover do catalogo de lounges. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "a21b80c8-528a-4f87-9c80-ca03a4f0232e",
+    "name": "British Airways Lounge LIS (usa ANA Lounge)",
+    "airport_iata": "LIS",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": "3f572215",
+    "detail": "DUPLICATA PROVAVEL: nao ha lounge dedicado BA em LIS - e a ANA Lounge (id 3f572215) usada pela oneworld. Recomendado mesclar/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "74d9d850-2586-462a-9d66-bd2f940e6f0b",
+    "name": "Star Alliance Lounge GIG (a verificar existencia)",
+    "airport_iata": "GIG",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "CONFLITO: nao existe lounge dedicado Star Alliance no GIG. Passageiros Star usam parceiros (Plaza Premium / GOL Smiles). Provavel duplicata. Recomendado mesclar/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "c4c6e67a-9be3-4f85-a5e8-7a3b9c1f0b68",
+    "name": "oneworld Lounge Santiago (usa LATAM / Admirals Club)",
+    "airport_iata": "SCL",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "CONFLITO: nao existe lounge dedicado 'oneworld' no SCL. Passageiros usam o AA Admirals Club (portao 19) ou o LATAM Lounge. Recomendado remapear/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "97cb0eb0-7938-49e5-a8b2-4e6c543146ae",
+    "name": "ANA Lounge Lisboa",
+    "airport_iata": "LIS",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "3f572215",
+    "detail": "DUPLICATA: mesmo lounge do registro 'Lisbon Lounge' (id 3f572215). Usada por Star Alliance E oneworld (incl. BA). Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "0f36fa47-2257-415e-8db7-e60be1b6f6e2",
+    "name": "Petra Lounge Amman (FECHADA)",
+    "airport_iata": "AMM",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "ATENCAO: FECHADA PERMANENTEMENTE desde 31/12/2025. Recomendado desativar o registro. Dados de amenidades sao historicos. Foto anterior generica - removida."
+  }
+]
