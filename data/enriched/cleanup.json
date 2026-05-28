@@ -268,5 +268,59 @@
     "recommended_action": "merge",
     "related_id_hint": "fd921bea",
     "detail": "DUPLICATA/CONFLITO PROVAVEL: 'Plaza Mayor' fica no T4 (id fd921bea), nao no T4S. No T4S a sala Aena e a Neptuno (id f3b569de). Recomendado mesclar/corrigir. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "860b82df-125b-4ebf-a972-075ee1d0e58e",
+    "name": "LATAM Signature Lounge Santiago (secao)",
+    "airport_iata": "SCL",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "f176c640",
+    "detail": "DUPLICATA: e a secao Signature do LATAM VIP Lounge Santiago (id f176c640), nao um lounge separado. Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "4647b969-a141-48e9-a396-24b3019d312e",
+    "name": "Salon Neruda (LAN/LATAM) Santiago",
+    "airport_iata": "SCL",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "f176c640",
+    "detail": "DUPLICATA / nome antigo: 'Salon Neruda' era o lounge LAN, hoje o LATAM VIP Lounge Santiago (id f176c640). Recomendado mesclar/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "7f752794-39ee-4883-83ca-fe34a4479a43",
+    "name": "Iberia Velazquez Premium Lounge Madrid T4S",
+    "airport_iata": "MAD",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "b9b26754",
+    "detail": "DUPLICATA PROVAVEL do 'Sala VIP Iberia Goya' (id b9b26754) - ambos sao a Sala Velazquez (T4S). Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "3da97fa3-53d6-43b4-afa7-5f089016a0f0",
+    "name": "Cathay Pacific Lounge London Heathrow",
+    "airport_iata": "LHR",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "c1a3c565",
+    "detail": "CONFLITO: DB indica T2; Cathay fica no T3. DUPLICATA do 'Cathay Pacific First Class Lounge' (id c1a3c565) - o lounge T3 tem secoes First e Business juntas. Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "c1a3c565-4360-489d-8474-209d278fc8e0",
+    "name": "Cathay Pacific First Class Lounge London Heathrow (secao)",
+    "airport_iata": "LHR",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "3da97fa3",
+    "detail": "DUPLICATA: e a secao First do Cathay Pacific Lounge T3 (id 3da97fa3), nao um lounge separado. Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "e289a256-8d28-4a6d-9dd9-496523435a70",
+    "name": "Sala VIP Amnios (= Neptuno) Madrid T4S",
+    "airport_iata": "MAD",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "f3b569de",
+    "detail": "DUPLICATA: 'Amnios' foi renomeada para Neptuno Lounge (id f3b569de). Mesmo lounge. Recomendado mesclar. Foto anterior generica - removida."
   }
 ]
