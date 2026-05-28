@@ -367,5 +367,32 @@
     "recommended_action": "disable",
     "related_id_hint": null,
     "detail": "ATENCAO: Emirates Lounge DEL FECHADA (permanente/temporaria conforme fonte). Passageiros Emirates usam lounges parceiros no T3. Recomendado desativar/verificar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "507279de-5d73-4f70-a9d2-b5fc45415463",
+    "name": "51st & Green US Preclearance Lounge Dublin",
+    "airport_iata": "DUB",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: fica no T2 (apos US Preclearance), nao no T1. Reaberta/reformada em 2026. Max 2h. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "eb2b327f-617a-4959-bd26-e7172750d7a6",
+    "name": "Sala B Cancun T4 (nao identificada)",
+    "airport_iata": "CUN",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "REGISTRO NAO IDENTIFICADO - a verificar existencia. 'Sala B' nao corresponde a lounge nomeado do T4 (provavel duplicata de MERA/Grand Lounge). Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "2511486e-e76e-425d-ae65-de3fd1deb05c",
+    "name": "Etihad Lounge Dublin (usa Martello Lounge)",
+    "airport_iata": "DUB",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "CONFLITO: nao ha lounge dedicado Etihad em DUB - passageiros usam o Martello Lounge. Recomendado remapear para Martello/desativar. Foto anterior generica - removida."
   }
 ]
