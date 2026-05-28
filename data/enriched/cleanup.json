@@ -358,5 +358,14 @@
     "recommended_action": "fix",
     "related_id_hint": null,
     "detail": "CONFLITO: DB indica 'non-Schengen', mas a Polonez fica na zona Schengen (T-A). A LOT non-Schengen e a 'Mazurek'. Verificar. Spa 'Relax Spot by Phenome'. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "a476e121-d88e-4b74-85f6-0255e79fbc9c",
+    "name": "Emirates Lounge Delhi (FECHADA)",
+    "airport_iata": "DEL",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "ATENCAO: Emirates Lounge DEL FECHADA (permanente/temporaria conforme fonte). Passageiros Emirates usam lounges parceiros no T3. Recomendado desativar/verificar. Foto anterior generica - removida."
   }
 ]
