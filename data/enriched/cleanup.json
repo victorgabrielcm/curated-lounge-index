@@ -394,5 +394,50 @@
     "recommended_action": "disable_or_verify",
     "related_id_hint": null,
     "detail": "CONFLITO: nao ha lounge dedicado Etihad em DUB - passageiros usam o Martello Lounge. Recomendado remapear para Martello/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "d6740fdb-8302-431c-8049-dfc0971d0dde",
+    "name": "Qatar Airways Al Mourjan Business Lounge (Doha)",
+    "airport_iata": "DOH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "4aa9e4e6",
+    "detail": "DUPLICATA PROVAVEL do 'Qatar Platinum & Gold Lounge South' (id 4aa9e4e6) - ambos sao o Al Mourjan Business Lounge. Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "a07aaa79-78d8-4a9f-8ade-4ba5c6b2529b",
+    "name": "Jet Airways Lounge Delhi (EXTINTA)",
+    "airport_iata": "DEL",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "ATENCAO: a Jet Airways faliu/cessou operacoes em 2019 - o lounge nao existe mais. Recomendado desativar/remover. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "73bb6bbc-df1b-42b7-9845-0cd3af760617",
+    "name": "Emirates Business Class Lounge Dubai (T3, generico)",
+    "airport_iata": "DXB",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "DUPLICATA PROVAVEL: registro generico 'Business T3' sobrepoe os lounges Business dos Concourses A/B/C (ids d9ff5a18 e dddc4a27). Recomendado identificar/mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "dddc4a27-fdee-4797-9aee-85f2f225140a",
+    "name": "Emirates Business Class Lounge Dubai (Concourse C, C20)",
+    "airport_iata": "DXB",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "d9ff5a18",
+    "detail": "DUPLICATA do 'Emirates Business Class Lounge' Concourse C (id d9ff5a18) - mesmo lounge (C20). Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "1314633e-d4cd-4e1f-a1b7-17c280539e3b",
+    "name": "Players Lounge Copenhagen (a verificar)",
+    "airport_iata": "CPH",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "REGISTRO NAO IDENTIFICADO - a verificar existencia. 'Players Lounge' nao consta entre os lounges atuais do CPH (Eventyr/Aspire/Carlsberg Aviator/SAS). Possivel nome antigo ou erro. Foto anterior generica - removida."
   }
 ]
