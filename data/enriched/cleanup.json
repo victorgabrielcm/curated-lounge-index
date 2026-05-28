@@ -223,5 +223,50 @@
     "recommended_action": "disable",
     "related_id_hint": null,
     "detail": "ATENCAO: FECHADA PERMANENTEMENTE desde 31/12/2025. Recomendado desativar o registro. Dados de amenidades sao historicos. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "6ff6d257-5df4-4513-befe-72ec582f1458",
+    "name": "Sala de Embarque N.30 SCL (nao identificada)",
+    "airport_iata": "SCL",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "REGISTRO NAO IDENTIFICADO - a verificar existencia. Nome 'Sala de Embarque N.30' nao corresponde a nenhum lounge conhecido do SCL (Pacific Club fica nos portoes 20A/26; SkyTeam no Pier E). Pode ser duplicata ou erro. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "ab420ef1-529c-4b31-ba6a-249fba583549",
+    "name": "Royal Jordanian CIP Lounge (= Crown Lounge?)",
+    "airport_iata": "AMM",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "bbed67ab",
+    "detail": "DUPLICATA PROVAVEL do Royal Jordanian Crown Lounge (id bbed67ab). 'CIP Lounge' e o mesmo conceito. Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "4e4d0e9b-80ee-4e96-9f34-e00895b410ae",
+    "name": "Executive Lounge Lisboa (nao identificada)",
+    "airport_iata": "LIS",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "DUPLICATA PROVAVEL / nome antigo: 'Executive Lounge' nao existe atualmente em LIS. Provavelmente corresponde a ANA Lounge ou Blue Lounge. Recomendado mesclar/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "e6a710bf-637c-4418-ae75-1ab50bb047d4",
+    "name": "Lounge B Heathrow T3 (nao identificada)",
+    "airport_iata": "LHR",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "REGISTRO NAO IDENTIFICADO - a verificar existencia. 'Lounge B' nao corresponde a um lounge nomeado do T3. Pode ser erro/placeholder. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "88ff29ac-6151-433a-ae44-f674a19f5454",
+    "name": "Plaza Mayor Business Lounge MAD T4S (verificar)",
+    "airport_iata": "MAD",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "fd921bea",
+    "detail": "DUPLICATA/CONFLITO PROVAVEL: 'Plaza Mayor' fica no T4 (id fd921bea), nao no T4S. No T4S a sala Aena e a Neptuno (id f3b569de). Recomendado mesclar/corrigir. Foto anterior generica - removida."
   }
 ]
