@@ -322,5 +322,41 @@
     "recommended_action": "merge",
     "related_id_hint": "f3b569de",
     "detail": "DUPLICATA: 'Amnios' foi renomeada para Neptuno Lounge (id f3b569de). Mesmo lounge. Recomendado mesclar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "41d0915e-5b26-4ac7-b4a0-1aef94769820",
+    "name": "Iberia Velazquez Premium Lounge Madrid T4S",
+    "airport_iata": "MAD",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "b9b26754",
+    "detail": "DUPLICATA TRIPLA: este 'Velazquez', o 'Goya' (id b9b26754) e o 'Iberia Business Class Lounge' (id 7f752794) sao a MESMA Sala Velazquez (T4S). Recomendado mesclar os 3. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "5cb8e386-3c24-4fec-a46a-b9b0cb9bbf98",
+    "name": "The Lounge Vitoria",
+    "airport_iata": "VIX",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO DE NOME: DB chama de 'W Premium Lounge Vitoria', mas o lounge do VIX e 'The Lounge Vitoria' (operadora diferente). Corrigir nome/operadora. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "22f77d89-6243-40ce-94d9-08a0ef842d84",
+    "name": "The Lounge Teresina (duplicata)",
+    "airport_iata": "THE",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "519a70c1",
+    "detail": "DUPLICATA do 'Sala VIP Teresina' (id 519a70c1) e nome errado ('W Premium Lounge'). O lounge do THE e 'The Lounge Teresina'. Recomendado mesclar/desativar. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "d7040dc6-c54b-4e92-9c3e-d4c960062979",
+    "name": "LOT Business Lounge Polonez Warsaw",
+    "airport_iata": "WAW",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: DB indica 'non-Schengen', mas a Polonez fica na zona Schengen (T-A). A LOT non-Schengen e a 'Mazurek'. Verificar. Spa 'Relax Spot by Phenome'. Foto anterior generica - removida."
   }
 ]
