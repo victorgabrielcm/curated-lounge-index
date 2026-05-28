@@ -439,5 +439,32 @@
     "recommended_action": "disable_or_verify",
     "related_id_hint": null,
     "detail": "REGISTRO NAO IDENTIFICADO - a verificar existencia. 'Players Lounge' nao consta entre os lounges atuais do CPH (Eventyr/Aspire/Carlsberg Aviator/SAS). Possivel nome antigo ou erro. Foto anterior generica - removida."
+  },
+  {
+    "lounge_id": "ad890b63-6af9-4867-9bfa-b3769ab8468a",
+    "name": "SAS Lounge (Copenhagen)",
+    "airport_iata": "CPH",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO/Nome: registro 'SAS One Lounge' (website legado sasone.dk) provavelmente desatualizado - hoje e a SAS Lounge CPH junto ao gate C (T3); base indicava T2. Verificar denominacao. SAS e Star Alliance. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "45bb9bee-602c-4c37-83a5-489b1fb0daf8",
+    "name": "Plaza Premium Lounge (Domestic Arrivals) - Delhi T3",
+    "airport_iata": "DEL",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: base indica cidade 'Agra' - incorreto; IATA DEL = Nova Delhi (Indira Gandhi Intl). Sala landside de chegadas domesticas (Priority Pass). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ebf70f7a-f03d-40ef-a893-1073844a98e3",
+    "name": "HIA VIP Lounge (Doha)",
+    "airport_iata": "DOH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "DUPLICATA PROVAVEL: nome generico 'HIA VIP Lounge' provavelmente corresponde ao Al Maha Lounge/Services (VIP) de Hamad. Recomendado verificar/mesclar com o registro Al Maha. Foto anterior generica removida."
   }
 ]
