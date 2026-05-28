@@ -1,0 +1,512 @@
+[
+  {
+    "lounge_id": "9594282e-a1e5-4b14-b4ce-4950e14f6413",
+    "name": "American Express Lounge (Centurion) - Delhi",
+    "airport_iata": "DEL",
+    "airport_name": "Indira Gandhi International Airport (New Delhi)",
+    "terminal": "Terminal 3 (encerrado) / Terminal 1 (atual)",
+    "location_description": "Registro aponta T3 Departures (encerrado). Operacao atual: Terminal 1, Nivel 4, proximo ao Portao 2.",
+    "hours_open_text": "24h (no Terminal 1)",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": "Criancas <12 admitidas. Platinum/Business Platinum: 1 convidado; Centurion: 2 convidados.",
+    "guest_policy": "Platinum/Business Platinum: 1 convidado; Centurion: 2 convidados.",
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/DEL",
+    "operator": "American Express (gestao Encalm)",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/DEL/the-centurion-lounge-terminal-3-domestic-9I3BrxTcBc",
+      "https://livefromalounge.com/amex-lounge-delhi-terminal-3-reopens/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "FECHADO no Terminal 3 (Centurion internacional encerrado em 31/12/2025); operacao realocada para o Terminal 1 (reabriu em 31/03/2026, area domestica). Registro precisa de atualizacao de terminal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "06debf0e-5757-49f2-bd19-dacbd69de85d",
+    "name": "First and Business Class Lounge (Copenhagen)",
+    "airport_iata": "CPH",
+    "airport_name": "Copenhagen Airport (Kastrup)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3 (area airside). Localizacao exata nao confirmada.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.cph.dk/en/practical/workspaces-and-lounges",
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/airport-guides/copenhagen/terminal-3"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 32,
+    "notes": "VERIFICAR EXISTENCIA: nome generico 'First and Business Class Lounge' (T3). Provavelmente corresponde a SAS Lounge (gate C, batch 14) ou ao Eventyr Lounge (Pier C, fechado temporariamente 31/01-30/04/2026). Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9168b9e1-1601-486f-bc2e-d66ee0859f72",
+    "name": "DAA Executive Lounge - Dublin T2 (Liffey Lounge)",
+    "airport_iata": "DUB",
+    "airport_name": "Dublin Airport",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, apos a seguranca.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "business_center",
+      "workspace",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "diners_club",
+      "emirates_business",
+      "american_business",
+      "delta_one",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso pago na porta (~EUR 29).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.dublinairport.com/enhance-your-journey/lounges/the-liffey-lounge",
+    "operator": "daa (Dublin Airport)",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/ireland/dublin-international/dub-dublin-airport-executive-lounge",
+      "https://www.dublinairport.com/enhance-your-journey/lounges/the-liffey-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "A 'DAA Business/Executive Lounge' do T2 foi rebatizada como Liffey Lounge (mesmo espaco). Sala pequena; Priority Pass/Diners + AA/Delta. Verificar se ja existe registro separado 'Liffey Lounge'. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "21c35328-7096-42d6-ba92-569580709adf",
+    "name": "Al Mourjan Business Lounge (Doha) [generico]",
+    "airport_iata": "DOH",
+    "airport_name": "Hamad International Airport (Doha)",
+    "terminal": "Terminal 1",
+    "location_description": "Hamad International - lounge Business Al Mourjan (registro generico, sem distincao South/Garden).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "shower",
+      "sleep_rooms",
+      "prayer_room",
+      "relaxation_area",
+      "workspace",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "qatar_business",
+      "qatar_first",
+      "oneworld_first",
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "privilege_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qatarairways.com/en/lounges/al-mourjan.html",
+    "operator": "Qatar Airways",
+    "source_urls": [
+      "https://www.qatarairways.com/en/lounges/al-mourjan.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 45,
+    "notes": "DUPLICATA PROVAVEL: registro generico 'Al Mourjan Business Lounge' coincide com o Al Mourjan South (id d6740fdb, batch 13) e/ou The Garden (id f700093a, batch 14). Recomendado mesclar no South. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b693a295-d71e-4ea9-8d5e-5bd0f29fb8f5",
+    "name": "MERA Business Lounge - Cancun T2",
+    "airport_iata": "CUN",
+    "airport_name": "Cancun International Airport (CUN)",
+    "terminal": "Terminal 2",
+    "location_description": "Airside T2: apos a seguranca, escada rolante a direita rumo ao Portao A, logo atras.",
+    "hours_open_text": "08:00-21:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "conference",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://loungebymera.com/",
+    "operator": "MERA / Plaza Premium Group",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/mexico/cancun-international/cun1-mera-business-lounge",
+      "https://loungereview.com/lounges/mera-business-lounge-cun-terminal-2/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Sala contratada (Priority Pass/DragonPass/LoungeKey), buffet leve + cerveja/tequila local, sala de conferencia. Max 3h. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ff15389c-cdfa-420f-aaa8-a231b5daeffc",
+    "name": "First Class Lounge (Doha, Concourse E) [a verificar]",
+    "airport_iata": "DOH",
+    "airport_name": "Hamad International Airport (Doha)",
+    "terminal": "Concourse E",
+    "location_description": "Indicado em Concourse E (DOH). Existencia de sala de Primeira dedicada nesse local nao confirmada.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "qatar_first",
+      "oneworld_first"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Qatar Airways",
+    "source_urls": [
+      "https://www.qatarairways.com/en-us/lounges/al-safwa-lounge.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 30,
+    "notes": "DUPLICATA PROVAVEL: 'First Class Lounge' generico em Concourse E - a unica sala de Primeira Classe da QR em Hamad e o Al Safwa First Lounge (id dde933fe). Provavel duplicata/mislabel. Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "406126e9-3bde-4c74-8f63-5e58f14ae79c",
+    "name": "The Martello Lounge (Dublin)",
+    "airport_iata": "DUB",
+    "airport_name": "Dublin Airport",
+    "terminal": "Terminal 1",
+    "location_description": "Apos a seguranca, no corredor que liga Terminal 1 e Terminal 2. Vista para a pista.",
+    "hours_open_text": "04:00-21:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "whisky_bar",
+      "wine",
+      "shower",
+      "workspace",
+      "runway_view",
+      "tv",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "etihad_first",
+      "etihad_business",
+      "emirates_first",
+      "emirates_business",
+      "qatar_first",
+      "qatar_business",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "2 bebidas alcoolicas inclusas por hospede; acesso pago online ou na recepcao.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.dublinairport.com/enhance-your-journey/lounges/the-martello-lounge",
+    "operator": "daa (Dublin Airport)",
+    "source_urls": [
+      "https://www.dublinairport.com/enhance-your-journey/lounges/the-martello-lounge",
+      "https://flying-business.com/dub-terminal-1-martello-lounge-airline-lounge-review/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 66,
+    "notes": "Sala premium usada por passageiros First/Business de Etihad, Emirates, Qatar, EgyptAir e El Al (confirma que Etihad DUB usa o Martello - ver batch 12). Cafe da manha irlandes o dia todo. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "17067c18-b075-45db-aac7-6223b2783351",
+    "name": "Emirates Business Class Lounge - DXB Concourse A (T3)",
+    "airport_iata": "DXB",
+    "airport_name": "Dubai International Airport (DXB)",
+    "terminal": "Terminal 3, Concourse A",
+    "location_description": "Concourse A (concourse dedicado ao A380), acesso por elevadores/escadas no centro do concourse. Embarque direto.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "spa",
+      "business_center",
+      "kids_area",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "emirates_business",
+      "emirates_first",
+      "skywards_platinum",
+      "skywards_gold",
+      "oneworld",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Economy/Premium Economy Emirates podem comprar acesso.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.emirates.com/english/before-you-fly/lounges/our-lounges/",
+    "operator": "Emirates",
+    "source_urls": [
+      "https://www.headforpoints.com/2024/05/22/review-emirates-business-class-lounge-dubai-t3-concourse-a/",
+      "https://www.loungepair.com/guides/dubai-airport-dxb-terminal-3-lounges-and-terminal-guide/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 66,
+    "notes": "Maior lounge Business da Emirates (~16.000 m2). Spa Timeless (pago). Distinto dos lounges Business do Concourse B e C. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6d0fa075-ced3-4535-8fe4-3e9a30b62095",
+    "name": "The Lounge (in partnership with Air Transat) - Cancun",
+    "airport_iata": "CUN",
+    "airport_name": "Cancun International Airport (CUN)",
+    "terminal": "Terminal 4",
+    "location_description": "Terminal 4, partidas internacionais, airside, em frente ao Portao 64 (descer ao nivel inferior a partir do Portao 54).",
+    "hours_open_text": "06:00-22:00 (conforme voos)",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "diners_club",
+      "mastercard",
+      "aer_lingus_business",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": "1 crianca <12 gratis por cartao.",
+    "guest_policy": null,
+    "voucher_info": "Codigo de vestimenta (camisa e sapatos). Max 4h.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/mexico/cancun-international/cun7-the-lounge-in-cooperation-with-air-transat",
+    "operator": "Global Lounge / Air Transat",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/mexico/cancun-international/cun7-the-lounge-in-cooperation-with-air-transat",
+      "https://www.loungepair.com/guides/cancun-airport-lounges-guide/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Sala contratada (Priority Pass + clientes Club Class da Air Transat) no Terminal 4 - base nao registrava o terminal. Bar de tacos cortesia. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "67f1eb61-2767-4a01-8454-9dc4c32021b9",
+    "name": "Emirates First Class Lounge - DXB Concourse B (T3)",
+    "airport_iata": "DXB",
+    "airport_name": "Dubai International Airport (DXB)",
+    "terminal": "Terminal 3, Concourse B",
+    "location_description": "Concourse B, um nivel acima do concourse principal. Embarque direto a partir do lounge.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "wine",
+      "shower",
+      "spa",
+      "prayer_room",
+      "clothes_pressing",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "emirates_first",
+      "skywards_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Upgrade de acesso: Business ~USD 175; Economy ~USD 300.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.emirates.com/english/before-you-fly/lounges/our-lounges/",
+    "operator": "Emirates",
+    "source_urls": [
+      "https://loungereview.com/lounges/emirates-first-class-lounge-dxb-t3b/",
+      "https://livefromalounge.com/review-emirates-first-class-lounge-dubai-concourse-b/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 70,
+    "notes": "Lounge de Primeira Classe Emirates do Concourse B - distinto do Concourse A (id 362969ff, batch 14) e do Concourse C. Foto anterior generica removida."
+  }
+]

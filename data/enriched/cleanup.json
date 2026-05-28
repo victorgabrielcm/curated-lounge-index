@@ -466,5 +466,41 @@
     "recommended_action": "merge",
     "related_id_hint": null,
     "detail": "DUPLICATA PROVAVEL: nome generico 'HIA VIP Lounge' provavelmente corresponde ao Al Maha Lounge/Services (VIP) de Hamad. Recomendado verificar/mesclar com o registro Al Maha. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9594282e-a1e5-4b14-b4ce-4950e14f6413",
+    "name": "American Express Lounge (Centurion) - Delhi",
+    "airport_iata": "DEL",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "FECHADO no Terminal 3 (Centurion internacional encerrado em 31/12/2025); operacao realocada para o Terminal 1 (reabriu em 31/03/2026, area domestica). Registro precisa de atualizacao de terminal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "06debf0e-5757-49f2-bd19-dacbd69de85d",
+    "name": "First and Business Class Lounge (Copenhagen)",
+    "airport_iata": "CPH",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: nome generico 'First and Business Class Lounge' (T3). Provavelmente corresponde a SAS Lounge (gate C, batch 14) ou ao Eventyr Lounge (Pier C, fechado temporariamente 31/01-30/04/2026). Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "21c35328-7096-42d6-ba92-569580709adf",
+    "name": "Al Mourjan Business Lounge (Doha) [generico]",
+    "airport_iata": "DOH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "d6740fdb",
+    "detail": "DUPLICATA PROVAVEL: registro generico 'Al Mourjan Business Lounge' coincide com o Al Mourjan South (id d6740fdb, batch 13) e/ou The Garden (id f700093a, batch 14). Recomendado mesclar no South. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ff15389c-cdfa-420f-aaa8-a231b5daeffc",
+    "name": "First Class Lounge (Doha, Concourse E) [a verificar]",
+    "airport_iata": "DOH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "dde933fe",
+    "detail": "DUPLICATA PROVAVEL: 'First Class Lounge' generico em Concourse E - a unica sala de Primeira Classe da QR em Hamad e o Al Safwa First Lounge (id dde933fe). Provavel duplicata/mislabel. Verificar/mesclar. Foto anterior generica removida."
   }
 ]
