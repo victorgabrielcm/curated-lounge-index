@@ -1,0 +1,473 @@
+[
+  {
+    "lounge_id": "0c230618-f333-44fc-965a-60de10f708bd",
+    "name": "Saudia Alfursan Domestic Golden Lounge - Jeddah",
+    "airport_iata": "JED",
+    "airport_name": "King Abdulaziz International Airport (Jeddah)",
+    "terminal": "Terminal 1 (Domestico)",
+    "location_description": "Terminal 1 (domestico), proximo ao gate A05. (A Saudia opera todos os voos no Terminal 1.)",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "coffee",
+      "shower",
+      "prayer_room",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.saudia.com/plan/at-the-airport/lounges-information/AlFursanLounges",
+    "operator": "Saudia",
+    "source_urls": [
+      "https://loungereview.com/lounges/saudia-alfursan-golden-lounge-jed-domestic-south-terminal/",
+      "https://www.kaia.sa/Airport-Services/Lounges/Saudia-AlFursan-Lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "CONFLITO: base indica 'South Terminal' (antiga denominacao); hoje a Saudia opera no Terminal 1 (gate A05). Alfursan Domestic Golden Lounge (Saudia/SkyTeam). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d901131b-ea96-4466-9ecb-8b08ee8afcc0",
+    "name": "Turkish Airlines Domestic Lounge - Istanbul",
+    "airport_iata": "IST",
+    "airport_name": "Istanbul Airport (IST)",
+    "terminal": "Domestic",
+    "location_description": "Area de embarque domestico do Aeroporto de Istambul.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.turkishairlines.com/en-int/flights/fly-different/lounges/",
+    "operator": "Turkish Airlines",
+    "source_urls": [
+      "https://www.turkishairlines.com/en-int/flights/fly-different/lounges/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "Lounge domestico da Turkish Airlines em IST. A famosa Turkish Lounge internacional (IST) e uma sala distinta e muito maior. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "155cefdc-b193-4092-ba41-4b3a863fff15",
+    "name": "Plaza Premium Lounge - Gatwick (South Terminal)",
+    "airport_iata": "LGW",
+    "airport_name": "London Gatwick Airport (LGW)",
+    "terminal": "South Terminal",
+    "location_description": "South Terminal (airside), apos a seguranca.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Plaza Premium Lounge no South Terminal de Gatwick. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b8028f30-14c1-486f-ab28-2f4c30b51403",
+    "name": "Aspire Lounge - Helsinki (duplicata)",
+    "airport_iata": "HEL",
+    "airport_name": "Helsinki Airport (HEL)",
+    "terminal": "Main Terminal",
+    "location_description": "Sala Aspire em Helsinki (proxima ao gate 13).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aspirelounges.com/",
+    "operator": "Aspire",
+    "source_urls": [
+      "https://www.finavia.fi/en/airports/helsinki-airport/services/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "DUPLICATA do #320 'ASPIRE Lounge @ Gate13 HEL' (id f06e76bb, batch 32) - mesma sala Aspire em Helsinki. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "df27f4ac-0e3f-4791-9a12-e8ce46b80fee",
+    "name": "Plaza Premium Lounge (West Hall, Gate 60) - Hong Kong",
+    "airport_iata": "HKG",
+    "airport_name": "Hong Kong International Airport (HKG)",
+    "terminal": "Terminal 1 (West Hall)",
+    "location_description": "Terminal 1, West Hall, proximo ao gate 60 (Departures Level L7).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/china-regions/hong-kong/hong-kong/hong-kong-international-airport",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/HKG/Plaza-Premium-Lounge-Gate-60--Terminal-1-qbC3ylgCV4/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Plaza Premium West Hall (gate 60, L7), 24h. HKG tem multiplas Plaza Premium (Gate 1/East, Gate 35, Gate 60/West) - este e a West Hall (distinta do #330 gate 35). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2fa6ca0b-27b1-4705-bfbb-4cb80db75d02",
+    "name": "Chase Sapphire Lounge by The Club - JFK (T4)",
+    "airport_iata": "JFK",
+    "airport_name": "John F. Kennedy International Airport (New York)",
+    "terminal": "Terminal 4",
+    "location_description": "Terminal 4, area de embarque internacional.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso para titulares Chase Sapphire Reserve e Priority Pass (via Chase), com restricoes.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.chase.com/",
+    "operator": "Chase / The Club (Airport Dimensions)",
+    "source_urls": [
+      "https://www.loungebuddy.com/JFK"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Chase Sapphire Lounge by The Club no T4 (aberta em 2023). Acesso para Chase Sapphire Reserve e Priority Pass (Chase). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a3afa24d-05c9-41a2-87dc-554673ad64a9",
+    "name": "Living Heineken - Guarulhos T3 (bar, nao e lounge)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 3",
+    "location_description": "Area de embarque internacional T3 - bar/restaurante da marca Heineken.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "bar"
+    ],
+    "accepted_programs": [
+      "lounge_voucher",
+      "visa_airport_companion",
+      "priority_pass"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Voucher de consumo via Visa Airport Companion / Priority Pass (credito), nao acesso a sala VIP.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Heineken/concessionaria",
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken (voucher de consumo). 5o registro deste tipo (ver CNF/BSB/CWB/FLN). Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "67991187-f1c0-43fb-9a96-1651690cd2be",
+    "name": "Korean Air Prestige Class Lounge (West) - Seoul Incheon (T2)",
+    "airport_iata": "ICN",
+    "airport_name": "Incheon International Airport (Seoul)",
+    "terminal": "Terminal 2 (West)",
+    "location_description": "Terminal 2, area oeste. Lounge Prestige (Business) da Korean Air.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.koreanair.com/",
+    "operator": "Korean Air",
+    "source_urls": [
+      "https://www.koreanair.com/contents/plan-your-travel/airport/lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Korean Air Prestige Class Lounge (West) no Terminal 2 de ICN. Korean integra a SkyTeam. Ha tambem a First Class Lounge e a Miler Club. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d8f5b7a8-7601-4df1-b055-448c9b041f9f",
+    "name": "Plaza Premium Lounge - Helsinki",
+    "airport_iata": "HEL",
+    "airport_name": "Helsinki Airport (HEL)",
+    "terminal": "Main Terminal (Non-Schengen)",
+    "location_description": "Area Non-Schengen, nivel mezanino, proximo ao gate 40 (~445 m2, vista para a pista).",
+    "hours_open_text": "Seg-Sab 06:00-00:00; Dom 10:00-00:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "tarmac_view",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.finavia.fi/en/airports/helsinki-airport/lounges/plaza-premium-lounge",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/lounges/finland/helsinki-vantaa/hel7-plaza-premium-lounge",
+      "https://www.finavia.fi/en/airports/helsinki-airport/lounges/plaza-premium-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Plaza Premium HEL (non-Schengen, perto do gate 40), 445 m2, 140 lugares, vista para a pista. Distinta das salas Aspire (#320/#324) e da Finnair. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ea025a4d-e10f-4ede-8655-7d79ae0eb362",
+    "name": "Plaza Premium Lounge (Gate 35) - Hong Kong",
+    "airport_iata": "HKG",
+    "airport_name": "Hong Kong International Airport (HKG)",
+    "terminal": "Terminal 1 (Main Concourse)",
+    "location_description": "Terminal 1, Main Concourse, proximo ao gate 35 (Departures Level L6).",
+    "hours_open_text": "06:00-01:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/HKG/Plaza-Premium-Lounge-Gate-35--Terminal-1-yukt20iH1W/",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/HKG/Plaza-Premium-Lounge-Gate-35--Terminal-1-yukt20iH1W/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Plaza Premium (gate 35, L6, Main Concourse). Distinta da West Hall (gate 60, #325 id df27f4ac) e da East Hall (gate 1). Ha tambem Plaza Premium First no gate 35. Foto anterior generica removida."
+  }
+]

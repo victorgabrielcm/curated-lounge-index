@@ -1366,5 +1366,32 @@
     "recommended_action": "merge",
     "related_id_hint": "b2fa6779",
     "detail": "DUPLICATA/variante: 'VIP Club Express' (Piers Norte/Sul) e extensao do Aeroportos VIP Club de BSB (#235 id b2fa6779). Consolidar com os demais registros VIP Club de Brasilia. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0c230618-f333-44fc-965a-60de10f708bd",
+    "name": "Saudia Alfursan Domestic Golden Lounge - Jeddah",
+    "airport_iata": "JED",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: base indica 'South Terminal' (antiga denominacao); hoje a Saudia opera no Terminal 1 (gate A05). Alfursan Domestic Golden Lounge (Saudia/SkyTeam). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b8028f30-14c1-486f-ab28-2f4c30b51403",
+    "name": "Aspire Lounge - Helsinki (duplicata)",
+    "airport_iata": "HEL",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "f06e76bb",
+    "detail": "DUPLICATA do #320 'ASPIRE Lounge @ Gate13 HEL' (id f06e76bb, batch 32) - mesma sala Aspire em Helsinki. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a3afa24d-05c9-41a2-87dc-554673ad64a9",
+    "name": "Living Heineken - Guarulhos T3 (bar, nao e lounge)",
+    "airport_iata": "GRU",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken (voucher de consumo). 5o registro deste tipo (ver CNF/BSB/CWB/FLN). Recomendado remover/recategorizar. Foto anterior generica removida."
   }
 ]
