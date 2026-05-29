@@ -1,0 +1,487 @@
+[
+  {
+    "lounge_id": "835d30c9-fe92-4baf-a934-697c579e4173",
+    "name": "Delta One Lounge - JFK (T4)",
+    "airport_iata": "JFK",
+    "airport_name": "John F. Kennedy International Airport (New York)",
+    "terminal": "Terminal 4",
+    "location_description": "Terminal 4, entre os concourses A e B, junto ao controle de seguranca principal (~39.000 sq ft).",
+    "hours_open_text": "04:30-23:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "wine",
+      "shower",
+      "spa",
+      "massage",
+      "outdoor_terrace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "delta_one",
+      "delta_skymiles_elite"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": "Bilhete Delta One / Delta 360 em First no mesmo dia; First/Business internacional de parceiros (KLM, Air France, Virgin Atlantic, Korean, LATAM). Nao acessivel com Amex/Sky Club.",
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.delta.com/us/en/delta-sky-club/delta-one-lounge",
+    "operator": "Delta Air Lines",
+    "source_urls": [
+      "https://news.delta.com/delta-one-lounge-new-york-jfk-ushers-new-era-premium-travel-airline",
+      "https://pointstoseats.com/2025/02/06/lounge-review-delta-one-lounge-new-york-jfk/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 66,
+    "notes": "Delta One Lounge JFK (T4), aberta em fev/2025: brasserie (Danny Meyer), spa, terraco. REAL e operante - diferente da Delta One ATL (#153, ainda nao construida). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "925d5453-e5c0-4771-98dc-b122c0242d17",
+    "name": "Asiana First Class Lounge (East) - Seoul Incheon (T1)",
+    "airport_iata": "ICN",
+    "airport_name": "Incheon International Airport (Seoul)",
+    "terminal": "Terminal 1 (East)",
+    "location_description": "Terminal 1, lado leste. Lounge de Primeira Classe da Asiana.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_first",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://flyasiana.com/",
+    "operator": "Asiana Airlines",
+    "source_urls": [
+      "https://flyasiana.com/C/US/EN/contents/lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Asiana First Class Lounge (East) no T1 de ICN. Obs: a Asiana esta em processo de integracao com a Korean Air (fusao); estrutura de lounges pode mudar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "42e7c889-b05e-417d-bb95-b7aa507a92aa",
+    "name": "SkyTeam Lounge - Istanbul (FECHADA - incendio)",
+    "airport_iata": "IST",
+    "airport_name": "Istanbul Airport (IST)",
+    "terminal": "International (West Wing, Level H)",
+    "location_description": "West Wing, Level H. Atingida por incendio - encontra-se fechada; clientes elegiveis sao direcionados a IGA Lounge.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.skyteam.com/en/lounges/",
+    "operator": "SkyTeam",
+    "source_urls": [
+      "https://www.skyteam.com/en/lounges/",
+      "https://loungereview.com/lounges/skyteam-lounge-ist/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 20,
+    "notes": "FECHADA: a SkyTeam Lounge de Istanbul foi atingida por um incendio e esta fechada; clientes elegiveis sao direcionados a IGA Lounge. Verificar reabertura. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "cd127625-acfc-414d-8365-ff178a7dc85b",
+    "name": "Turkish Airlines Business Lounge - Istanbul",
+    "airport_iata": "IST",
+    "airport_name": "Istanbul Airport (IST)",
+    "terminal": "International (airside)",
+    "location_description": "Area internacional. Sala Business da Turkish (a direita; a Miles&Smiles fica a esquerda).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "games_room",
+      "cinema",
+      "sleep_area",
+      "relaxation_area",
+      "workspace",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": "Sem convidados na Business Lounge (convidados apenas na Miles&Smiles).",
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.turkishairlines.com/en-us/flights/fly-different/turkish-airlines-lounge",
+    "operator": "Turkish Airlines",
+    "source_urls": [
+      "https://www.travelguys.fr/en/2024/03/21/turkish-airlines-business-lounge-in-istanbul-international-more-pleasant-than-the-milessmiles-lounge/",
+      "https://theaircraftking.com/2025/03/22/review-turkish-airlines-business-class-lounge-istanbul-ist/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Turkish Business Lounge IST (enorme; simulador de voo/golfe, galeria de arte, golfe). Distinta da Miles&Smiles (#347, mirror image). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "5a0f8801-f887-4a03-a21b-417542f51909",
+    "name": "Matina Lounge - Seoul Incheon (T1)",
+    "airport_iata": "ICN",
+    "airport_name": "Incheon International Airport (Seoul)",
+    "terminal": "Terminal 1 (West)",
+    "location_description": "Terminal 1, lado oeste, proximo ao gate 43.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.airport.kr/",
+    "operator": "Walkerhill / Matina",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/south-korea/seoul-incheon-international/icn13-matina"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "Matina Lounge (T1 West, perto do gate 43) - sala contratada Priority Pass. Distinta da Matina Gold/Walkerhill (#338, premium, T2). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d02f41a3-222b-40b5-ab1f-a2f92540234c",
+    "name": "Malaysia Airlines Golden Lounge (Platinum) - KL Satellite",
+    "airport_iata": "KUL",
+    "airport_name": "Kuala Lumpur International Airport (KUL)",
+    "terminal": "KLIA Satellite Terminal",
+    "location_description": "Satellite Terminal (KLIA). Golden Lounge Platinum/First da Malaysia Airlines.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "spa",
+      "sleep_area",
+      "relaxation_area",
+      "workspace",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_first",
+      "oneworld_emerald",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "http://www.malaysiaairlines.com/us/en/experience/golden-lounge/klia_satellite_platinum.html",
+    "operator": "Malaysia Airlines",
+    "source_urls": [
+      "http://www.malaysiaairlines.com/us/en/experience/golden-lounge/klia_satellite_platinum.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Golden Lounge Platinum (First/oneworld Emerald) no Satellite Terminal do KLIA. Distinta da Golden Lounge Regional (#319, Contact Pier). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a667995f-b062-4a53-81d2-fcf18e2205c1",
+    "name": "Turkish Airlines Miles & Smiles Lounge - Istanbul",
+    "airport_iata": "IST",
+    "airport_name": "Istanbul Airport (IST)",
+    "terminal": "International (airside)",
+    "location_description": "Area internacional, a esquerda (espelho da Business Lounge, a direita).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "sleep_area",
+      "relaxation_area",
+      "workspace",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "miles_and_more_senator",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": "Permite convidados (1) - diferente da Business Lounge.",
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "http://turkishairlines.com",
+    "operator": "Turkish Airlines",
+    "source_urls": [
+      "https://liveandletsfly.com/turkish-miles-smiles-lounge-istanbul-review/",
+      "https://seeingtheworldinsteps.com/2024/11/06/tk-affair-turkish-airlines-miles-and-smiles-istanbul-lounge-review-ist-turkey/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Turkish Miles & Smiles Lounge IST (Elite/Elite Plus M&S + Star Alliance Gold) - imagem espelhada da Business Lounge (#344). Permite 1 convidado. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "672ba831-37da-4de3-84c1-f43dc35ac671",
+    "name": "GOL Premium / Smiles Lounge - Guarulhos T2 (Domestico)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 2 (Domestico)",
+    "location_description": "Terminal 2, area de embarque domestico, lado oeste.",
+    "hours_open_text": "06:00-00:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "smiles_diamante",
+      "gol_premium_economy",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.voegol.com.br/en-US/nh/servicos-gol/lounge-gol-smiles",
+    "operator": "GOL/Smiles",
+    "source_urls": [
+      "https://www.voegol.com.br/en-US/nh/servicos-gol/lounge-gol-smiles",
+      "https://www.gru.com.br/pt/passageiro/descubra-gru/conforto/salas-vip"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Registro 'Sala VIP Smiles Diamante GRU' -> e o GOL Premium Lounge (T2 domestico, lado oeste): Smiles Diamante/Ouro + GOL Premium + Mastercard Smiles Platinum. Corrigir nome/operadora. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7bb5e44d-9986-4db2-a659-3e6d6070f495",
+    "name": "Clubrooms by No1 Lounges - Gatwick (South)",
+    "airport_iata": "LGW",
+    "airport_name": "London Gatwick Airport (LGW)",
+    "terminal": "South Terminal",
+    "location_description": "South Terminal, proximo ao gate 17. Produto premium 'Clubrooms' da No1 Lounges.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "bar",
+      "wine",
+      "champagne",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use",
+      "priority_pass"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.no1lounges.com/gatwick/clubrooms-gatwick/",
+    "operator": "No1 Lounges",
+    "source_urls": [
+      "https://www.no1lounges.com/gatwick/clubrooms-gatwick/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Clubrooms (No1 Lounges) - produto premium com servico a mesa, South Terminal de Gatwick (perto do gate 17). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0cad4d2d-4f65-477b-b050-bdc79bd0f05f",
+    "name": "JAL Sakura Lounge - Tokyo Haneda (T1)",
+    "airport_iata": "HND",
+    "airport_name": "Tokyo Haneda Airport (HND)",
+    "terminal": "Terminal 1 (South Wing, 3F)",
+    "location_description": "Terminal 1, South Wing, 3o andar. Lounge domestico JAL (Sakura).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "coffee",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "http://www.jal.co.jp",
+    "operator": "Japan Airlines",
+    "source_urls": [
+      "https://www.jal.co.jp/en/dom/service/lounge/haneda/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "JAL Sakura Lounge no Haneda T1 (South Wing 3F) - terminal domestico JAL; oneworld Emerald/Sapphire. Ha tambem Sakura Lounges no terminal internacional (T3). Foto anterior generica removida."
+  }
+]

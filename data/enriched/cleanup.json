@@ -1411,5 +1411,14 @@
     "recommended_action": "merge",
     "related_id_hint": null,
     "detail": "Registro generico 'Departure Lounge' em LGW. Gatwick tem No1 Lounge, My Lounge, Club Aspire (South) e Plaza Premium (#323). Provavel duplicata/nome generico - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "42e7c889-b05e-417d-bb95-b7aa507a92aa",
+    "name": "SkyTeam Lounge - Istanbul (FECHADA - incendio)",
+    "airport_iata": "IST",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "FECHADA: a SkyTeam Lounge de Istanbul foi atingida por um incendio e esta fechada; clientes elegiveis sao direcionados a IGA Lounge. Verificar reabertura. Foto anterior generica removida."
   }
 ]
