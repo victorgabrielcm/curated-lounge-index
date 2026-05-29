@@ -1,0 +1,503 @@
+[
+  {
+    "lounge_id": "c1eb8b37-e3b4-4e70-9fbc-3cff528f73db",
+    "name": "ITA Airways Lounge Piazza di Spagna - Rome Fiumicino (T3 Non-Schengen)",
+    "airport_iata": "FCO",
+    "airport_name": "Aeroporto di Roma-Fiumicino Leonardo da Vinci (FCO)",
+    "terminal": "Terminal 3 (Non-Schengen)",
+    "location_description": "Terminal 3, area non-Schengen apos o controle de passaportes, Pier E, proximo ao gate E11.",
+    "hours_open_text": "06:00-23:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "relaxation_area",
+      "tv",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.ita-airways.com/en_en/fly-ita/additional-services/extra/lounges/piazza-di-spagna.html",
+    "operator": "ITA Airways",
+    "source_urls": [
+      "https://www.ita-airways.com/en_en/fly-ita/additional-services/extra/lounges/piazza-di-spagna.html",
+      "https://onemileatatime.com/reviews/ita-airways-lounge-rome/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Sala Piazza di Spagna da ITA Airways no T3 non-Schengen de FCO (>1000 m2), perto do gate E11. Ha tambem a Hangar Lounge (Schengen), registro distinto. SkyTeam Elite Plus/Business. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d946e6fe-bce5-4ca8-a315-a7aec9f29cff",
+    "name": "Austrian Airlines Business Lounge (Non-Schengen) - Vienna",
+    "airport_iata": "VIE",
+    "airport_name": "Vienna International Airport (VIE)",
+    "terminal": "Terminal 3 (Non-Schengen, G-Gates)",
+    "location_description": "Nivel 3, zona non-Schengen junto aos gates G, em frente ao Austrian Service Center. Sala nova (nov/2024).",
+    "hours_open_text": "05:30-23:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "relaxation_area",
+      "runway_view",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "star_alliance_business",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso avulso a partir de ~EUR 44.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.austrian.com/us/en/lounges-vienna-airport",
+    "operator": "Austrian Airlines",
+    "source_urls": [
+      "https://www.austrian.com/us/en/lounges-vienna-airport",
+      "https://runwaygirlnetwork.com/2024/11/austrian-non-schengen-lounge-vienna/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Austrian Business Lounge non-Schengen em VIE (Nivel 3, gates G), inaugurada em nov/2024, catering Do & Co. Star Alliance Gold/Business. Ha tambem a Senator Lounge (registro distinto). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9f78a1de-56ce-418e-81ea-d1f53633f472",
+    "name": "No. 137 China Eastern VIP Lounge - Shanghai Pudong (S1 Satellite)",
+    "airport_iata": "PVG",
+    "airport_name": "Shanghai Pudong International Airport (PVG)",
+    "terminal": "Satellite Terminal S1 (Internacional)",
+    "location_description": "Hall Satelite S1, 5o andar, proximo ao gate G137 (apos o trem de transferencia).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "shower",
+      "sleep_rooms",
+      "massage",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso avulso a partir de ~CNY 302.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/china-regions/mainland-china/shanghai/shanghai-pudong-international-airport/no-137-vip-lounge",
+    "operator": "China Eastern Airlines",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/en-uk/find/china-regions/mainland-china/shanghai/shanghai-pudong-international-airport/no-137-vip-lounge",
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/PVG/China-Eastern-Airlines-No-137-VIP-Lounge-Terminal-S1-International-Yr1ChRHUM8"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Sala No. 137 da China Eastern (SkyTeam) no Satelite S1 internacional de PVG, 5o andar perto do gate G137, com quartos de descanso/massagem. SkyTeam Elite Plus/Business. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "fe0b3845-eb51-4d89-9cbd-ba2ca883837c",
+    "name": "Juneyao Air First & Business Class Lounge - Shanghai Pudong (T2)",
+    "airport_iata": "PVG",
+    "airport_name": "Shanghai Pudong International Airport (PVG)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, area de embarque. A Juneyao opera as salas No. 72 (gates D71-75) e No. 86 (gate C80).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "shower",
+      "luggage_storage",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "star_alliance_gold",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/china/shanghai-pudong-international/pvg14-juneyao-air-lounge-no86",
+    "operator": "Juneyao Air",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/china/shanghai-pudong-international/pvg14-juneyao-air-lounge-no86",
+      "https://www.prioritypass.com/en-GB/lounges/china/shanghai-pudong-international/pvg20-juneyao-air-lounge-no-72"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "CONFLITO: registro rotulado 'Lounge 80', mas a Juneyao Air opera no T2 de PVG as salas No. 72 (gates D71-75) e No. 86 (gate C80) - nao ha 'No. 80' confirmada; provavel confusao de numero. Salas Star Alliance Gold/Business/Priority Pass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2ff817e8-926c-42e4-a7d1-f6176862c33c",
+    "name": "LATAM VIP Lounge - Santiago (SCL Terminal 2 Internacional)",
+    "airport_iata": "SCL",
+    "airport_name": "Aeropuerto Internacional Arturo Merino Benitez (Santiago, SCL)",
+    "terminal": "Terminal 2 (Internacional)",
+    "location_description": "Terminal 2, piso de embarque internacional (3o andar), proximo ao duty-free. Maior lounge da America do Sul (Premium/Signature/WorldMember).",
+    "hours_open_text": "24h (apenas secao Premium; Signature 05:00-00:00)",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "sleep_area",
+      "kids_area",
+      "workspace",
+      "luggage_storage",
+      "clothes_pressing",
+      "relaxation_area",
+      "tv",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "latam_business",
+      "latam_pass_black",
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.latamairlines.com/us/en/experience/airport/lounges-and-facilities/santiago",
+    "operator": "LATAM Airlines",
+    "source_urls": [
+      "https://www.latamairlines.com/us/en/experience/airport/lounges-and-facilities/santiago",
+      "https://upgradedpoints.com/travel/airports/latam-vip-lounge-santiago-scl-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Sala VIP propria da LATAM no T2 internacional de SCL (hub) - maior da America do Sul, com secoes Premium/Signature/WorldMember. Premium 24h; permanencia ~3h. oneworld Emerald/Sapphire + LATAM Business/Black. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3b658f05-7cc3-4a9d-a539-89266b72253b",
+    "name": "The Centurion Lounge - Sydney (T1 International)",
+    "airport_iata": "SYD",
+    "airport_name": "Sydney Kingsford Smith Airport (SYD)",
+    "terminal": "Terminal 1 (International)",
+    "location_description": "Terminal 1 internacional, embarque, descer ao Nivel 1 perto dos gates 50-63.",
+    "hours_open_text": "06:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.americanexpress.com/en-au/travel/lounges/the-platinum-card/SYD/the-centurion-lounge-terminal-1-international-NzK3EJi2uS",
+    "operator": "American Express",
+    "source_urls": [
+      "https://www.americanexpress.com/en-au/travel/lounges/the-platinum-card/SYD/the-centurion-lounge-terminal-1-international-NzK3EJi2uS",
+      "https://upgradedpoints.com/travel/airports/amex-centurion-lounge-syd-sydney/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Amex Centurion Lounge (ex-American Express Lounge) no T1 internacional de SYD, perto dos gates 50-63, 06:00-22:00. Para titulares Amex Platinum/Centurion. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "34691f7e-cfcf-42a0-bb4e-02aae93fdca1",
+    "name": "No. 35 China Eastern Lounge - Shanghai Pudong (T1 Domestico)",
+    "airport_iata": "PVG",
+    "airport_name": "Shanghai Pudong International Airport (PVG)",
+    "terminal": "Terminal 1 (Domestico)",
+    "location_description": "Terminal 1 domestico, airside, 4o andar (4F), ~94 m do Security Gate 4.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso avulso a partir de ~CNY 230.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/china-regions/mainland-china/shanghai/shanghai-pudong-international-airport/no35-china-eastern",
+    "operator": "China Eastern Airlines",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/en-uk/find/china-regions/mainland-china/shanghai/shanghai-pudong-international-airport/no35-china-eastern",
+      "https://www.prioritypass.com/lounges/china/shanghai-pudong-international/pvg15-china-eastern-airlines-no35-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Sala No. 35 da China Eastern no T1 domestico de PVG (4F, perto do Security Gate 4). SkyTeam Elite Plus/Business domestico + Amex Platinum (em voo MU/FM). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a1b2fbf0-525b-4fcd-b351-229b2c5dd826",
+    "name": "Plaza Premium Lounge - Riyadh (RUH Terminal 1 Internacional)",
+    "airport_iata": "RUH",
+    "airport_name": "King Khalid International Airport (Riyadh, RUH)",
+    "terminal": "Terminal 1 (Internacional)",
+    "location_description": "Terminal 1, area de embarque internacional, mezanino (airside), em frente ao gate 108.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "shower",
+      "prayer_room",
+      "kids_area",
+      "luggage_storage",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 120,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso avulso a partir de ~USD 44.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/india-middle-east-south-africa/saudi-arabia/riyadh/riyadh-king-khalid-international-airport/international-departures-terminal-one",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/en-uk/find/india-middle-east-south-africa/saudi-arabia/riyadh/riyadh-king-khalid-international-airport/international-departures-terminal-one",
+      "https://www.prioritypass.com/en-GB/lounges/saudi-arabia/king-khalid-international/ruh12-plaza-premium-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 55,
+    "notes": "CONFLITO: registro rotulado 'Premier Lounge', mas o nome em arabe (بلازا بريميوم لاونج) e o real significam Plaza Premium Lounge - sala internacional do T1 de RUH (mezanino, em frente ao gate 108), 24h. Priority Pass/pago. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1e05de46-0912-4b19-9878-f4e757e71b98",
+    "name": "Qantas Singapore Lounge (Business/First) - Changi T1",
+    "airport_iata": "SIN",
+    "airport_name": "Singapore Changi Airport (SIN)",
+    "terminal": "Terminal 1 (Departure Transit)",
+    "location_description": "Terminal 1, airside, Nivel 3, Departure Transit Hall, proximo aos gates D.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "tv",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class",
+      "oneworld_first"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qantas.com/au/en/frequent-flyer/discover-and-join/qantas-lounges/international-network/singapore.html",
+    "operator": "Qantas",
+    "source_urls": [
+      "https://mainlymiles.com/2025/10/26/qantas-extends-singapore-first-and-business-lounge-opening-hours/",
+      "https://theshutterwhale.com/blog/2024/9/27/lounge-review-qantas-international-business-lounge-terminal-1-singapore-changi-airport-sin"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Qantas Singapore Lounge no T1 de Changi (Nivel 3, Departure Transit, gates D) - ha duas areas: First (oneworld Emerald) e Business (oneworld Sapphire/Business), com horarios variaveis por dia. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1a55ac94-69b6-44e1-a7fb-849b9ef90d1a",
+    "name": "VIP Service Club Continental - Prague (PRG T1)",
+    "airport_iata": "PRG",
+    "airport_name": "Vaclav Havel Airport Prague (PRG)",
+    "terminal": "Terminal 1 (airside)",
+    "location_description": "Terminal 1, airside. Servico VIP privativo (assist/meet-and-greet) com salas reservadas por grupo, nao lounge de embarque comum.",
+    "hours_open_text": "06:00-00:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "kids_area",
+      "private_rooms",
+      "relaxation_area",
+      "tv",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Servico VIP privativo a partir de ~CZK 5.500 por grupo (ate 10 pessoas).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prg.aero/en/vip-service-club-continental",
+    "operator": "Vaclav Havel Airport Prague",
+    "source_urls": [
+      "https://www.prg.aero/en/vip-service-club-continental",
+      "https://www.prg.aero/en/lounges-and-vip-service"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "NAO E UMA SALA de embarque comum: Club Continental e o servico VIP privativo (meet-and-greet, passagem privada por seguranca, transfer ao aviao) do aeroporto de Praga, com salas reservadas por grupo e preco por reserva (~CZK 5.500). Distinto das lounges Mastercard/Plaza Premium. Foto anterior generica removida."
+  }
+]
