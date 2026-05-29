@@ -628,5 +628,41 @@
     "recommended_action": "merge",
     "related_id_hint": "36721cfa",
     "detail": "DUPLICATA: 'Sala VIP Campo Grande' e o 3o registro para a unica sala de CGR (Advantage VIP Lounge) - ver tambem #163 (id 36721cfa) e #168 (id 2f991eb8). Mesclar todos. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f9b19274-9ca5-4fe6-9d15-da483147e204",
+    "name": "THAI Royal Orchid Spa & Lounge - Bangkok",
+    "airport_iata": "BKK",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: base indica Concourse F, mas os lounges Thai ficam no Concourse D. Alem disso, o Royal Orchid Spa (massagem cortesia) segue indisponivel desde a pandemia; a Thai nao mantem hoje uma First Lounge dedicada (apenas area para First/ROP Platinum). Verificar/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "405c74f6-fd66-4c87-8118-fe9300651b29",
+    "name": "Sala VIP Pau Casals - Barcelona T1",
+    "airport_iata": "BCN",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: base indica 'internacional', mas a Pau Casals atende voos SCHENGEN (gates A/B/C). Eleita Best Lounge in the World 2013 (Priority Pass); tem slumber room e chuveiros. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e91f2f24-11db-418a-a8f0-3eff475b0df0",
+    "name": "LATAM VIP Lounge BSB (a verificar existencia)",
+    "airport_iata": "BSB",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: a LATAM nao opera sala propria em BSB. Lounges documentados: Aeroportos VIP Club, GOL Premium/Smiles, AA Admirals. Provavel mapeamento incorreto - corrigir/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e2ad2b96-6095-44c8-b7c2-a9f3a1a1faae",
+    "name": "Plaza Premium Lounge CNF (a verificar existencia)",
+    "airport_iata": "CNF",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: nao ha Plaza Premium em CNF. Lounges de Confins: Ambaar (dom/intl), Advantage VIP e BRT Lounge. Plaza Premium no Brasil esta em GRU. Provavel mapeamento incorreto. Foto anterior generica removida."
   }
 ]

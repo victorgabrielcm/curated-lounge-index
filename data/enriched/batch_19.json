@@ -1,0 +1,488 @@
+[
+  {
+    "lounge_id": "8cdbb635-9634-4fa2-ae9e-2b212d3cf78d",
+    "name": "SWISS Alpine Lounge - Zurich (A Gates)",
+    "airport_iata": "ZRH",
+    "airport_name": "Zurich Airport (ZRH)",
+    "terminal": "Terminal A (Gates A)",
+    "location_description": "Zona A (Schengen). Tema de chale alpino; ~500 m2, 96 lugares. Sem chuveiros.",
+    "hours_open_text": "05:30-18:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "swiss_business",
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.swiss.com/ch/en/fly/airport/lounges/lounges-zurich",
+    "operator": "SWISS",
+    "source_urls": [
+      "https://onemileatatime.com/reviews/swiss-alpine-lounge-zurich/",
+      "https://thealviator.com/2026/04/swiss-alpine-lounge-zurich/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Lounge Business da SWISS (tematica alpina) nos Gates A (Schengen), para passageiros Business e Star Alliance Gold da SWISS/Lufthansa/Austrian. Nao possui chuveiros. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f9b19274-9ca5-4fe6-9d15-da483147e204",
+    "name": "THAI Royal Orchid Spa & Lounge - Bangkok",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse D (base indica F)",
+    "location_description": "Lounges premium da Thai ficam no Concourse D (nivel 3, perto do gate D4). O Royal Orchid Spa segue indisponivel.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "massage",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_first",
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.thaiairways.com/en-th/content/travel-class/royal-silk/",
+    "operator": "Thai Airways",
+    "source_urls": [
+      "https://liveandletsfly.com/thai-airways-royal-orchid-spa-review/",
+      "https://onemileatatime.com/reviews/thai-airways-first-lounge-bangkok/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 38,
+    "notes": "CONFLITO: base indica Concourse F, mas os lounges Thai ficam no Concourse D. Alem disso, o Royal Orchid Spa (massagem cortesia) segue indisponivel desde a pandemia; a Thai nao mantem hoje uma First Lounge dedicada (apenas area para First/ROP Platinum). Verificar/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "405c74f6-fd66-4c87-8118-fe9300651b29",
+    "name": "Sala VIP Pau Casals - Barcelona T1",
+    "airport_iata": "BCN",
+    "airport_name": "Aeroporto de Barcelona-El Prat (Josep Tarradellas)",
+    "terminal": "Terminal 1 (area Schengen)",
+    "location_description": "T1, Nivel 2, gates A/B/C (area Schengen). Apos a seguranca, descer ao Sky Center e virar a direita; seguir sinais VIP e subir.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "sleep_area",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "loungekey",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Liberado ate 4h antes do voo.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat/vip-services/vip-lounges/pau-casals-vip-lounge.html",
+    "operator": "Aena",
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/lounges/spain/barcelona-el-prat/bcn8-sala-vip-pau-casals",
+      "https://serviciosvip.aena.es/vip/en/aeropuertos/josep-tarradellas-barcelona-el-prat/salas-vip/pau-casals"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 62,
+    "notes": "CONFLITO: base indica 'internacional', mas a Pau Casals atende voos SCHENGEN (gates A/B/C). Eleita Best Lounge in the World 2013 (Priority Pass); tem slumber room e chuveiros. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ce35a13e-dee8-4a10-9844-12decb806975",
+    "name": "Goldair Handling Lounge - Athens",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "Main Terminal",
+    "location_description": "Goldair opera duas salas: intra-Schengen (Nivel 1, em frente ao gate B13) e extra-Schengen (terminal satelite). Registro generico.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.goldair-handling.gr/our-services/lounges/",
+    "operator": "Goldair Handling",
+    "source_urls": [
+      "https://www.goldair-handling.com/our-services/lounges/athens-international-airport-intra-schengen/",
+      "https://onemileatatime.com/reviews/goldair-lounge-athens-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Goldair opera salas intra-Schengen (gate B13) e extra-Schengen (satellite) em ATH - registro generico, verificar a qual corresponde. Max 3h. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6430d4ac-dffd-4838-b872-556fe65cd1ee",
+    "name": "GOL Premium / Smiles Lounge - Brasilia",
+    "airport_iata": "BSB",
+    "airport_name": "Aeroporto Internacional de Brasilia (Juscelino Kubitschek)",
+    "terminal": "Terminal 1",
+    "location_description": "Area de embarque internacional, terreo, ao lado da Duty Free Dufry.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "smiles_diamante",
+      "gol_premium_economy",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.smiles.com.br/sala-vip",
+    "operator": "GOL/Smiles",
+    "source_urls": [
+      "https://www.melhoresdestinos.com.br/gol-smiles-sala-vip-brasilia.html",
+      "https://www.smiles.com.br/sala-vip"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Registro 'Sala VIP Smiles Diamante' -> sala internacional acessivel a clientes Smiles Ouro/Diamante e GOL Premium em voos internacionais saindo de BSB (24h). Corrigir nome/operadora. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e91f2f24-11db-418a-a8f0-3eff475b0df0",
+    "name": "LATAM VIP Lounge BSB (a verificar existencia)",
+    "airport_iata": "BSB",
+    "airport_name": "Aeroporto Internacional de Brasilia (Juscelino Kubitschek)",
+    "terminal": "Terminal 1",
+    "location_description": "Existencia de sala LATAM propria em BSB nao confirmada.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "latam_pass_elite",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://airport.mastercard.com/pt/lounge-finder/airport?airportcode=BSB"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 25,
+    "notes": "VERIFICAR EXISTENCIA: a LATAM nao opera sala propria em BSB. Lounges documentados: Aeroportos VIP Club, GOL Premium/Smiles, AA Admirals. Provavel mapeamento incorreto - corrigir/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1fbb3008-78b2-4468-8970-2f702a145aa3",
+    "name": "Delta Sky Club - Atlanta (Concourse F)",
+    "airport_iata": "ATL",
+    "airport_name": "Hartsfield-Jackson Atlanta International Airport (ATL)",
+    "terminal": "Concourse F (Internacional)",
+    "location_description": "Concourse F (lado internacional), nivel mezanino (um andar acima das partidas). Dois andares + terraco ao ar livre (~2.000 sq ft).",
+    "hours_open_text": "06:45-00:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "outdoor_terrace",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "delta_skymiles_elite",
+      "delta_one",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.delta.com/us/en/delta-sky-club/locations",
+    "operator": "Delta Air Lines",
+    "source_urls": [
+      "https://liveandletsfly.com/delta-sky-club-atlanta-atl-f-review/",
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/ATL/Delta-Sky-Club-Concourse-F-P7OlISdHvO/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 62,
+    "notes": "Sky Club do Concourse F (voos internacionais de longo curso): 2 andares, grande area de jantar e terraco ao ar livre com vista para a pista. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e2ad2b96-6095-44c8-b7c2-a9f3a1a1faae",
+    "name": "Plaza Premium Lounge CNF (a verificar existencia)",
+    "airport_iata": "CNF",
+    "airport_name": "Aeroporto Internacional de Belo Horizonte (Confins)",
+    "terminal": "Terminal 1",
+    "location_description": "Existencia de Plaza Premium em CNF nao confirmada.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/pt-BR/lounges/brazil/belo-horizonte-confins-intl"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 25,
+    "notes": "VERIFICAR EXISTENCIA: nao ha Plaza Premium em CNF. Lounges de Confins: Ambaar (dom/intl), Advantage VIP e BRT Lounge. Plaza Premium no Brasil esta em GRU. Provavel mapeamento incorreto. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "5a5a3809-2e7c-4a40-9c4f-c338d7ab841b",
+    "name": "SWISS First Lounge - Zurich (A Gates)",
+    "airport_iata": "ZRH",
+    "airport_name": "Zurich Airport (ZRH)",
+    "terminal": "Terminal A (Gates A)",
+    "location_description": "Gates A, Nivel 2 (area Schengen). Versao Schengen da First Lounge (menor que a dos Gates E).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "champagne",
+      "wine",
+      "bar",
+      "shower",
+      "sleep_area",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "swiss_first",
+      "lufthansa_first",
+      "hon_circle"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": "Titular First SWISS/LH (+2) ou HON Circle (+2).",
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.swiss.com/ch/en/fly/airport/lounges/lounges-zurich",
+    "operator": "SWISS",
+    "source_urls": [
+      "https://www.swiss.com/ch/en/fly/airport/lounges/lounges-zurich"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "First Lounge da SWISS nos Gates A (Schengen) - menor que a dos Gates E, mas com a la carte e chuveiros. Acesso First SWISS/LH ou HON Circle. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ecc5d41f-ebb6-4d98-9dc6-6882d0049cab",
+    "name": "SWISS Senator Lounge - Zurich (A Gates)",
+    "airport_iata": "ZRH",
+    "airport_name": "Zurich Airport (ZRH)",
+    "terminal": "Terminal A (Gates A)",
+    "location_description": "Gates A (area Schengen). Para Star Alliance Gold/First e Senator Miles & More.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "swiss_first",
+      "star_alliance_first",
+      "star_alliance_gold",
+      "miles_and_more_senator"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.swiss.com/ch/en/fly/airport/lounges/lounges-zurich",
+    "operator": "SWISS",
+    "source_urls": [
+      "https://www.swiss.com/ch/en/fly/airport/lounges/lounges-zurich"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Senator Lounge da SWISS nos Gates A (Schengen). Distinta da Senator Lounge dos Gates E (id b5703d13, batch 17). Foto anterior generica removida."
+  }
+]
