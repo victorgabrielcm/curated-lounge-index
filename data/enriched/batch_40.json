@@ -1,0 +1,501 @@
+[
+  {
+    "lounge_id": "c7ed1483-a79b-48ba-8366-2634d2110d8c",
+    "name": "OP Lounge (by Aspire) - Helsinki",
+    "airport_iata": "HEL",
+    "airport_name": "Helsinki Airport (HEL)",
+    "terminal": "Main Terminal (Schengen)",
+    "location_description": "Area Schengen, um andar acima da praca de alimentacao, escada junto ao gate 22 e elevador ao lado do gate 23.",
+    "hours_open_text": "05:00-21:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aspirelounges.com/airport-lounges/helsinki-airport-op-lounge/",
+    "operator": "Aspire (Swissport)",
+    "source_urls": [
+      "https://www.loungepair.com/at/HEL/helsinki-international-airport-main-terminal-schengen-op-lounge-by-aspire/",
+      "https://loungereview.com/lounges/op-lounge-hel/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "OP Lounge operada pela Aspire/Swissport no Main Terminal (Schengen) de HEL, perto do gate 22. Acesso via Priority Pass/LoungeKey/DragonPass e walk-in. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "86940b5f-c13e-4495-b496-c86d102e8545",
+    "name": "Sky Hub Lounge - Seoul Incheon (Concourse)",
+    "airport_iata": "ICN",
+    "airport_name": "Incheon International Airport (Seoul)",
+    "terminal": "Concourse (Satellite, Terminal 1)",
+    "location_description": "Concourse (predio satelite do Terminal 1), 4o andar, lado leste, area de transito.",
+    "hours_open_text": "06:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/south-korea/seoul-incheon-international/icn10-sky-hub-lounge",
+    "operator": "Sky Hub Lounge",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/south-korea/seoul-incheon-international/icn10-sky-hub-lounge",
+      "https://blog.turis.io/en/2025/10/07/all-lounges-at-incheon-airport-terminal-1/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Sky Hub Lounge no Concourse (predio satelite do T1) de ICN, 4o andar lado leste. Ha 5 unidades Sky Hub em ICN (T1 E/W, Concourse, T2 E/W) - unidades distintas. Priority Pass/DragonPass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "28c42a13-9676-466b-87f3-27a9268dc0ff",
+    "name": "Plaza Premium Lounge - Guarulhos (Terminal 2)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 2",
+    "location_description": "Plaza Premium no T2 de GRU: unidade airside fica na area domestica (Pier Oeste, gates 209-224) e ha unidade landside antes do controle. Embarque internacional concentra-se no T3.",
+    "hours_open_text": "05:00-23:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "meeting_room",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/americas/brazil/sao-paulo/gru-airport/domestic-departures-terminal-two",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/en-uk/find/americas/brazil/sao-paulo/gru-airport/domestic-departures-terminal-two",
+      "https://www.loungepair.com/guides/guide-plaza-premium-sao-paulo-guarulhos-airport-gru/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "CONFLITO: registro descreve Plaza Premium 'apos emigracao, embarque internacional' no T2, mas a Plaza Premium airside do T2 fica na zona DOMESTICA (Pier Oeste, gates 209-224); ha tambem a unidade landside. Embarque internacional de GRU concentra-se no T3. Terminal/localizacao a corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "62cb39d6-bf17-4d74-86f6-001627d930b3",
+    "name": "Saudia Alfursan Golden Lounge (International) - Jeddah (KAIA T1)",
+    "airport_iata": "JED",
+    "airport_name": "King Abdulaziz International Airport (Jeddah)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1 (KAIA), area internacional airside. Sala Alfursan com lados First e Business; a maior sala SkyTeam.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "coffee",
+      "shower",
+      "sleep_pods",
+      "prayer_room",
+      "kids_area",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class",
+      "oneworld_first",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Walk-in pago: Business ~SAR345, First ~SAR575 (ate 6h).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.kaia.sa/Airport-Services/Lounges/Saudia-AlFursan-Lounge",
+    "operator": "Saudia",
+    "source_urls": [
+      "https://www.kaia.sa/Airport-Services/Lounges/Saudia-AlFursan-Lounge",
+      "https://samchui.com/2021/12/23/saudia-opens-new-alfursan-lounge-in-jeddah-biggest-skyteam-lounge/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "DUPLICATA/relacionado: Alfursan Lounge (internacional) no Terminal 1 de JED, 24h, First+Business, SkyTeam Elite Plus. Ha tambem a Alfursan domestica no T1 (registro distinto - ver batch_34 id 3130aa2b). Distinguir/consolidar dominio domestico vs internacional. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b84142d9-38c5-4b53-a068-3745e2fc8f53",
+    "name": "British Airways Galleries Club Lounge - London Heathrow (T5)",
+    "airport_iata": "LHR",
+    "airport_name": "London Heathrow Airport (LHR)",
+    "terminal": "Terminal 5",
+    "location_description": "Terminal 5 (T5A e T5B), area de embarque airside. Sala Club da British Airways.",
+    "hours_open_text": "05:00-22:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.britishairways.com/content/information/airport-information/london-heathrow-airport/heathrow-t5",
+    "operator": "British Airways",
+    "source_urls": [
+      "https://www.britishairways.com/content/information/airport-information/london-heathrow-airport/heathrow-t5",
+      "https://maps.heathrow.com/?poiId=357"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "British Airways Galleries Club Lounge no T5 de Heathrow (unidades em T5A Norte/Sul e T5B). Para Club Europe/Club World, BA Gold/Silver e oneworld Emerald/Sapphire. Distinta da Galleries First. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e33a32ee-7ea9-4575-8a72-f95d0c4adbd7",
+    "name": "ANA Suite Lounge - Tokyo Haneda (T2 International)",
+    "airport_iata": "HND",
+    "airport_name": "Tokyo Haneda Airport (HND)",
+    "terminal": "Terminal 2 (International)",
+    "location_description": "Terminal 2 (Internacional), 4o andar; virar a direita apos a inspecao de seguranca e subir as escadas rolantes.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "massage_chairs",
+      "business_center",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_first",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.ana.co.jp/en/jp/guide/lounge/international/hnd/",
+    "operator": "All Nippon Airways (ANA)",
+    "source_urls": [
+      "https://www.ana.co.jp/en/jp/guide/lounge/international/hnd/",
+      "https://loungereview.com/lounges/ana-suite-lounge-hnd-terminal-2-international/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "ANA Suite Lounge no T2 internacional de Haneda (4o andar), desenhada por Kengo Kuma, com Suite Dining. Tier First: Star Alliance First e ANA Diamond. Distinta da ANA Lounge (Business). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c424eb3a-2334-4090-95ce-924cd3b0d579",
+    "name": "Sala VIP TudoAzul Diamante - Guarulhos (T2)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 2",
+    "location_description": "Sem sala VIP exclusiva do programa TudoAzul em GRU. 'TudoAzul Diamante' e nivel de fidelidade que da acesso a salas parceiras/operacao da Azul, nao um lounge proprio.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "tudoazul_diamante",
+      "azul_business"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.voeazul.com.br/",
+    "operator": "Azul / TudoAzul",
+    "source_urls": [
+      "https://passageirodeprimeira.com/guia-salas-vip-guarulhos/",
+      "https://www.gru.com.br/pt/passageiro/descubra-gru/conforto/salas-vip"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 24,
+    "notes": "NAO HA LOUNGE proprio 'TudoAzul Diamante' em GRU; e nivel de fidelidade que da acesso a salas parceiras, nao uma sala dedicada. VERIFICAR EXISTENCIA - registro deve mapear para a sala parceira efetiva. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3bb8d7e9-21ac-498d-8cf4-070cc7c0708e",
+    "name": "No1 Lounge - London Gatwick (South Terminal)",
+    "airport_iata": "LGW",
+    "airport_name": "London Gatwick Airport (LGW)",
+    "terminal": "South Terminal",
+    "location_description": "South Terminal, nivel superior da area de embarque, no corredor entre Dixons/JD Sports e InMotion.",
+    "hours_open_text": "04:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://no1lounges.com/lounges-by-location/no1-lounges-at-gatwick-south/",
+    "operator": "No1 Lounges",
+    "source_urls": [
+      "https://no1lounges.com/lounges-by-location/no1-lounges-at-gatwick-south/",
+      "https://www.gatwickairport.com/premium-services/lounge-airport/lounge-no1.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "No1 Lounge no South Terminal de Gatwick, nivel superior da area de embarque. Aberto a qualquer passageiro (reserva/walk-in) e Priority Pass. Ha tambem No1 no North Terminal (unidade distinta). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "8af7e09e-c353-4a32-acd2-a60a868c4739",
+    "name": "Malaysia Airlines Golden Lounge (Domestic) - Kuala Lumpur (KLIA)",
+    "airport_iata": "KUL",
+    "airport_name": "Kuala Lumpur International Airport (KLIA)",
+    "terminal": "Main Terminal (Domestic)",
+    "location_description": "Gate A, Nivel 3, area domestica do Main Terminal Building (KLIA).",
+    "hours_open_text": "05:00-23:59",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "prayer_room",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Walk-in/passe de entrada unica disponivel.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.malaysiaairlines.com/hq/en/experience/lounge.html",
+    "operator": "Malaysia Airlines",
+    "source_urls": [
+      "https://klia.info/lounges/mas_golden_lounge.htm",
+      "https://www.malaysiaairlines.com/hq/en/experience/lounge.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "MAS Golden Lounge (Domestic) no Gate A, Nivel 3 do Main Terminal de KLIA. Para Business/oneworld Sapphire-Emerald e walk-in. KLIA tem ainda Golden Lounge Regional, Satellite e First (unidades distintas). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0f2015f3-80ac-443a-b74e-4c45f03c28f2",
+    "name": "Mastercard Pearl Metro Lounge - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, airside (apos controle de passaportes, vire a direita), proximo aos gates 5/26.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "shower",
+      "luggage_storage",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "mastercard",
+      "mastercard_black",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://airport.mastercard.com/lounge-finder/lounge?loungecode=KWI2",
+    "operator": "Pearl Lounge (Mastercard)",
+    "source_urls": [
+      "https://airport.mastercard.com/lounge-finder/lounge?loungecode=KWI2",
+      "https://loungereview.com/lounges/pearl-metro-lounge-kwi/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "A 'Master Card Lounge' em KWI corresponde a Mastercard Pearl Metro Lounge no Terminal 1 (airside, gates 5/26), acesso via Mastercard Airport Experiences/DragonPass e walk-in, estadia ate 3h. Foto anterior generica removida."
+  }
+]
