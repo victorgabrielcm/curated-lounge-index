@@ -1,0 +1,480 @@
+[
+  {
+    "lounge_id": "4915931e-c0f2-49f5-a9f2-1646e1e00b02",
+    "name": "THAI Royal First Lounge - Bangkok (Concourse D)",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse D",
+    "location_description": "Concourse D, 3o andar. Lounge de Primeira (Royal Orchid Prestige First) da Thai Airways.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "shower",
+      "massage",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_first",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.thaiairways.com/en-th/content/travel-class/royal-first/",
+    "operator": "Thai Airways",
+    "source_urls": [
+      "https://onemileatatime.com/reviews/thai-airways-first-lounge-bangkok/",
+      "https://princeoftravel.com/reviews/thai-airways-royal-orchid-prestige-first-class-lounge-bangkok/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Royal Orchid Prestige First lounge (Thai) no Concourse D, para First Thai/ROP Platinum e Star Alliance First. O Royal Orchid Spa associado segue indisponivel (ver #182). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "71c29942-bbe6-4aa3-aba6-8cac1cc74fd4",
+    "name": "Aviator Lounge - Stockholm Arlanda (T2)",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, airside (apos a seguranca). O lounge atual do T2 e o Pearl Lounge (Menzies).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/airport-guides/stockholm-arlanda/terminal-2",
+    "operator": "Menzies Aviation",
+    "source_urls": [
+      "https://www.loungepair.com/guides/guide-pearl-lounges-stockholm-arlanda-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 38,
+    "notes": "CONFLITO/DUPLICATA: o lounge atual do Terminal 2 e o Pearl Lounge (Menzies); 'Aviator Lounge' e provavelmente nome antigo/duplicata. Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "58806962-f395-49fd-b1c5-90f93b979a15",
+    "name": "Aegean Business Lounge - Athens (Extra Schengen)",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "Main Terminal (Extra-Schengen)",
+    "location_description": "Area A - Extra Schengen, 3o andar a direita.",
+    "hours_open_text": "06:00-00:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "luggage_storage",
+      "private_rooms",
+      "meeting_room",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://en.aegeanair.com/travel-information/at-the-airport/lounges-info/",
+    "operator": "Aegean Airlines",
+    "source_urls": [
+      "https://en.aegeanair.com/travel-information/at-the-airport/lounges-info/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "DUPLICATA do #155 'Aegean Business Lounge ATH' (id 317439b5, batch 16) - mesma sala (Area A Extra-Schengen). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "16967f84-cbd3-427f-a9e5-498ab3cf4aa8",
+    "name": "Star Alliance Business Lounge BRU (= Brussels Airlines THE LOFT)",
+    "airport_iata": "BRU",
+    "airport_name": "Brussels Airport (BRU)",
+    "terminal": "Pier A (Schengen)",
+    "location_description": "Nao ha 'Star Alliance Lounge' dedicado em BRU; e a Brussels Airlines THE LOFT (Pier A).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.brusselsairlines.com/us/en/extra-services/lounges/brussels-airport-lounges",
+    "operator": "Brussels Airlines",
+    "source_urls": [
+      "https://www.brusselsairlines.com/us/en/extra-services/lounges/brussels-airport-lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 38,
+    "notes": "DUPLICATA: nao existe 'Star Alliance Lounge' dedicado em BRU; trata-se da Brussels Airlines THE LOFT (Pier A, ver #161 id 5e542584 e #260 id e7738412). A Brussels tambem opera a 'Sunrise' nos gates T. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b4bd9742-9a75-4846-bbc0-662c98b1b8ae",
+    "name": "Sala VIP Pau Casals - Barcelona T1 (duplicata)",
+    "airport_iata": "BCN",
+    "airport_name": "Aeroporto de Barcelona-El Prat (Josep Tarradellas)",
+    "terminal": "Terminal 1 (Schengen)",
+    "location_description": "T1, Nivel 2, gates A/B/C (area Schengen).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "sleep_area",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "loungekey",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat/vip-services/vip-lounges/pau-casals-vip-lounge.html",
+    "operator": "Aena",
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/lounges/spain/barcelona-el-prat/bcn8-sala-vip-pau-casals"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "DUPLICATA do #183 'Sala VIP Pau Casals BCN T1' (id 405c74f6, batch 19) - mesma sala (Aena, Schengen). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "58ae3560-4469-438a-a9b6-fbe0c918cb2a",
+    "name": "Air France Lounge - Paris CDG (2E Hall L)",
+    "airport_iata": "CDG",
+    "airport_name": "Aeroport de Paris-Charles de Gaulle (CDG)",
+    "terminal": "Terminal 2E Hall L",
+    "location_description": "Terminal 2E, Hall L (voos internacionais de longo curso).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "flying_blue",
+      "air_france_business",
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.airfrance.com/",
+    "operator": "Air France",
+    "source_urls": [
+      "https://wwws.airfrance.fr/information/aeroport/salons"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Lounge da Air France no 2E Hall L (longo curso). CDG tem multiplos lounges AF (2E halls K/L/M, 2F, 2G). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1f391e0c-e001-4b18-b039-a5456324cffa",
+    "name": "E-Lounge ATH (a verificar existencia)",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "Main Terminal",
+    "location_description": "Lounge 'E-Lounge' nao localizado nas fontes de ATH.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wifi",
+      "relaxation_area"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.loungepair.com/guides/athens-airport-complete-lounges-guide/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 24,
+    "notes": "VERIFICAR EXISTENCIA: nao foi encontrado lounge 'E-Lounge' em ATH. As salas de ATH sao operadas por Goldair, Skyserv, Aegean, Lufthansa e Swissport. Provavel nome incorreto/duplicata - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9c6a2c56-a411-4b4e-8cfe-1586b97ca4e3",
+    "name": "Brussels Airport VIP Lounge (generico - a verificar)",
+    "airport_iata": "BRU",
+    "airport_name": "Brussels Airport (BRU)",
+    "terminal": "Main Terminal",
+    "location_description": "Registro generico 'Brussels Airport VIP Lounge'.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.brusselsairport.be/en/passengers/at-the-airport/services/overview/our-lounges",
+    "operator": "Brussels Airport",
+    "source_urls": [
+      "https://www.brusselsairport.be/en/passengers/at-the-airport/services/overview/our-lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 30,
+    "notes": "Registro generico 'Brussels Airport VIP Lounge'. BRU tem THE LOFT/THE SUITE (Brussels Airlines), The View (Pier B, #253), Diamond Lounge e servico VIP. Possivel duplicata/servico - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "39ebb07e-19f3-4249-9319-f0484562eb50",
+    "name": "GVK First & Business Lounge - Mumbai T2 (= Adani Lounge)",
+    "airport_iata": "BOM",
+    "airport_name": "Chhatrapati Shivaji Maharaj International Airport (Mumbai)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2 (internacional). Antiga GVK Lounge, hoje Adani Lounge.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "dragonpass",
+      "visa_infinite",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://csmia-mumbai.adaniairports.com/en/airport-services/lounges",
+    "operator": "Adani Airports",
+    "source_urls": [
+      "https://www.cardexpert.in/mumbai-gvk-lounge-is-now-adani-lounge/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "DUPLICATA do #176 'GVK Lounge BOM T2' (id df5d5f86, batch 18) - a GVK Lounge foi rebatizada Adani Lounge. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "39f09a53-c60e-4df1-a900-2eea5665a75d",
+    "name": "Cathay Pacific Lounge BAH (a verificar - usa contratada)",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Main Terminal",
+    "location_description": "Em frente ao gate 16, Nivel 3 (mesmo endereco do Dilmun Lounge). A Cathay nao opera sala propria em BAH.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "cathay_business",
+      "cathay_first",
+      "oneworld_emerald",
+      "oneworld_sapphire"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.cathaypacific.com/",
+    "operator": "contratada (Dilmun)",
+    "source_urls": [
+      "https://www.exploreterminals.com/cathay-pacific-airlines/cathay-pacific-bah-terminal-bahrain-international-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 30,
+    "notes": "CONFLITO/VERIFICAR: a Cathay Pacific nao opera sala propria em BAH; o endereco (em frente ao gate 16, nivel 3) coincide com o Dilmun Lounge (#231 id 5bd40cd8). Cathay usa sala contratada. Provavel duplicata/mapeamento incorreto - mesclar com Dilmun. Foto anterior generica removida."
+  }
+]

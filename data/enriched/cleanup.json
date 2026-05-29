@@ -1069,5 +1069,77 @@
     "recommended_action": "delete",
     "related_id_hint": "ef626c99",
     "detail": "NAO E UMA SALA VIP: sala de fumantes. DUPLICATA do #247 'Smoking Lounge BAH' (id ef626c99, batch 25). Remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "71c29942-bbe6-4aa3-aba6-8cac1cc74fd4",
+    "name": "Aviator Lounge - Stockholm Arlanda (T2)",
+    "airport_iata": "ARN",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "CONFLITO/DUPLICATA: o lounge atual do Terminal 2 e o Pearl Lounge (Menzies); 'Aviator Lounge' e provavelmente nome antigo/duplicata. Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "58806962-f395-49fd-b1c5-90f93b979a15",
+    "name": "Aegean Business Lounge - Athens (Extra Schengen)",
+    "airport_iata": "ATH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "317439b5",
+    "detail": "DUPLICATA do #155 'Aegean Business Lounge ATH' (id 317439b5, batch 16) - mesma sala (Area A Extra-Schengen). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "16967f84-cbd3-427f-a9e5-498ab3cf4aa8",
+    "name": "Star Alliance Business Lounge BRU (= Brussels Airlines THE LOFT)",
+    "airport_iata": "BRU",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": "5e542584",
+    "detail": "DUPLICATA: nao existe 'Star Alliance Lounge' dedicado em BRU; trata-se da Brussels Airlines THE LOFT (Pier A, ver #161 id 5e542584 e #260 id e7738412). A Brussels tambem opera a 'Sunrise' nos gates T. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b4bd9742-9a75-4846-bbc0-662c98b1b8ae",
+    "name": "Sala VIP Pau Casals - Barcelona T1 (duplicata)",
+    "airport_iata": "BCN",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "405c74f6",
+    "detail": "DUPLICATA do #183 'Sala VIP Pau Casals BCN T1' (id 405c74f6, batch 19) - mesma sala (Aena, Schengen). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1f391e0c-e001-4b18-b039-a5456324cffa",
+    "name": "E-Lounge ATH (a verificar existencia)",
+    "airport_iata": "ATH",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: nao foi encontrado lounge 'E-Lounge' em ATH. As salas de ATH sao operadas por Goldair, Skyserv, Aegean, Lufthansa e Swissport. Provavel nome incorreto/duplicata - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9c6a2c56-a411-4b4e-8cfe-1586b97ca4e3",
+    "name": "Brussels Airport VIP Lounge (generico - a verificar)",
+    "airport_iata": "BRU",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "Registro generico 'Brussels Airport VIP Lounge'. BRU tem THE LOFT/THE SUITE (Brussels Airlines), The View (Pier B, #253), Diamond Lounge e servico VIP. Possivel duplicata/servico - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "39ebb07e-19f3-4249-9319-f0484562eb50",
+    "name": "GVK First & Business Lounge - Mumbai T2 (= Adani Lounge)",
+    "airport_iata": "BOM",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "df5d5f86",
+    "detail": "DUPLICATA do #176 'GVK Lounge BOM T2' (id df5d5f86, batch 18) - a GVK Lounge foi rebatizada Adani Lounge. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "39f09a53-c60e-4df1-a900-2eea5665a75d",
+    "name": "Cathay Pacific Lounge BAH (a verificar - usa contratada)",
+    "airport_iata": "BAH",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": "5bd40cd8",
+    "detail": "CONFLITO/VERIFICAR: a Cathay Pacific nao opera sala propria em BAH; o endereco (em frente ao gate 16, nivel 3) coincide com o Dilmun Lounge (#231 id 5bd40cd8). Cathay usa sala contratada. Provavel duplicata/mapeamento incorreto - mesclar com Dilmun. Foto anterior generica removida."
   }
 ]
