@@ -1,0 +1,484 @@
+[
+  {
+    "lounge_id": "c04a8f6c-641e-4c2d-b2f0-278f47d701cc",
+    "name": "SAS Lounge (Scandinavian/Business) - Stockholm Arlanda",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 5 (SkyCity)",
+    "location_description": "Terminal 5 (regiao SkyCity), area airside.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "sas_business",
+      "eurobonus_gold",
+      "eurobonus_diamond",
+      "skyteam_elite_plus"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.flysas.com/en/travel-info/at-the-airport/lounges",
+    "operator": "SAS Scandinavian Airlines",
+    "source_urls": [
+      "https://www.flysas.com/en/travel-info/at-the-airport/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "SAS Lounge (Scandinavian/Business) no T5 - distinta da SAS Gold Lounge (#193/#229). SAS reorganizou seus lounges em 2025 e migrou da Star Alliance para a SkyTeam (set/2024). Possivel relacao/duplicata - verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "39e115e2-cbcb-4576-b5cc-631dbbff7b57",
+    "name": "60 graus Lounge - Stockholm Arlanda",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 5 (base indica T2)",
+    "location_description": "Terminal 5, apos o controle de passaportes, area de gates F (perto do gate F67). Vista para a pista.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "tarmac_view",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.swedavia.com/arlanda/service/60-lounge2/",
+    "operator": "Swedavia",
+    "source_urls": [
+      "https://www.swedavia.com/arlanda/service/60-lounge2/",
+      "https://loungereview.com/lounges/60-lounge-arn/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "CONFLITO: base indica Terminal 2, mas a 60 graus Lounge fica no Terminal 5 (gates F, perto do F67) - nao ha conexao airside entre T2 e T5. Corrigir terminal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2eeefd19-6c27-40a5-af53-33bc616b73c1",
+    "name": "The View Lounge - Brussels (Pier B, non-Schengen)",
+    "airport_iata": "BRU",
+    "airport_name": "Brussels Airport (BRU)",
+    "terminal": "Terminal B (Pier B, non-Schengen)",
+    "location_description": "Pier B (non-Schengen), entre os gates B04-B12, 4o andar (elevador/escada junto ao gate B04).",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "tarmac_view",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso online ~EUR 37,50.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.brusselsairport.be/brusselsairportnews/en/february-2025/business-lounge-the-view-officially-opened",
+    "operator": "Brussels Airport",
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/lounges/belgium/brussels-zaventem/bru3-the-view-lounge",
+      "https://www.brusselsairport.be/brusselsairportnews/en/february-2025/business-lounge-the-view-officially-opened"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Sala non-Schengen (Pier B), inaugurada em fev/2025 (~2.000 m2, 400 lugares). Util durante a reforma da Brussels Airlines THE LOFT (Pier A). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "fddf0030-2016-4b82-aac5-bc91fe02140c",
+    "name": "Pearl Lounge - Abu Dhabi (Terminal A)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal A",
+    "location_description": "Terminal A, Nivel 5 (area de partidas), proximo ao gate D43 (airside).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Day pass ~AED 263 (3h); criancas 2-11 ~AED 175.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/india-middle-east-south-africa/united-arab-emirates/abu-dhabi/zayed-international-airport/pearl-lounge",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://my.prioritypass.com/en-GB/lounges/united-arab-emirates/abu-dhabi-international/auh12-pearl-lounge",
+      "https://onemileatatime.com/reviews/pearl-lounge-abu-dhabi/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Sala (Plaza Premium) no novo Terminal A - sucessora funcional da Al Reem (que encerrou no T1, ver #249). ~42.000 sq ft, 500 lugares, 24/7; entrou no Priority Pass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "33e6fbdc-98a3-4ea0-9595-74526377863b",
+    "name": "Sala VIP El Dorado - Bogota (T1)",
+    "airport_iata": "BOG",
+    "airport_name": "Aeropuerto Internacional El Dorado (Bogota)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, area de embarque. Sala contratada El Dorado VIP Lounge.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://eldorado.aero/",
+    "operator": "El Dorado VIP Lounge",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/colombia/bogota-eldorado-intl"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "El Dorado VIP Lounge (BOG T1). Passageiros AA passaram a utiliza-la apos o fechamento do Admirals Club de Bogota (ver batch 4). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2282c20e-ba26-4baa-ab13-18ad1739f03c",
+    "name": "Advantage VIP Lounge - Congonhas [Sala VIP TudoAzul]",
+    "airport_iata": "CGH",
+    "airport_name": "Aeroporto de Sao Paulo/Congonhas (CGH)",
+    "terminal": "Terminal Unico",
+    "location_description": "Area de embarque (~280 m2, ate 150 lugares).",
+    "hours_open_text": "04:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "tudoazul_diamante",
+      "azul_itaucard",
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.advantagevip.com.br/",
+    "operator": "Advantage Group",
+    "source_urls": [
+      "https://passageirodeprimeira.com/clientes-tudoazul-diamante-terao-acesso-ao-advantage-vip-lounge-em-congonhas/",
+      "https://aeroin.net/nova-sala-vip-inaugurada-no-aeroporto-de-congonhas-pode-ser-acessada-por-clientes-do-tudoazul/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Registro 'Sala VIP TudoAzul Diamante' -> e o Advantage VIP Lounge de Congonhas (parceria TudoAzul Diamante/Azul Itau), inaugurado em set/2023. Corrigir nome/operadora. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f796f6da-ca9c-4d39-bdfd-42c7cc3016c5",
+    "name": "VIP Lounge Abu Dhabi (generico - duplicata)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal A (provavel)",
+    "location_description": "Registro generico 'VIP Lounge' em Abu Dhabi.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 20,
+    "notes": "DUPLICATA: registro generico 'VIP Lounge Abu Dhabi' - coincide com #242 (id 41483776). Se referir-se ao antigo Terminal 1 (encerrado em nov/2023), desativar; operacao atual no Terminal A (ver Pearl Lounge #254). Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a965f144-8412-4dd2-988c-c0f865b4a0c4",
+    "name": "Hala Bahrain Lounge",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Main Terminal",
+    "location_description": "A 'Hala Bahrain' opera varias salas: Main (perto do gate 16), Awal (gate 14) e Arrival (gate 15).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.halabahrain.bh/",
+    "operator": "Hala Bahrain",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/bahrain/bahrain-international/bah9-hala-bahrain-awal-lounge",
+      "https://www.sleepinginairports.net/lounge/bahrain-airport/hala-bahrain-arrivals-lounge-bah.htm"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "'Hala Bahrain' opera multiplas salas em BAH (Main/Awal/Arrival). Os registros genericos 'VIP Lounge' (#240/#245) e o Dilmun (#231) podem coincidir com salas Hala - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "16b8265d-4623-4b9d-a9e5-6013204a3349",
+    "name": "Miracle First Class Lounge - Bangkok (Concourse D)",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse D",
+    "location_description": "Concourse D internacional. Unidade 'Miracle First Class'.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "massage_chairs",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/thailand/bangkok-suvarnabhumi-intl",
+    "operator": "Miracle",
+    "source_urls": [
+      "https://my.prioritypass.com/en-GB/lounges/thailand/suvarnabhumi/bkk10-miracle-first-class-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "Unidade especifica 'Miracle First Class' no Concourse D. O registro #175 'Miracle Lounge' (id 0e840ead, batch 18) e generico e abrange varias unidades Miracle (A/D/G). Possivel duplicata - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e7738412-cd4d-420c-a85c-a97db2e38b3a",
+    "name": "Brussels Airlines Business Lounge (generico)",
+    "airport_iata": "BRU",
+    "airport_name": "Brussels Airport (BRU)",
+    "terminal": "Pier A (Schengen)",
+    "location_description": "Lounge Business da Brussels Airlines (registro generico).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.brusselsairlines.com/us/en/extra-services/lounges/brussels-airport-lounges",
+    "operator": "Brussels Airlines",
+    "source_urls": [
+      "https://www.brusselsairlines.com/us/en/extra-services/lounges/brussels-airport-lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "DUPLICATA/generico: 'Brussels Airlines Business Lounge' corresponde a THE LOFT (Pier A Schengen, #161 id 5e542584) ou a THE SUITE (Pier B). Mesclar/verificar. Obs: THE LOFT esta em reforma desde 01/2026. Foto anterior generica removida."
+  }
+]

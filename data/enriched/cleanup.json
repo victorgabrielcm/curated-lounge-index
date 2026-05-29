@@ -156,10 +156,10 @@
     "lounge_id": "eca6be7b-32fa-42ba-b665-05edb3f73db8",
     "name": "Qatar Airways Premium Lounge Paris CDG",
     "airport_iata": "CDG",
-    "issue_type": "closed",
-    "recommended_action": "disable",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
     "related_id_hint": null,
-    "detail": "CONFLITO: lounge permanente fica no Terminal 1 (11o andar), nao no T2E. ATENCAO: avaliacoes de 2025 indicam possivel fechamento temporario - verificar status atual. Foto anterior generica - removida."
+    "detail": "CONFLITO: lounge principal fica no Terminal 1 (11o andar), nao no T2E. ATENCAO: avaliacoes de 2025 indicam possivel fechamento temporario - verificar status atual. Foto anterior generica - removida."
   },
   {
     "lounge_id": "f2cef392-cd39-478b-825d-f2ff3299576a",
@@ -961,5 +961,50 @@
     "recommended_action": "disable",
     "related_id_hint": null,
     "detail": "FECHADO: a Al Reem Lounge (Plaza Premium) operava no Terminal 1 de Abu Dhabi, fechado permanentemente em nov/2023. Verificar se a Plaza Premium reabriu sala no Terminal A; caso contrario, desativar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c04a8f6c-641e-4c2d-b2f0-278f47d701cc",
+    "name": "SAS Lounge (Scandinavian/Business) - Stockholm Arlanda",
+    "airport_iata": "ARN",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "SAS Lounge (Scandinavian/Business) no T5 - distinta da SAS Gold Lounge (#193/#229). SAS reorganizou seus lounges em 2025 e migrou da Star Alliance para a SkyTeam (set/2024). Possivel relacao/duplicata - verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "39e115e2-cbcb-4576-b5cc-631dbbff7b57",
+    "name": "60 graus Lounge - Stockholm Arlanda",
+    "airport_iata": "ARN",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: base indica Terminal 2, mas a 60 graus Lounge fica no Terminal 5 (gates F, perto do F67) - nao ha conexao airside entre T2 e T5. Corrigir terminal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f796f6da-ca9c-4d39-bdfd-42c7cc3016c5",
+    "name": "VIP Lounge Abu Dhabi (generico - duplicata)",
+    "airport_iata": "AUH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "41483776",
+    "detail": "DUPLICATA: registro generico 'VIP Lounge Abu Dhabi' - coincide com #242 (id 41483776). Se referir-se ao antigo Terminal 1 (encerrado em nov/2023), desativar; operacao atual no Terminal A (ver Pearl Lounge #254). Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "16b8265d-4623-4b9d-a9e5-6013204a3349",
+    "name": "Miracle First Class Lounge - Bangkok (Concourse D)",
+    "airport_iata": "BKK",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "0e840ead",
+    "detail": "Unidade especifica 'Miracle First Class' no Concourse D. O registro #175 'Miracle Lounge' (id 0e840ead, batch 18) e generico e abrange varias unidades Miracle (A/D/G). Possivel duplicata - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e7738412-cd4d-420c-a85c-a97db2e38b3a",
+    "name": "Brussels Airlines Business Lounge (generico)",
+    "airport_iata": "BRU",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "5e542584",
+    "detail": "DUPLICATA/generico: 'Brussels Airlines Business Lounge' corresponde a THE LOFT (Pier A Schengen, #161 id 5e542584) ou a THE SUITE (Pier B). Mesclar/verificar. Obs: THE LOFT esta em reforma desde 01/2026. Foto anterior generica removida."
   }
 ]
