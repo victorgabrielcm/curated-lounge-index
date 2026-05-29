@@ -898,5 +898,68 @@
     "recommended_action": "merge",
     "related_id_hint": "5bd40cd8",
     "detail": "Registro generico 'VIP Lounge' em BAH. O aeroporto tem Dilmun Lounge (#231, id 5bd40cd8), Gulf Air Falcon Gold e salas CIP/VIP. Possivel duplicata do Dilmun ou sala CIP separada - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "41483776-6e98-4868-baf6-b67cd22870f0",
+    "name": "VIP Lounge Abu Dhabi (Terminal 1 - FECHADO)",
+    "airport_iata": "AUH",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "FECHADO: o Terminal 1 de Abu Dhabi foi PERMANENTEMENTE fechado em nov/2023 (todas as operacoes migraram para o novo Terminal A). Esta sala generica nao opera mais. Desativar/remapear para o Terminal A. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "24017150-a52f-43af-9d75-93f48768e5be",
+    "name": "Star Alliance Lounge - Paris CDG (Terminal 1)",
+    "airport_iata": "CDG",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "f862e0c1",
+    "detail": "Star Alliance Lounge no Terminal 1 (localizacao correta). O registro 'Star Alliance Lounge Paris CDG' (id f862e0c1, batch 1) indicava Terminal 2E Hall M - CONFLITO; provavel duplicata. Mesclar/corrigir para o T1. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1c789824-3242-4336-80db-11333d74d2a5",
+    "name": "VIP Lounge BAH (generico - duplicata)",
+    "airport_iata": "BAH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "abe9ce54",
+    "detail": "DUPLICATA do #240 'VIP Lounge BAH' (id abe9ce54, batch 24) - ambos registros genericos de BAH. Provavel coincidencia com o Dilmun Lounge (#231) ou sala CIP. Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c521a203-738f-4fea-b541-ac025f14aa7a",
+    "name": "Smoking Zone BCN (nao e lounge)",
+    "airport_iata": "BCN",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Smoking Zone' e uma area de fumantes, nao um lounge. Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ef626c99-7c1e-4559-ad16-3ec68cb5749f",
+    "name": "Smoking Lounge BAH (nao e lounge)",
+    "airport_iata": "BAH",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Smoking Lounge' (perto do gate 12) e uma sala de fumantes, nao um lounge. Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1d8d060c-8ddd-49ca-be45-f6d7516881af",
+    "name": "Arena VIP Club - Brasilia [variante VIP Club]",
+    "airport_iata": "BSB",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "b2fa6779",
+    "detail": "DUPLICATA/VERIFICAR: 'Arena VIP Club' provavelmente e variante do Aeroportos VIP Club de BSB (ver #235 id b2fa6779). BSB tem VIP Club, VIP Club Express (Pier Norte/Sul) e BRB VIP Club. Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "cf3c34fb-a518-44e0-b0fc-23a9a5b6498f",
+    "name": "Al Reem Lounge - Abu Dhabi (Terminal 1 - FECHADO)",
+    "airport_iata": "AUH",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "FECHADO: a Al Reem Lounge (Plaza Premium) operava no Terminal 1 de Abu Dhabi, fechado permanentemente em nov/2023. Verificar se a Plaza Premium reabriu sala no Terminal A; caso contrario, desativar. Foto anterior generica removida."
   }
 ]

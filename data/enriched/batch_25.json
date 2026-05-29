@@ -1,0 +1,444 @@
+[
+  {
+    "lounge_id": "56d76414-b998-4046-9bac-32f51b99002b",
+    "name": "Extime Lounge - Paris CDG (2F)",
+    "airport_iata": "CDG",
+    "airport_name": "Aeroport de Paris-Charles de Gaulle (CDG)",
+    "terminal": "Terminal 2F (Schengen)",
+    "location_description": "Terminal 2F (voos Schengen). Sala paga/contratada da marca Extime (ADP).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.parisaeroport.fr/",
+    "operator": "Extime (Aeroports de Paris)",
+    "source_urls": [
+      "https://www.parisaeroport.fr/passagers/services/salons-laccueil-vip"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "'Extime' e a marca de lounges da ADP (Aeroports de Paris) - sala paga/Priority Pass no 2F. Distinta da Air France Lounge 2F (#238, id 87cca4b7). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "41483776-6e98-4868-baf6-b67cd22870f0",
+    "name": "VIP Lounge Abu Dhabi (Terminal 1 - FECHADO)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal 1 (fechado)",
+    "location_description": "Antigo Terminal 1 de Abu Dhabi (fechado). Operacoes migraram para o Terminal A.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Zayed_International_Airport",
+      "https://livefromalounge.com/abu-dhabi-airport-transition-terminal-a/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 18,
+    "notes": "FECHADO: o Terminal 1 de Abu Dhabi foi PERMANENTEMENTE fechado em nov/2023 (todas as operacoes migraram para o novo Terminal A). Esta sala generica nao opera mais. Desativar/remapear para o Terminal A. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "22b0270a-bedf-400c-8c2c-4fb8d9466d23",
+    "name": "KLM Crown Lounge 25 (Schengen) - Amsterdam",
+    "airport_iata": "AMS",
+    "airport_name": "Amsterdam Airport Schiphol (AMS)",
+    "terminal": "Lounge 25 (Schengen)",
+    "location_description": "Area Schengen (apos seguranca), Lounge 25. A versao non-Schengen e a Crown Lounge 52.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "flying_blue",
+      "klm_business",
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.klm.com/",
+    "operator": "KLM",
+    "source_urls": [
+      "https://www.klm.com/information/at-the-airport/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "KLM Crown Lounge 25 (area Schengen) em Schiphol. A unidade non-Schengen e a Crown Lounge 52 (registro distinto). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "24017150-a52f-43af-9d75-93f48768e5be",
+    "name": "Star Alliance Lounge - Paris CDG (Terminal 1)",
+    "airport_iata": "CDG",
+    "airport_name": "Aeroport de Paris-Charles de Gaulle (CDG)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1 (hub Star Alliance em CDG), area de embarque internacional.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "star_alliance_first",
+      "star_alliance_business",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.staralliance.com/en/lounges",
+    "operator": "Star Alliance",
+    "source_urls": [
+      "https://www.staralliance.com/en/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Star Alliance Lounge no Terminal 1 (localizacao correta). O registro 'Star Alliance Lounge Paris CDG' (id f862e0c1, batch 1) indicava Terminal 2E Hall M - CONFLITO; provavel duplicata. Mesclar/corrigir para o T1. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1c789824-3242-4336-80db-11333d74d2a5",
+    "name": "VIP Lounge BAH (generico - duplicata)",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Main Terminal",
+    "location_description": "Registro generico 'VIP Lounge' em Bahrein.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/airport-guides/bahrain-international"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 24,
+    "notes": "DUPLICATA do #240 'VIP Lounge BAH' (id abe9ce54, batch 24) - ambos registros genericos de BAH. Provavel coincidencia com o Dilmun Lounge (#231) ou sala CIP. Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c521a203-738f-4fea-b541-ac025f14aa7a",
+    "name": "Smoking Zone BCN (nao e lounge)",
+    "airport_iata": "BCN",
+    "airport_name": "Aeroporto de Barcelona-El Prat (Josep Tarradellas)",
+    "terminal": "Terminal 1",
+    "location_description": "Area de fumantes no Terminal 1 - nao e uma sala VIP.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 10,
+    "notes": "NAO E UMA SALA VIP: 'Smoking Zone' e uma area de fumantes, nao um lounge. Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ef626c99-7c1e-4559-ad16-3ec68cb5749f",
+    "name": "Smoking Lounge BAH (nao e lounge)",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Main Terminal",
+    "location_description": "Sala de fumantes proxima ao gate 12 - nao e uma sala VIP.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 10,
+    "notes": "NAO E UMA SALA VIP: 'Smoking Lounge' (perto do gate 12) e uma sala de fumantes, nao um lounge. Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1d8d060c-8ddd-49ca-be45-f6d7516881af",
+    "name": "Arena VIP Club - Brasilia [variante VIP Club]",
+    "airport_iata": "BSB",
+    "airport_name": "Aeroporto Internacional de Brasilia (Juscelino Kubitschek)",
+    "terminal": "Terminal 1",
+    "location_description": "Provavel variante do Aeroportos VIP Club de BSB (terreo, a esquerda do Duty Free).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "visa_airport_companion",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.bsb.aero/salavip",
+    "operator": "Aeroportos VIP Club",
+    "source_urls": [
+      "https://my.prioritypass.com/pt-BR/lounges/brazil/brasilia-international-presidente-j-kubitschek-intl/bsb-aeroportos-vip-club"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 42,
+    "notes": "DUPLICATA/VERIFICAR: 'Arena VIP Club' provavelmente e variante do Aeroportos VIP Club de BSB (ver #235 id b2fa6779). BSB tem VIP Club, VIP Club Express (Pier Norte/Sul) e BRB VIP Club. Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "cf3c34fb-a518-44e0-b0fc-23a9a5b6498f",
+    "name": "Al Reem Lounge - Abu Dhabi (Terminal 1 - FECHADO)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal 1 (fechado)",
+    "location_description": "A Al Reem Lounge (Plaza Premium) ficava no antigo Terminal 1, fechado em nov/2023.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "shower",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://loungereview.com/lounges/al-reem-lounge-by-plaza-premium-lounge-auh/",
+      "https://www.cardexpert.in/lounge-review-al-reem-lounge-at-abu-dhabi-international-airport-terminal-1/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 24,
+    "notes": "FECHADO: a Al Reem Lounge (Plaza Premium) operava no Terminal 1 de Abu Dhabi, fechado permanentemente em nov/2023. Verificar se a Plaza Premium reabriu sala no Terminal A; caso contrario, desativar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6d9c6ec1-2778-49cf-a324-bfb65490cfd7",
+    "name": "Qatar Airways Premium Lounge - Bangkok (Concourse D)",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse D",
+    "location_description": "3o andar, Concourse D (proximo ao gate D8); a sala fica um nivel abaixo do concourse principal.",
+    "hours_open_text": "15:30-02:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "business_center",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "qatar_business",
+      "qatar_first",
+      "oneworld_first",
+      "oneworld_emerald",
+      "oneworld_sapphire"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qatarairways.com/en/lounges/bangkok-premium-lounge.html",
+    "operator": "Qatar Airways",
+    "source_urls": [
+      "https://www.qatarairways.com/en/lounges/bangkok-premium-lounge.html",
+      "https://simpleflying.com/qatar-airways-premium-lounge-bangkok-suvarnabhumi-international-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Sala propria da Qatar Airways (~725 m2) no Concourse D: brasserie a la carte, Martini Bar, chuveiros. Apenas First/Business oneworld (status em economy nao acessa). Foto anterior generica removida."
+  }
+]
