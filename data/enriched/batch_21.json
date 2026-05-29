@@ -1,0 +1,489 @@
+[
+  {
+    "lounge_id": "66d58269-2e1e-44cb-9b37-176c5a95b347",
+    "name": "American Express Centurion Lounge - Dallas (DFW)",
+    "airport_iata": "DFW",
+    "airport_name": "Dallas/Fort Worth International Airport (DFW)",
+    "terminal": "Terminal D",
+    "location_description": "Terminal D, airside (proximo aos gates D17-D18). Acessivel de outros terminais via Skylink.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "kids_area",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.thecenturionlounge.com/locations/dfw/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://www.thecenturionlounge.com/locations/dfw/",
+      "https://www.dfwairport.com/explore/lounges/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Centurion Lounge no Terminal D (gates D17-D18). Acesso para titulares Amex Platinum/Business Platinum/Centurion. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "719708e6-206a-4c37-91b6-3f2c33d9a466",
+    "name": "Aspire Lounge - Copenhagen (T2)",
+    "airport_iata": "CPH",
+    "airport_name": "Copenhagen Airport (Kastrup)",
+    "terminal": "Terminal 2",
+    "location_description": "Apos a seguranca, proximo aos gates A, no 1o andar. ~520 m2.",
+    "hours_open_text": "06:00-20:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "private_rooms",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Day pass ~299 DKK (~USD 47,50).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.cph.dk/en/practical/workspaces-and-lounges/aspire-lounge",
+    "operator": "Aspire (Swissport)",
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/lounges/denmark/copenhagen-kastrup/cop2-aspire-lounge",
+      "https://www.aspirelounges.com/airport-lounges/copenhagen-airport-aspire-lounge/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Reaberta em dez/2025 apos reforma; inclui area 'Suites by Aspire' (adults-only). Priority Pass/DragonPass + passageiros premium de Air Greenland/airBaltic/Eurowings. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2217fec0-fb6a-4961-bf8e-a5898fb0ffaa",
+    "name": "Bidvest Premier Lounge - Cape Town",
+    "airport_iata": "CPT",
+    "airport_name": "Cape Town International Airport (CPT)",
+    "terminal": "Terminal A (Domestico + Internacional)",
+    "location_description": "Bidvest opera 2 unidades: domestica (4o andar, apos a seguranca) e internacional (apos o controle de passaportes, perto do gate B). Vistas para a pista e a montanha.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "runway_view",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 120,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://bidvestlounge.co.za/",
+    "operator": "Bidvest Premier Lounge",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/south-africa/cape-town-international/cpt-bidvest-premier-lounge",
+      "https://bidvestlounge.co.za/commercial-lounge-cape-town-international-premier-1/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Bidvest opera 2 salas em CPT (domestica e internacional) - registro generico, verificar a qual corresponde. Sem reservas de grupo (capacidade limitada). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "845e0e19-1436-4199-8ba7-c415031ae640",
+    "name": "Oryx Lounge - Doha",
+    "airport_iata": "DOH",
+    "airport_name": "Hamad International Airport (Doha)",
+    "terminal": "Terminal 1 (area de transito)",
+    "location_description": "Area de transito de Hamad (proximo ao Oryx Airport Hotel). Sala paga para passageiros economy/transito.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://dohahamadairport.com/lounges",
+    "operator": "Qatar Aviation Services / Oryx",
+    "source_urls": [
+      "https://dohahamadairport.com/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 44,
+    "notes": "Sala paga (pay-per-use/DragonPass) voltada a passageiros economy/transito em Hamad, aberta 24h. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b88353ff-f358-4f45-ab23-c7302718e5bb",
+    "name": "Capital One Lounge - Dallas (DFW)",
+    "airport_iata": "DFW",
+    "airport_name": "Dallas/Fort Worth International Airport (DFW)",
+    "terminal": "Terminal D",
+    "location_description": "Terminal D, airside, proximo ao gate D22 (~10.000 sq ft). Acessivel de outros terminais via Skylink.",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "nursing_room",
+      "prayer_room",
+      "luggage_storage",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso para titulares de cartoes Capital One elegiveis (ex.: Venture X) e day pass.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://capitalonetravel.com/airport-lounges/airports/?airportId=DFW",
+    "operator": "Capital One",
+    "source_urls": [
+      "https://thepointsguy.com/credit-cards/capital-one-lounge/",
+      "https://milesforplaces.com/2025/04/29/review-capital-one-lounge-dallas-fort-worth-international-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Lounge Capital One (gate D22) com academia/Peloton, salas de relaxamento, chuveiros e sala de amamentacao. Acesso via cartoes Capital One elegiveis ou day pass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e62bfd6b-a924-4b83-910d-2abbf4430e1b",
+    "name": "Air India Maharaja Lounge - Delhi (T3)",
+    "airport_iata": "DEL",
+    "airport_name": "Indira Gandhi International Airport (New Delhi)",
+    "terminal": "Terminal 3 (Internacional)",
+    "location_description": "Terminal 3, area de embarque internacional. Sala First/Business da Air India.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "spa",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.airindia.com/",
+    "operator": "Air India",
+    "source_urls": [
+      "https://www.airindia.com/in/en/travel-information/airport-lounges.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "CONFLITO: base indica cidade 'Agra' - incorreto; IATA DEL = Nova Delhi. Sala First/Business da Air India (que nao integra alianca apos a saida do plano Star Alliance). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f5fb3f8b-ce3a-4de0-a62b-f09f40126618",
+    "name": "Plaza Premium Lounge - Delhi T3 (Internacional)",
+    "airport_iata": "DEL",
+    "airport_name": "Indira Gandhi International Airport (New Delhi)",
+    "terminal": "Terminal 3 (Internacional)",
+    "location_description": "Terminal 3, area de embarque internacional (airside).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "massage",
+      "luggage_storage",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plaza-network.com",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/PlazaPremiumLounge/media/PPLMedia/Hotel/location_map/Factsheet_PPL_DEL_10399.pdf"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "CONFLITO: base indica cidade 'Agra' (e Nova Delhi). Unidade INTERNACIONAL do Plaza Premium no T3 - distinta do #134 'Domestic Arrivals' (id 45bb9bee, batch 15). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6e75cb4b-e00b-4751-8884-30e863692f38",
+    "name": "LATAM VIP Lounge CWB (a verificar existencia)",
+    "airport_iata": "CWB",
+    "airport_name": "Aeroporto Internacional Afonso Pena (Curitiba)",
+    "terminal": "Terminal Unico",
+    "location_description": "Existencia de sala LATAM propria em CWB nao confirmada.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "latam_pass_elite",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://airport.mastercard.com/pt/lounge-finder/terminal?airportcode=CWB"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 25,
+    "notes": "VERIFICAR EXISTENCIA: a LATAM nao opera sala propria em CWB. Lounges: Advantage, Bradesco, Inter, W Premium (dom) + Advantage (intl) + Break Travel. Provavel mapeamento incorreto - corrigir/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e0279ade-1470-43eb-8ed4-0849e4a9f158",
+    "name": "Al Safwa First Class Lounge DOH",
+    "airport_iata": "DOH",
+    "airport_name": "Hamad International Airport (Doha)",
+    "terminal": "Terminal 1",
+    "location_description": "Nivel 3, acima das lojas na area de embarque (apos imigracao). Acesso a direita do urso amarelo gigante.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "shower",
+      "spa",
+      "massage",
+      "sleep_rooms",
+      "private_rooms",
+      "prayer_room",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "qatar_first",
+      "oneworld_first",
+      "privilege_club_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qatarairways.com/en/lounges/al-safwa-lounge.html",
+    "operator": "Qatar Airways",
+    "source_urls": [
+      "https://www.qatarairways.com/en-us/lounges/al-safwa-lounge.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "DUPLICATA do #131 'Al Safwa First Lounge' (id dde933fe, batch 14) - ambos sao a mesma sala de Primeira Classe. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "47c8b99e-3e4c-4221-a537-1eb658729946",
+    "name": "American Airlines Flagship Lounge - Dallas (DFW)",
+    "airport_iata": "DFW",
+    "airport_name": "Dallas/Fort Worth International Airport (DFW)",
+    "terminal": "Terminal D",
+    "location_description": "Terminal D (perto dos gates D, mezanino). Para voos internacionais de longo curso e transcontinentais elegiveis.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_first",
+      "oneworld_emerald",
+      "american_business",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aa.com/i18n/travel-info/experience/lounges/flagship-lounge.jsp",
+    "operator": "American Airlines",
+    "source_urls": [
+      "https://www.aa.com/i18n/travel-info/experience/lounges/flagship-lounge.jsp"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "AA Flagship Lounge (First/Business internacional e transcon; oneworld Emerald). Elegiveis tem acesso ao Flagship First Dining (a la carte). Foto anterior generica removida."
+  }
+]

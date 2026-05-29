@@ -727,5 +727,41 @@
     "recommended_action": "merge",
     "related_id_hint": "d6740fdb",
     "detail": "DUPLICATA: 4o registro 'Al Mourjan Business Lounge' - ver Al Mourjan South (id d6740fdb, batch 13), The Garden (id f700093a, batch 14) e generico (id 21c35328, batch 15). Mesclar no South. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e62bfd6b-a924-4b83-910d-2abbf4430e1b",
+    "name": "Air India Maharaja Lounge - Delhi (T3)",
+    "airport_iata": "DEL",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: base indica cidade 'Agra' - incorreto; IATA DEL = Nova Delhi. Sala First/Business da Air India (que nao integra alianca apos a saida do plano Star Alliance). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f5fb3f8b-ce3a-4de0-a62b-f09f40126618",
+    "name": "Plaza Premium Lounge - Delhi T3 (Internacional)",
+    "airport_iata": "DEL",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": "45bb9bee",
+    "detail": "CONFLITO: base indica cidade 'Agra' (e Nova Delhi). Unidade INTERNACIONAL do Plaza Premium no T3 - distinta do #134 'Domestic Arrivals' (id 45bb9bee, batch 15). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6e75cb4b-e00b-4751-8884-30e863692f38",
+    "name": "LATAM VIP Lounge CWB (a verificar existencia)",
+    "airport_iata": "CWB",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: a LATAM nao opera sala propria em CWB. Lounges: Advantage, Bradesco, Inter, W Premium (dom) + Advantage (intl) + Break Travel. Provavel mapeamento incorreto - corrigir/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e0279ade-1470-43eb-8ed4-0849e4a9f158",
+    "name": "Al Safwa First Class Lounge DOH",
+    "airport_iata": "DOH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "dde933fe",
+    "detail": "DUPLICATA do #131 'Al Safwa First Lounge' (id dde933fe, batch 14) - ambos sao a mesma sala de Primeira Classe. Mesclar. Foto anterior generica removida."
   }
 ]
