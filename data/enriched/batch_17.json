@@ -1,0 +1,500 @@
+[
+  {
+    "lounge_id": "5e542584-24af-4baa-874e-51878fea0682",
+    "name": "Brussels Airlines THE LOFT (Brussels)",
+    "airport_iata": "BRU",
+    "airport_name": "Brussels Airport (BRU)",
+    "terminal": "Terminal A (Pier A)",
+    "location_description": "Pier A (area Schengen). A sala non-Schengen da Brussels Airlines e a THE SUITE, junto aos gates B.",
+    "hours_open_text": "Fechada temporariamente p/ reforma (desde 05/01/2026)",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "sleep_rooms",
+      "kids_area",
+      "luggage_storage",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class",
+      "lounge_voucher"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.brusselsairlines.com/at/en/extra-services/lounges/brussels-airport-lounges",
+    "operator": "Brussels Airlines",
+    "source_urls": [
+      "https://www.brusselsairport.be/en/passenger/at-the-airport/services/lounges/brussels-airlines-lounges",
+      "https://liveandletsfly.com/brussels-airlines-the-loft-lounge-review/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "CONFLITO: base indica non-Schengen, mas THE LOFT fica no Pier A (Schengen); a sala non-Schengen e a THE SUITE (gates B). Alem disso, fechada temporariamente para reforma desde 05/01/2026 (reabertura prevista ~verao/2026). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "210ea259-eff2-41d3-9b5a-228ced5a8ae5",
+    "name": "W Lounge - Cuiaba (Marechal Rondon)",
+    "airport_iata": "CGB",
+    "airport_name": "Aeroporto Internacional Marechal Rondon (Cuiaba)",
+    "terminal": "Terminal Unico",
+    "location_description": "Mezanino, area de embarque domestico, apos o controle de seguranca.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "diners_club",
+      "visa_infinite",
+      "mastercard_black",
+      "bradesco_elo_diners",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://my.prioritypass.com/pt-BR/lounges/brazil/cuiaba-marechal-rondon-intl/cgb-w-lounge-cuiaba",
+    "operator": "W Premium Group",
+    "source_urls": [
+      "https://my.prioritypass.com/pt-BR/lounges/brazil/cuiaba-marechal-rondon-intl/cgb-w-lounge-cuiaba"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "DUPLICATA: este registro ('W Premium Lounge Cuiaba') e o #157 'Sala VIP Cuiaba' (id c80057e7) apontam para o W Lounge Cuiaba. CGB tem 2 salas (W Lounge + The Lounge/Global Lounge Network); se distintas, remapear uma para 'The Lounge Cuiaba'. Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "36721cfa-6291-475e-9c03-845a30115148",
+    "name": "Advantage VIP Lounge - Campo Grande",
+    "airport_iata": "CGR",
+    "airport_name": "Aeroporto Internacional de Campo Grande (CGR)",
+    "terminal": "Terminal Unico",
+    "location_description": "1o piso, em frente aos balcoes de check-in (~96 m2, 60 lugares).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "diners_club",
+      "mastercard_black",
+      "visa_infinite",
+      "bradesco_elo_nanquim",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.advantagevip.com.br/salas/cgr-campo-grande",
+    "operator": "Advantage Group",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/brazil/campo-grande-international/cgr-advantage-vip-lounge",
+      "https://passageirodeprimeira.com/advantage-vip-lounge-e-inaugurado-no-aeroporto-de-campo-grande/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "CONFLITO DE NOME: nao ha 'W Premium Lounge' em CGR; a unica sala documentada e a Advantage VIP Lounge. DUPLICATA provavel do #168 'BRB Lounge Campo Grande' (id 2f991eb8) - mesma sala. Corrigir nome/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c1a515fc-4822-4c37-a3ce-6584ba308bfa",
+    "name": "SWISS Business Lounge - Zurich (A Gates)",
+    "airport_iata": "ZRH",
+    "airport_name": "Zurich Airport (ZRH)",
+    "terminal": "Terminal A (Gates A)",
+    "location_description": "Gates A (area Schengen/Europa), Nivel 2. A direita apos a seguranca, junto ao vidro panoramico.",
+    "hours_open_text": "06:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "swiss_business",
+      "star_alliance_business",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.swiss.com/ch/en/fly/airport/lounges/lounges-zurich",
+    "operator": "SWISS",
+    "source_urls": [
+      "https://thepointsguy.com/airline/reviews/swiss-senator-business-lounge-e-gates-zurich-review/",
+      "https://onemileatatime.com/reviews/swiss-business-lounge-zurich/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Lounge Business da SWISS junto aos Gates A (voos europeus). Distinto dos lounges dos Gates E (longo curso). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "95887018-ec56-4823-86d2-273c7b58a82f",
+    "name": "Plaza Premium Lounge BSB (a verificar existencia)",
+    "airport_iata": "BSB",
+    "airport_name": "Aeroporto Internacional de Brasilia (Juscelino Kubitschek)",
+    "terminal": "Terminal 1",
+    "location_description": "Existencia de Plaza Premium em BSB nao confirmada. Lounges documentados: Aeroportos VIP Club (2o piso airside), Gol Premium, Smiles, AA Admirals Club.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/brazil/brasilia-international/bsb-aeroportos-vip-club",
+      "https://www.loungebuddy.com/BSB"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 28,
+    "notes": "VERIFICAR EXISTENCIA: nao foi encontrada Plaza Premium Lounge em BSB. O principal operador airside e o Aeroportos VIP Club (Priority Pass). Provavel mapeamento incorreto - corrigir operadora/nome. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b5703d13-1530-4ba7-ab1b-3c18ed6ec75a",
+    "name": "SWISS Senator Lounge - Zurich (E Gates)",
+    "airport_iata": "ZRH",
+    "airport_name": "Zurich Airport (ZRH)",
+    "terminal": "Terminal E (Gates E)",
+    "location_description": "Gates E (longo curso/non-Schengen), Nivel 3, proximo aos gates E36/E43 (entrada compartilhada com a Business Lounge E).",
+    "hours_open_text": "06:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "swiss_first",
+      "star_alliance_first",
+      "star_alliance_gold",
+      "miles_and_more_senator"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.swiss.com/ch/en/fly/airport/lounges/lounges-zurich",
+    "operator": "SWISS",
+    "source_urls": [
+      "https://theluxurytraveller.com/lounge-reviews/swiss-senator-zurich-zrh-e-gates-2/",
+      "https://onemileatatime.com/reviews/swiss-senator-lounge-zurich/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 62,
+    "notes": "Senator Lounge (Star Alliance Gold/First) nos Gates E. Compartilha entrada com a Business Lounge E. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c3b98bc9-9b53-45ab-8c6c-730d6c163224",
+    "name": "Menzies Aviation Lounge - Stockholm Arlanda (T5)",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 5",
+    "location_description": "Terminal 5 (Pier A / area airside). Sala operada pela Menzies (Business/Pearl).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "conference",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/sweden/stockholm-arlanda/arn-menzies-aviation-lounge",
+    "operator": "Menzies Aviation",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/sweden/stockholm-arlanda/arn-menzies-aviation-lounge",
+      "https://flyctory.com/2025/06/02/menzies-pearl-lounge-stockholm-airport-arn-terminal-5-c-gates/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "A Menzies opera mais de uma sala no T5 (Business no Pier A e Pearl/Norrsken perto do E1); a antiga Menzies Executive Lounge encerrou atividades. Verificar a qual sala o registro corresponde. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2f991eb8-6413-452f-864c-754239589cce",
+    "name": "Advantage VIP Lounge - Campo Grande [registro BRB]",
+    "airport_iata": "CGR",
+    "airport_name": "Aeroporto Internacional de Campo Grande (CGR)",
+    "terminal": "Terminal Unico",
+    "location_description": "Piso superior, area de embarque (provavel mesma sala Advantage VIP).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "diners_club",
+      "mastercard_black",
+      "visa_infinite",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.advantagevip.com.br/salas/cgr-campo-grande",
+    "operator": "Advantage Group",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/brazil/campo-grande-international/cgr-advantage-vip-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "DUPLICATA: 'BRB Lounge Campo Grande' e o #163 'W Premium Lounge Campo Grande' (id 36721cfa) apontam para a unica sala de CGR, a Advantage VIP Lounge. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ed5ba45c-d91d-4cb4-8465-c7ca501c29bb",
+    "name": "American Express Centurion Lounge BOS (a verificar - nao inaugurado)",
+    "airport_iata": "BOS",
+    "airport_name": "Boston Logan International Airport (BOS)",
+    "terminal": "Terminal C (previsto)",
+    "location_description": "Localizacao prevista: Terminal C, proximo ao gate C10 (~20.000 sq ft, com rooftop bar). Ainda nao aberto.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.thecenturionlounge.com/locations/bos/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://thepointsguy.com/news/amex-centurion-lounge-boston-logan-airport/",
+      "https://www.thecenturionlounge.com/locations/bos/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO EXISTE ainda: o Centurion Lounge de Boston tem abertura prevista para ~2027-2029 (Terminal C, perto do gate C10). Base indica Terminal B. Em 2026 nao ha Centurion Lounge operando em BOS. Recomendado desativar/adiar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2462d9ce-7ee7-48bf-affb-98443391406f",
+    "name": "Ahlein Premium Lounge - Cairo (T2)",
+    "airport_iata": "CAI",
+    "airport_name": "Cairo International Airport (CAI)",
+    "terminal": "Terminal 2",
+    "location_description": "2o andar do Terminal 2 (airside), a direita do duty-free, apos as salas da EgyptAir.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "prayer_room",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/egypt/cairo-international/cai7-ahlein---premium-lounge",
+    "operator": "Ahlein",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/egypt/cairo-international/cai7-ahlein---premium-lounge",
+      "https://travelupdate.com/review-ahlein-premium-lounge/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Sala contratada (Priority Pass/Amex) no T2, aberta 24h. Sala de oracao e area de fumantes. Foto anterior generica removida."
+  }
+]

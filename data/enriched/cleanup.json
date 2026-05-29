@@ -538,5 +538,59 @@
     "recommended_action": "fix",
     "related_id_hint": null,
     "detail": "CONFLITO: base indica 'Embarque Schengen', mas a Sala VIP Miro (Joan Miro/Aena) fica na area NON-Schengen do T1 (voos intercontinentais). Corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "5e542584-24af-4baa-874e-51878fea0682",
+    "name": "Brussels Airlines THE LOFT (Brussels)",
+    "airport_iata": "BRU",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: base indica non-Schengen, mas THE LOFT fica no Pier A (Schengen); a sala non-Schengen e a THE SUITE (gates B). Alem disso, fechada temporariamente para reforma desde 05/01/2026 (reabertura prevista ~verao/2026). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "210ea259-eff2-41d3-9b5a-228ced5a8ae5",
+    "name": "W Lounge - Cuiaba (Marechal Rondon)",
+    "airport_iata": "CGB",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "c80057e7",
+    "detail": "DUPLICATA: este registro ('W Premium Lounge Cuiaba') e o #157 'Sala VIP Cuiaba' (id c80057e7) apontam para o W Lounge Cuiaba. CGB tem 2 salas (W Lounge + The Lounge/Global Lounge Network); se distintas, remapear uma para 'The Lounge Cuiaba'. Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "36721cfa-6291-475e-9c03-845a30115148",
+    "name": "Advantage VIP Lounge - Campo Grande",
+    "airport_iata": "CGR",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "2f991eb8",
+    "detail": "CONFLITO DE NOME: nao ha 'W Premium Lounge' em CGR; a unica sala documentada e a Advantage VIP Lounge. DUPLICATA provavel do #168 'BRB Lounge Campo Grande' (id 2f991eb8) - mesma sala. Corrigir nome/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "95887018-ec56-4823-86d2-273c7b58a82f",
+    "name": "Plaza Premium Lounge BSB (a verificar existencia)",
+    "airport_iata": "BSB",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: nao foi encontrada Plaza Premium Lounge em BSB. O principal operador airside e o Aeroportos VIP Club (Priority Pass). Provavel mapeamento incorreto - corrigir operadora/nome. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2f991eb8-6413-452f-864c-754239589cce",
+    "name": "Advantage VIP Lounge - Campo Grande [registro BRB]",
+    "airport_iata": "CGR",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "36721cfa",
+    "detail": "DUPLICATA: 'BRB Lounge Campo Grande' e o #163 'W Premium Lounge Campo Grande' (id 36721cfa) apontam para a unica sala de CGR, a Advantage VIP Lounge. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ed5ba45c-d91d-4cb4-8465-c7ca501c29bb",
+    "name": "American Express Centurion Lounge BOS (a verificar - nao inaugurado)",
+    "airport_iata": "BOS",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "NAO EXISTE ainda: o Centurion Lounge de Boston tem abertura prevista para ~2027-2029 (Terminal C, perto do gate C10). Base indica Terminal B. Em 2026 nao ha Centurion Lounge operando em BOS. Recomendado desativar/adiar. Foto anterior generica removida."
   }
 ]
