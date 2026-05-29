@@ -1,0 +1,499 @@
+[
+  {
+    "lounge_id": "9ad32103-24bd-4fa4-8db3-e7ee4797600d",
+    "name": "OP Lounge by Aspire - Helsinki",
+    "airport_iata": "HEL",
+    "airport_name": "Helsinki Airport (HEL)",
+    "terminal": "Main Terminal (Schengen)",
+    "location_description": "Area Schengen, apos o controle de seguranca, no Gate 22, 3o andar. Vista para a pista.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "meeting_room",
+      "conference",
+      "kids_area",
+      "workspace",
+      "relaxation_area",
+      "runway_view",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aspirelounges.com/airport-lounges/helsinki-airport-op-lounge-by-aspire/",
+    "operator": "Aspire (Swissport) / OP Financial Group",
+    "source_urls": [
+      "https://www.aspirelounges.com/airport-lounges/helsinki-airport-op-lounge-by-aspire/",
+      "https://www.finavia.fi/en/airports/helsinki-airport/lounges/op-lounge-by-aspire"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "OP Lounge by Aspire (parceria Aspire/Swissport com OP Financial Group) na area Schengen do HEL, Gate 22 3F, com vista de pista, chef e bar. Acesso OP Gold/Platinum, Priority Pass e pago. Distinta das Aspire Lounge Gate 13/27. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "64083c25-cf3e-4bc4-8585-5a546c6957fe",
+    "name": "Korean Air First Class Lounge - Seoul Incheon (T2)",
+    "airport_iata": "ICN",
+    "airport_name": "Incheon International Airport (Seoul)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, 4o andar, em frente ao gate 248; entrada compartilhada com o Miler Club, a sala First fica no lado direito.",
+    "hours_open_text": "04:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "oneworld_first",
+      "oneworld_emerald",
+      "skyteam_elite_plus"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.koreanair.com/us/en/airport/airport-guide/seoul-icn/lounge",
+    "operator": "Korean Air",
+    "source_urls": [
+      "https://www.koreanair.com/us/en/airport/airport-guide/seoul-icn/lounge",
+      "https://loungereview.com/lounges/korean-air-first-class-lounge-icn-terminal-2/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Korean Air First Class Lounge no T2 de Incheon (4F, frente ao gate 248). Acesso restrito a passageiros Korean Air First Class e oneworld First/Emerald; nao acessivel por cartao de credito. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f54d78eb-826f-4da7-a4ac-a7eb1c6a2442",
+    "name": "Capital One Lounge - New York JFK (T4)",
+    "airport_iata": "JFK",
+    "airport_name": "John F. Kennedy International Airport (JFK)",
+    "terminal": "Terminal 4",
+    "location_description": "Terminal 4, Nivel 3 (Retail Hall), proximo aos gates B (apos o controle de seguranca).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "coffee",
+      "shower",
+      "private_rooms",
+      "nursing_room",
+      "kids_area",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use",
+      "priority_pass",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Entrada paga para nao-titulares ~USD 90.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.capitalone.com/learn-grow/more-than-money/capital-one-lounges-arriving-in-airports/",
+    "operator": "Capital One",
+    "source_urls": [
+      "https://thepointsguy.com/credit-cards/capital-one-lounge/",
+      "https://www.dailydrop.com/pages/capital-one-lounge-jfk"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "CONFLITO de nome: no JFK T4 a unidade e a Capital One Lounge (flagship 24h), nao a versao reduzida 'Landing'. Nivel 3 do Retail Hall, perto dos gates B. Acesso para Venture X e Priority Pass selecionado; pago ~USD 90. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "240fa4b5-dbc8-4320-8832-57f1779c4a2c",
+    "name": "Pearl Lounge - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, airside; apos a imigracao de saida vire a esquerda, 2o andar em frente ao Gate 2.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "diners_club",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": "Criancas menores de 2 anos entram gratis.",
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/kuwait/kuwait-international/kwi2-pearl-lounge",
+    "operator": "Pearl Assist",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/kuwait/kuwait-international/kwi2-pearl-lounge",
+      "https://simpleflying.com/pearl-lounge-review-kuwait-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Pearl Lounge no T1 de Kuwait (2F, frente ao Gate 2), 24h, com sala de fumantes separada. Priority Pass/Diners/Amex e pago. Ha tambem Pearl Lounge no T3 (Sheikh Saad) e T5 - unidades distintas. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "770a4848-fbad-4ad6-9276-4c7d15c3979e",
+    "name": "The Emirates Lounge - London Gatwick (North Terminal)",
+    "airport_iata": "LGW",
+    "airport_name": "London Gatwick Airport (LGW)",
+    "terminal": "North Terminal",
+    "location_description": "North Terminal, airside, a esquerda apos o duty free. (DB indicava South Terminal incorretamente.)",
+    "hours_open_text": "06:05-14:35, 17:45-23:55",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "emirates_business",
+      "emirates_first",
+      "skywards_gold",
+      "skywards_platinum",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Entrada paga para economy Emirates ~GBP 100-125.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.emirates.com/",
+    "operator": "Emirates",
+    "source_urls": [
+      "https://www.loungebuddy.com/LGW/the-emirates-lounge-north-terminal-NWxyODVEqS",
+      "https://www.headforpoints.com/2022/04/23/review-emirates-business-class-lounge-london-gatwick-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "CONFLITO de terminal: o registro indica South Terminal, mas a Emirates Lounge de Gatwick fica no NORTH Terminal (Emirates opera no North). Acesso Skywards Gold/Platinum, Business/First e economy pago. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "8d82808b-572a-4a02-a29e-9b5d327f4168",
+    "name": "British Airways Lounge - New York JFK (T8)",
+    "airport_iata": "JFK",
+    "airport_name": "John F. Kennedy International Airport (JFK)",
+    "terminal": "Terminal 8",
+    "location_description": "Terminal 8, salas BA/AA (Chelsea, Soho e Greenwich) acima dos gates 12/14. BA mudou do antigo T7 para o T8.",
+    "hours_open_text": "04:15-01:15",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "spa",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "oneworld_first",
+      "oneworld_emerald",
+      "oneworld_sapphire"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.britishairways.com/content/information/airport-information/new-york-jfk",
+    "operator": "British Airways / American Airlines",
+    "source_urls": [
+      "https://www.britishairways.com/content/information/airport-information/new-york-jfk",
+      "https://londonairtravel.com/british-airways/british-airways-airport-lounges/british-airways-soho-lounge-new-york-jfk-terminal-8/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "CONFLITO de terminal/nome: o registro cita T7 ('JFK T7'), mas a antiga Galleries do Terminal 7 encerrou e a BA opera no Terminal 8 desde dez/2022 (salas Chelsea/Soho/Greenwich com AA). Acesso First/Club World + oneworld Emerald/Sapphire. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "71a705a7-4662-4be8-b215-6c2bae26831c",
+    "name": "IGA Pop-Up Lounge - Istanbul",
+    "airport_iata": "IST",
+    "airport_name": "Istanbul Airport (IST)",
+    "terminal": "International (airside)",
+    "location_description": "Area internacional de embarque, em frente ao Gate A5 (perto dos gates A). Sala pequena (~20 lugares).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "coffee",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.igapass.com/en/iga-pop-up-lounge-p-2000?locale=en",
+    "operator": "IGA (operadora do aeroporto)",
+    "source_urls": [
+      "https://www.igapass.com/en/iga-pop-up-lounge-p-2000?locale=en",
+      "https://www.prioritypass.com/lounges/turkey/istanbul-airport/ist12-pop-up-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "IGA Pop-Up Lounge no IST, em frente ao Gate A5 (area internacional) - sala pequena com snacks, cafe e wi-fi, sem bebidas alcoolicas. Priority Pass e pago. Distinta da IGA Lounge principal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "750f67ee-668c-43be-b88d-ac92ee524a3a",
+    "name": "JAL Diamond Premier Lounge - Tokyo Haneda (T1 South Wing)",
+    "airport_iata": "HND",
+    "airport_name": "Tokyo Haneda Airport (HND)",
+    "terminal": "Terminal 1 (South Wing)",
+    "location_description": "Terminal 1, South Wing, 3o andar (entrada pelo balcao First Class no 2o andar). Lounge domestico.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "oneworld_first",
+      "oneworld_emerald"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.jal.co.jp/jp/en/dom/service/lounge/hnd/diamond.html",
+    "operator": "Japan Airlines (JAL)",
+    "source_urls": [
+      "https://www.jal.co.jp/jp/en/dom/service/lounge/hnd/diamond.html",
+      "https://loungereview.com/lounges/jal-diamond-premier-lounge-hnd-south-wing/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "JAL Diamond Premier Lounge (domestico) no T1 South Wing de Haneda, 3F. Sala top domestica da JAL: First Class JAL, JMB Diamond/JGC Premier e oneworld Emerald. Ha versao no North Wing (registro distinto). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7122f0a8-b83e-4b7c-b614-04a72fb23e74",
+    "name": "ANA Lounge - Tokyo Haneda (T2)",
+    "airport_iata": "HND",
+    "airport_name": "Tokyo Haneda Airport (HND)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2 (Main Building North), area domestica perto do gate 60; ha tambem a ANA Lounge internacional no 4F do T2.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "noodle_bar",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "star_alliance_gold",
+      "star_alliance_first"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.ana.co.jp/en/us/travel-information/lounges/haneda/",
+    "operator": "All Nippon Airways (ANA)",
+    "source_urls": [
+      "https://www.ana.co.jp/en/us/travel-information/lounges/haneda/",
+      "https://www.ana.co.jp/en/jp/guide/lounge/international/hnd/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "ANA Lounge no T2 de Haneda. O endereco do registro (3F Main Building North) corresponde a area domestica; ha tambem a ANA Lounge/ANA Suite Lounge internacional (4F) no mesmo T2. Acesso Business/Premium Economy e Star Alliance Gold. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a4810211-6b80-409c-8fcd-2dad5dd3a447",
+    "name": "Smoking Lounge - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 1",
+    "location_description": "Area/sala de fumantes no Terminal 1 (airside). Nao e uma sala VIP.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://indepartures.com/kuwait-international-airport/terminal-1/32/smoking-area"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 16,
+    "notes": "NAO E UMA SALA VIP: trata-se da area/sala de fumantes do Terminal 1 de Kuwait, nao de um lounge de cortesia. Sem servicos, acesso ou amenidades de sala VIP. Foto anterior generica removida."
+  }
+]

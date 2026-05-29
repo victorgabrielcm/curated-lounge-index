@@ -1,0 +1,502 @@
+[
+  {
+    "lounge_id": "fcd422f3-f2bd-46ac-b059-52694fe8b6b8",
+    "name": "Hong Kong Airlines Lounge (Club Autus) - Hong Kong",
+    "airport_iata": "HKG",
+    "airport_name": "Hong Kong International Airport (HKG)",
+    "terminal": "Terminal 1 (Midfield Concourse)",
+    "location_description": "Terminal 1, Midfield Concourse, 7o andar (L7), perto dos gates 201-230 (gate mais proximo: 212).",
+    "hours_open_text": "06:30-02:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "shower",
+      "sleep_area",
+      "massage_chairs",
+      "workspace",
+      "business_center",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "star_alliance_gold",
+      "dragonpass",
+      "priority_pass",
+      "lounge_voucher"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso para portadores de convite/voucher Hong Kong Airlines.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.hongkongairlines.com/",
+    "operator": "Hong Kong Airlines",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/hong-kong-sar/hong-kong-chek-lap-kok-intl/hkg9-club-autus",
+      "https://www.loungepair.com/at/HKG/hong-kong-international-airport-transfer-concourse-hong-kong-airlines-lounge-club-autus/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Hong Kong Airlines Club Autus no T1 (Midfield Concourse, L7, perto do gate 212), 06:30-02:30. Business Class HKA, Fortune Wings Club Platinum/Gold/Silver, Dragon Pass e Priority Pass. O endereco 'Gate 212, New Territories' do registro confere com a Club Autus. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e17835cc-a639-418d-b6e9-8c22e575a6ff",
+    "name": "Derwaza Lounge - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, airside, area de embarque internacional.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Derwaza Lounge",
+    "source_urls": [
+      "https://www.loungebuddy.com/KWI/derwaza-lounge-terminal-1-RbJOww19Pk",
+      "https://thislounge.com/kwi"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "Derwaza Lounge no Terminal 1 de Kuwait International. Sala paga/contrato (Priority Pass/Dragon Pass). O sufixo 'Emirates' no nome do registro nao corresponde a uma sala da Emirates - e a Derwaza Lounge independente. Abre conforme voos. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3879a60e-1200-495c-a647-07de2289c855",
+    "name": "Derwaza Lounge - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, airside, area de embarque internacional.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Derwaza Lounge",
+    "source_urls": [
+      "https://www.loungebuddy.com/KWI/derwaza-lounge-terminal-1-RbJOww19Pk",
+      "https://thislounge.com/kwi"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 22,
+    "notes": "DUPLICATA da Derwaza Lounge no T1 de KWI (ver registro id e17835cc 'Derwaza Lounge Emirates'). Mesma sala, ambos rotulados 'Emirates' indevidamente - consolidar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2efc1aae-7e8f-494b-bd6e-b902447d5315",
+    "name": "British Airways First Lounge - London Gatwick (South Terminal)",
+    "airport_iata": "LGW",
+    "airport_name": "London Gatwick Airport (LGW)",
+    "terminal": "South Terminal",
+    "location_description": "South Terminal, airside. Sala First da British Airways (junto a Club Lounge), com vista para a pista.",
+    "hours_open_text": "05:00-21:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "workspace",
+      "rest_area",
+      "runway_view",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_first",
+      "oneworld_emerald",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.britishairways.com/content/information/airport-information/london-gatwick",
+    "operator": "British Airways",
+    "source_urls": [
+      "https://www.britishairways.com/content/information/airport-information/london-gatwick",
+      "https://www.headforpoints.com/2022/08/26/review-british-airways-first-class-lounge-london-gatwick-airport-south-terminal/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "British Airways First Lounge no South Terminal de Gatwick (area First dentro do complexo Club/First). Acesso First Class, oneworld Emerald e BA Gold. Horario varia com voos (~05:00-21:00). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ab229bf2-4ab3-404f-84bd-450c92ee78e1",
+    "name": "Malaysia Airlines Golden Lounge (Satellite) - Kuala Lumpur",
+    "airport_iata": "KUL",
+    "airport_name": "Kuala Lumpur International Airport (KLIA)",
+    "terminal": "Satellite Terminal (Terminal 1)",
+    "location_description": "Edificio Satelite (KLIA Main/T1), nivel mezanino (Level 2), zona oeste, perto dos gates C1-C6, sobre a estacao do Aerotrain.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "prayer_room",
+      "workspace",
+      "relaxation_area",
+      "rest_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_first",
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.malaysiaairlines.com/",
+    "operator": "Malaysia Airlines",
+    "source_urls": [
+      "https://klia.info/lounges/mas_golden_lounge.htm",
+      "https://loungefindr.com/lounge/malaysia-airlines-golden-lounge-kul-satellite-kul"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Golden Lounge Satellite da Malaysia Airlines no Edificio Satelite do KLIA (mezanino/L2, oeste, perto gates C1-C6), 24h. First/Business e oneworld Emerald/Sapphire. KUL tem varias Golden Lounge (Satellite, Main, Regional, Platinum) - unidades distintas. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "816d0455-b13d-4577-8352-c64f102f0bf6",
+    "name": "Visa Infinite Lounge - Guarulhos (T3 Internacional)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, area de embarque internacional. Sala exclusiva para portadores Visa Infinite.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "shower",
+      "luggage_storage",
+      "kids_area",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "visa_infinite",
+      "visa_airport_companion"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": "Opcoes infantis no buffet; sala familiar disponivel.",
+    "guest_policy": "Titular Visa Infinite + ate 3 acompanhantes.",
+    "voucher_info": "Acesso via cadastro no app Visa Airport Companion.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.visa.com.br/sobre-a-visa/vac.html",
+    "operator": "Visa / GRU Airport",
+    "source_urls": [
+      "https://www.visa.com.br/sobre-a-visa/noticias-visa/nova-sala-de-imprensa/lancamentos-visa-aeroporto-guarulhos.html",
+      "https://www.gru.com.br/en/passenger/discover-gru/relax/vip-lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 62,
+    "notes": "Visa Infinite Lounge no T3 internacional de GRU, 24h. Exclusiva para titulares Visa Infinite (+3 acompanhantes, ate 3h) via app Visa Airport Companion; buffet/a la carte, bar, duchas, sala familiar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ed76ad1b-cec7-4455-86e2-cc8405423826",
+    "name": "VIP Lounge - Helsinki (generico - a verificar)",
+    "airport_iata": "HEL",
+    "airport_name": "Helsinki Airport (HEL)",
+    "terminal": "Main Terminal",
+    "location_description": "Registro generico 'VIP Lounge' em Helsinki, sem sala dedicada identificada.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.finavia.fi/en/airports/helsinki-airport/lounges",
+    "operator": null,
+    "source_urls": [
+      "https://www.finavia.fi/en/airports/helsinki-airport/lounges",
+      "https://www.prioritypass.com/en-GB/lounges/finland/helsinki-vantaa"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 26,
+    "notes": "VERIFICAR EXISTENCIA: nao ha sala chamada 'VIP Lounge' em HEL. O aeroporto tem Aspire (Gate 13/Gate 27), Plaza Premium, OP Lounge e as salas Finnair. Nome generico - provavel duplicata de uma dessas (Aspire/Plaza Premium via Priority Pass). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "82f38fd0-62c0-4de3-8af1-562e140928c1",
+    "name": "GRU Lounge (ex-Star Alliance Lounge) - Guarulhos (T3)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, nivel mezanino apos a seguranca; embarque/desembarque internacional. Espaco Banco Safra / GRU Lounge.",
+    "hours_open_text": "12:00-03:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "rest_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "star_alliance_business",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.gru.com.br/en/passenger/discover-gru/relax/vip-lounges",
+    "operator": "GRU Airport / Banco Safra",
+    "source_urls": [
+      "https://www.staralliance.com/en/news-article?newsArticleId=170080",
+      "https://pontospravoar.com/empresas-star-alliance-seguem-usando-gru-lounge-terminal-3-aeroporto-guarulhos/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "CONFLITO de nome: a antiga 'Star Alliance Lounge' do T3 de GRU encerrou a marca Star Alliance e passou a ser o 'GRU Lounge' / Espaco Banco Safra (mezanino, apos seguranca, internacional). Ainda usada por cias Star Alliance (Lufthansa, Swiss, TAP, Turkish, Copa, Air Canada, Ethiopian); 12:00-03:00. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "aa06e60a-59d8-4d7f-a1c9-e2fdd01e19af",
+    "name": "Area de Fumantes (IGA Lounge) - Istanbul",
+    "airport_iata": "IST",
+    "airport_name": "Istanbul Airport (IST)",
+    "terminal": "International (airside)",
+    "location_description": "Terraco/area de fumantes dentro da IGA Lounge no embarque internacional - nao e uma sala VIP independente.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "outdoor_terrace"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.istairport.com/en/flights/airport-guides/transfer-passenger-guide/services/special-passenger-services/iga-lounge",
+    "operator": "IGA (operadora do aeroporto)",
+    "source_urls": [
+      "https://www.istairport.com/en/flights/airport-guides/transfer-passenger-guide/services/special-passenger-services/iga-lounge",
+      "https://www.prioritypass.com/en-GB/lounges/turkey/istanbul/ist9-iga-lounge-international"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 16,
+    "notes": "NAO E UMA SALA: 'Smoking Area' e o terraco de fumantes (com aquecimento) dentro da IGA Lounge International de IST, nao uma sala VIP propria. A sala em si e a IGA Lounge (registro distinto). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "fec5a05d-e45f-4541-b9bc-debe7efad1b1",
+    "name": "My Lounge by No1 Lounges - London Gatwick (North Terminal)",
+    "airport_iata": "LGW",
+    "airport_name": "London Gatwick Airport (LGW)",
+    "terminal": "North Terminal",
+    "location_description": "North Terminal, airside. Sala My Lounge operada pela No1 Lounges.",
+    "hours_open_text": "04:00-20:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "tv",
+      "meeting_room",
+      "workspace",
+      "relaxation_area",
+      "runway_view",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": "Biblioteca dedicada a maiores de 12 anos.",
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://no1lounges.com/lounges-by-location/my-lounge-at-gatwick-north/",
+    "operator": "No1 Lounges",
+    "source_urls": [
+      "https://no1lounges.com/lounges-by-location/my-lounge-at-gatwick-north/",
+      "https://www.gatwickairport.com/premium-services/lounge-airport/lounge-no1.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "My Lounge (No1 Lounges) no North Terminal de Gatwick, 04:00-20:00, estadia ~3h. Priority Pass/LoungeKey/Dragon Pass/Amex e walk-in. Distinta da No1 Lounge South Terminal. Foto anterior generica removida."
+  }
+]

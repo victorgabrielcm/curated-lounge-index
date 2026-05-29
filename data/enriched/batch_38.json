@@ -1,0 +1,483 @@
+[
+  {
+    "lounge_id": "9f6e8349-8c13-4e19-b684-411eb3324d9e",
+    "name": "Delta Sky Club - New York JFK (T4)",
+    "airport_iata": "JFK",
+    "airport_name": "John F. Kennedy International Airport (JFK)",
+    "terminal": "Terminal 4",
+    "location_description": "Terminal 4, airside. Ha duas unidades: Concourse A (perto do gate A7) e Concourse B (perto do gate B31).",
+    "hours_open_text": "04:45-23:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "phone_booth",
+      "outdoor_terrace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.delta.com/us/en/airports/united-states/new-york-city-sky-club-jfk-airport-map",
+    "operator": "Delta Air Lines",
+    "source_urls": [
+      "https://www.delta.com/us/en/airports/united-states/new-york-city-sky-club-jfk-airport-map",
+      "https://www.loungewiki.com/airports/jfk/lounges/delta-sky-club-jfk"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Delta Sky Club no T4 de JFK (duas unidades: Concourse A perto do gate A7 e Concourse B perto do gate B31). Sky Deck/terraco no Concourse A. Acesso Delta Sky Club, SkyTeam Elite Plus, Business e Amex Platinum (com voo Delta). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9767dc9c-5f7a-4b55-9a85-54f1b1db48b9",
+    "name": "Power Lounge South - Tokyo Haneda (T1)",
+    "airport_iata": "HND",
+    "airport_name": "Tokyo Haneda Airport (HND)",
+    "terminal": "Terminal 1 (South Wing)",
+    "location_description": "Terminal 1, South Wing, 2o andar, perto do gate 9 (area de embarque domestico, airside).",
+    "hours_open_text": "09:00-16:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": "Criancas menores de 4 anos entram gratuitamente.",
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://tokyo-haneda.com/en/service/facilities/lounge.html",
+    "operator": "Tokyo Airport (JAT)",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/japan/tokyo-haneda-intl/hnd15-power-lounge-south",
+      "https://roame.travel/guides/power-lounge-south-review"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Power Lounge South (Haneda T1, South Wing 2F, perto do gate 9) - sala paga/Priority Pass do terminal domestico. Priority Pass emitido no Japao nao tem acesso. HND tem varias Power Lounge (North/South/Central). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "31a6fd8c-e9f8-4964-9b2c-6bcce642fcfe",
+    "name": "British Airways Club Lounge - London Gatwick (South Terminal)",
+    "airport_iata": "LGW",
+    "airport_name": "London Gatwick Airport (LGW)",
+    "terminal": "South Terminal",
+    "location_description": "South Terminal, nivel 5 (mezanino superior apos a seguranca, a esquerda perto da JD Sports). Acesso por elevador. Vista de pista (gate 10).",
+    "hours_open_text": "05:00-21:45",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "runway_view",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_sapphire",
+      "oneworld_emerald",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.britishairways.com/en-gb/information/airport-information/lounges",
+    "operator": "British Airways",
+    "source_urls": [
+      "https://www.headforpoints.com/2022/03/30/review-british-airways-lounges-gatwick-airport-south-terminal/",
+      "https://www.turningleftforless.com/ba-club-new-lounge-at-gatwick-south-review/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "British Airways Club Lounge no South Terminal de Gatwick (nivel 5, mezanino apos seguranca). Para Club/Business BA e oneworld Sapphire/Emerald; ha tambem a BA First Lounge ao lado. Pedido de comida via QR na mesa. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f79cf8fd-8da6-464c-b391-c703cc6fe3e9",
+    "name": "Kuwait Airways Bayan Lounge - Kuwait (T4)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 4",
+    "location_description": "Terminal 4, airside, em frente ao gate D8. Sala premium/First & Royal Class da Kuwait Airways.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "coffee",
+      "shower",
+      "prayer_room",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "star_alliance_gold"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.kuwaitairways.com/",
+    "operator": "Kuwait Airways",
+    "source_urls": [
+      "https://thislounge.com/kwi/kuwait-airways-bayan-premium-lounge",
+      "https://loungereview.com/lounges/kuwait-airways-bayan-lounge-kwi/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Bayan Lounge (Kuwait Airways) no T4 de KWI, em frente ao gate D8 - sala First & Royal/Business. Kuwait e pais seco: sem alcool/bar. Distinta da Al Mubarakiya e Dasman. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c6474ba4-ea9d-459a-943c-4f7f9b326385",
+    "name": "The Centurion Lounge - New York JFK (T4)",
+    "airport_iata": "JFK",
+    "airport_name": "John F. Kennedy International Airport (JFK)",
+    "terminal": "Terminal 4",
+    "location_description": "Terminal 4, nivel 4, a esquerda apos a seguranca principal. Maior lounge Amex do mundo (dois andares, com speakeasy).",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "coffee",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/JFK/the-centurion-lounge-terminal-4-ErTeaB28Ky/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/JFK/the-centurion-lounge-terminal-4-ErTeaB28Ky/",
+      "https://upgradedpoints.com/travel/airports/amex-centurion-lounge-new-york-jfk/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Amex Centurion Lounge no T4 de JFK (nivel 4, apos seguranca) - maior lounge Amex do mundo, com speakeasy e shower suites. Para titulares Amex Platinum/Business Platinum/Centurion. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0fb046c1-1db8-4d61-9ca8-6d497ecd9672",
+    "name": "Plaza Premium Lounge (International Departures) - Jeddah (KAIA T1)",
+    "airport_iata": "JED",
+    "airport_name": "King Abdulaziz International Airport (Jeddah)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, embarque internacional, perto do gate 39 (airside).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/india-middle-east-south-africa/saudi-arabia/jeddah/king-abdulaziz-international-airport/international-departures-terminal-one",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/en-uk/find/india-middle-east-south-africa/saudi-arabia/jeddah/king-abdulaziz-international-airport/international-departures-terminal-one",
+      "https://www.prioritypass.com/lounges/saudi-arabia/jeddah-king-a-aziz-intl/jed6-plaza-premium-lounge-international-departures"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Plaza Premium Lounge (International Departures) no Terminal 1 de JED, perto do gate 39. Aberta a todos os passageiros internacionais; Priority Pass / pay-in. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "734088ff-4726-415a-ada7-18095644e714",
+    "name": "First Class Lounge - Jeddah (KAIA North Terminal)",
+    "airport_iata": "JED",
+    "airport_name": "King Abdulaziz International Airport (Jeddah)",
+    "terminal": "North Terminal",
+    "location_description": "North Terminal, logo apos a imigracao (apos seguranca e controle de passaportes), a esquerda. Apenas voos internacionais (nao Saudia).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Passe a partir de ~GBP 32 por pessoa.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.kaia.sa/",
+    "operator": "King Abdulaziz International Airport",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/saudi-arabia/jeddah-king-a-aziz-intl/jed1-first-class-lounge",
+      "https://loungereview.com/lounges/first-class-lounge-jed/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "First Class Lounge no North Terminal de JED (apos a imigracao), 24h, max ~3h. Apenas voos internacionais (nao atende Saudia). Priority Pass / pay-in; tem sala de fumantes. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c2733c36-1b00-4132-8576-011092bd259c",
+    "name": "Mastercard Black Lounge - Guarulhos (T2 Domestico)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 2",
+    "location_description": "Registro indica T2 domestico exclusivo Mastercard Black/Platinum, mas a Mastercard Black Lounge de GRU fica no Terminal 3 (internacional).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "mastercard_black",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://airport.mastercard.com/pt/lounge-finder/lounge?loungecode=GRU16",
+    "operator": "Mastercard",
+    "source_urls": [
+      "https://airport.mastercard.com/en/lounge-finder/terminal?airportcode=GRU&terminalcode=1428",
+      "https://loungereview.com/lounges/mastercard-black-vip-lounge-2-gru/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 26,
+    "notes": "CONFLITO: a Mastercard Black Lounge de GRU fica no Terminal 3 (internacional), nao no Terminal 2 domestico. No T2 domestico as salas Mastercard Black sao a Banco Inter VIP Lounge / Advantage, nao uma 'Mastercard Black Lounge' propria. Provavel registro com terminal errado/duplicata do lounge do T3. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "bbbd893f-b640-4f24-8aae-943b1636057d",
+    "name": "Wellcome Lounge - Jeddah (KAIA T1)",
+    "airport_iata": "JED",
+    "airport_name": "King Abdulaziz International Airport (Jeddah)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, 2o andar, ao lado do Domino's Pizza, perto do Duty Free. Apenas voos internacionais.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "coffee",
+      "shower",
+      "tv",
+      "luggage_storage",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Walk-in a partir de ~USD 38 por pessoa.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://jeddahairport.net/lounge/wellcome-lounge/",
+    "operator": "Wellcome Lounge",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/saudi-arabia/jeddah-king-a-aziz-intl/jed4-wellcome-lounge",
+      "https://loungereview.com/lounges/wellcome-lounge-jed/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Wellcome Lounge no Terminal 1 de JED (2o andar, ao lado do Domino's, perto do Duty Free), 24h, apenas internacional. Tem chuveiros, guarda-volumes e engraxate. Priority Pass / pay-in (~USD 38). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ea9f86ce-e066-4684-baba-45e0f4732b55",
+    "name": "Smoking Lounge - Kuwait (KWI)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 4",
+    "location_description": "Sala/area de fumantes apos os portoes (ex.: em frente ao gate B5). Nao e um lounge VIP.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://airportsmokinglounge.com/smoking-areas-at-kuwait-international-airport-kwi/",
+      "https://indepartures.com/kuwait-international-airport/terminal-4/32/smoking-area"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 14,
+    "notes": "NAO E UMA SALA VIP: trata-se de uma sala/area de fumantes do aeroporto de Kuwait (ex.: em frente ao gate B5), aberta a todos, sem servicos de lounge. Nao deve constar como lounge no indice. Foto anterior generica removida."
+  }
+]

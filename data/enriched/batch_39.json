@@ -1,0 +1,479 @@
+[
+  {
+    "lounge_id": "1bf3cc62-84db-4f1e-80b3-c4db9339fcf1",
+    "name": "VIP Lounge JED (generico - a verificar)",
+    "airport_iata": "JED",
+    "airport_name": "King Abdulaziz International Airport (Jeddah)",
+    "terminal": null,
+    "location_description": "Registro generico 'VIP Lounge' em JED, sem terminal/local definido.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "wifi",
+      "prayer_room",
+      "relaxation_area"
+    ],
+    "accepted_programs": [
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://my.prioritypass.com/en-GB/lounges/saudi-arabia/king-abdulaziz-international",
+      "https://airport.mastercard.com/en/lounge-finder/airport?airportcode=JED"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 26,
+    "notes": "VERIFICAR EXISTENCIA: 'VIP Lounge JED' e nome generico sem terminal definido. JED tem varias salas (Alfursan, GVIP/executive office, Plaza Premium). Provavel duplicata/registro generico - identificar a qual aponta. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e1fb3612-017a-419f-8109-de7e65d01fd3",
+    "name": "Kuwait Airways Dasman Lounge - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, airside, em frente aos gates 22-23.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "shower",
+      "kids_area",
+      "business_center",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "diners_club",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.kuwaitairways.com/",
+    "operator": "Kuwait Airways",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/kuwait/kuwait-international/kwi5-kuwait-airways---dasman-lounge",
+      "https://www.dinersclub.com/cardmembers/airport-lounges-details.Kuwait.Kuwait.kuwait-airways-dasman-lounge.KWI5/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 55,
+    "notes": "Kuwait Airways Dasman (First Class) Lounge no T1, em frente aos gates 22-23. First/Business + Oasis Club + Priority Pass/Diners. Tem sala de fumantes e area infantil. Distinta da Dasman Premier Lounge (KWI4). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "eabf5337-9cf7-4378-b59a-c480b0dece5a",
+    "name": "Club Aspire Lounge - Gatwick (South Terminal)",
+    "airport_iata": "LGW",
+    "airport_name": "London Gatwick Airport (LGW)",
+    "terminal": "South Terminal",
+    "location_description": "South Terminal, airside, proximo ao gate 13.",
+    "hours_open_text": "04:00-21:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "business_center",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Pay-at-door a partir de ~GBP 34. Priority Pass/DragonPass/LoungeKey so com reserva previa (a partir de ~GBP 6).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://no1lounges.com/lounges-by-location/club-aspire-at-gatwick-south/",
+    "operator": "No1 Lounges / Aspire",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/united-kingdom/london-gatwick/lgw14-club-aspire",
+      "https://no1lounges.com/lounges-by-location/club-aspire-at-gatwick-south/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Club Aspire Lounge no South Terminal de Gatwick (perto do gate 13), 04:00-21:00. Operada por No1 Lounges (Aspire). Priority Pass apenas com reserva previa. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "14b5e1d9-bec5-4c9e-b267-37537e0e5789",
+    "name": "Transfer Lounge (area de transito) - Seoul Incheon (T2)",
+    "airport_iata": "ICN",
+    "airport_name": "Incheon International Airport (Seoul)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, 4o andar (area de transito), proximo aos gates 231 e 268.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "rest_area",
+      "shower",
+      "relaxation_area",
+      "kids_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.airport.kr/ap/en/trn/trnServiceMain.do",
+    "operator": "Incheon International Airport Corporation",
+    "source_urls": [
+      "https://www.airport.kr/ap/en/trn/trnServiceMain.do",
+      "https://www.airport.kr/ap_en/1536/subview.do"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 30,
+    "notes": "NAO E UMA SALA VIP: 'Transfer Lounge' do T2 de ICN e uma area gratuita de descanso/transito (poltronas reclinaveis, zona de soneca, chuveiros) do aeroporto para conexoes, nao um lounge premium. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c2d83dae-bc02-427b-9237-654a32bcbb37",
+    "name": "Plaza Premium Lounge - KUL Satellite (FECHADO)",
+    "airport_iata": "KUL",
+    "airport_name": "Kuala Lumpur International Airport (KUL/KLIA)",
+    "terminal": "Terminal 1 (Satellite Building)",
+    "location_description": "Era no Level 2 do Satellite Building (perto dos gates C11-C17), KLIA T1.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "shower",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/asia/malaysia/kuala-lumpur/kuala-lumpur-international-airport/contact-pier",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://loungereview.com/lounges/plaza-premium-lounge-kul-satellite/",
+      "https://www.plazapremiumlounge.com/en-uk/find/asia/malaysia/kuala-lumpur/kuala-lumpur-international-airport/contact-pier"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 22,
+    "notes": "FECHADO PERMANENTEMENTE: a Plaza Premium Lounge do Satellite Building (KLIA T1, gates C11-17) encerrou; clientes redirecionados para a Plaza Premium Lounge do Contact Pier (perto do gate G). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "50587e28-efc5-4d45-90d0-5ae090b6279a",
+    "name": "Pearl Lounge (Mastercard) - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, airside, proximo aos gates 21-22.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "wifi",
+      "relaxation_area"
+    ],
+    "accepted_programs": [
+      "mastercard",
+      "dragonpass",
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://airport.mastercard.com/lounge-finder/lounge?loungecode=KWI2",
+    "operator": "Pearl Assist / Mastercard",
+    "source_urls": [
+      "https://airport.mastercard.com/lounge-finder/lounge?loungecode=KWI2",
+      "https://www.prioritypass.com/lounges/kuwait/kuwait-international/kwi2-pearl-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "CONFLITO/DUPLICATA: 'Master Card Lounge KWI' e nome generico; a sala Mastercard no T1 de KWI e a Pearl Lounge (gates 21-22), tambem na rede DragonPass/Priority Pass. Ha tambem a Pearl Metro Lounge no mesmo terminal. Consolidar com registro Pearl Lounge. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a871af9b-43d0-48e5-9254-2115875b191b",
+    "name": "The Centurion Lounge - London Heathrow (T3)",
+    "airport_iata": "LHR",
+    "airport_name": "London Heathrow Airport (LHR)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, Area A, Nivel 2 (apos a seguranca, seguir rota Flight Connection Area A).",
+    "hours_open_text": "05:30-21:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.thecenturionlounge.com/site/lhr/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://www.americanexpress.com/en-gb/travel/lounges/the-platinum-card/LHR/the-centurion-lounge-terminal-3-OhxqTRVf9E/",
+      "https://www.thecenturionlounge.com/site/lhr/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Amex Centurion Lounge no Terminal 3 (Area A, Nivel 2) de Heathrow, 05:30-21:00. Para titulares Amex Platinum/Business Platinum/Centurion. Acessivel apenas viajando pelo T3. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f0030d39-ddab-4b3c-96b6-969cad54e12d",
+    "name": "Finnair Lounge (Schengen) - Platinum/Lumo Corner - Helsinki",
+    "airport_iata": "HEL",
+    "airport_name": "Helsinki Airport (HEL)",
+    "terminal": "Main Terminal (Schengen)",
+    "location_description": "Lado Schengen, perto do gate 21, 3o andar. Area exclusiva (Platinum/Lumo Corner) dentro da Finnair Lounge Schengen.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "spa",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_emerald",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.finnair.com/en/flying-with-finnair/at-the-airport/finnair-lounges",
+    "operator": "Finnair",
+    "source_urls": [
+      "https://www.finnair.com/us-en/smooth-travelling-at-helsinki-airport/finnair-lounges-at-helsinki-airport",
+      "https://simpleflying.com/finnair-reveals-new-schengen-business-lounge-helsinki-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 42,
+    "notes": "DUPLICATA: o 'Lumo Area' e a area exclusiva Platinum/Lumo Corner dentro da Finnair Lounge Schengen (perto do gate 21), nao uma sala separada. Mesma sala do registro 2fb0ee10 (Finnair Lounge Schengen). So Finnair Platinum/Lumo e oneworld Emerald. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "208bcef1-ab45-4ab5-aa9c-d71d4dfb7f0d",
+    "name": "GVIP Lounge (Executive Office / المكتب التنفيذي) - Jeddah",
+    "airport_iata": "JED",
+    "airport_name": "King Abdulaziz International Airport (Jeddah)",
+    "terminal": "South Terminal",
+    "location_description": "Terminal executivo/VIP (GVIP) em JED. Salao executivo de ~4.000 m2.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "meeting_room",
+      "business_center",
+      "prayer_room",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "GACA / KAIA (terminal executivo)",
+    "source_urls": [
+      "https://www.arabnews.com/node/937736/amp",
+      "https://airssist.com/private-lounge/king-abdulaziz-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 36,
+    "notes": "NAO E UMA SALA VIP comum: 'GVIP / المكتب التنفيذي' e o terminal/salao executivo (Executive Office) de JED (~4.000 m2, area comercial, restaurantes, sala de reuniao, oracao), nao um lounge de embarque tradicional. Acesso premium/meet&greet (DragonPass). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "fe9fabb0-c17b-44ab-a734-cfc1268d71c1",
+    "name": "British Airways Galleries First - London Heathrow (T5)",
+    "airport_iata": "LHR",
+    "airport_name": "London Heathrow Airport (LHR)",
+    "terminal": "Terminal 5",
+    "location_description": "Terminal 5 (concourse sul, Galleries South), no nivel de recepcao. Acesso pelo First Wing.",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "spa",
+      "kids_area",
+      "business_center",
+      "luggage_storage",
+      "tarmac_view",
+      "outdoor_terrace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_first",
+      "oneworld_emerald",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.britishairways.com/content/information/lounges/first",
+    "operator": "British Airways",
+    "source_urls": [
+      "https://www.britishairways.com/content/information/lounges/first",
+      "https://loungereview.com/lounges/british-airways-galleries-first-lhr-t5/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "British Airways Galleries First Lounge no T5 (Galleries South), 05:00-22:00, com spa Elemis, terraco e vista do patio. Para First Class/oneworld Emerald (BA Gold). Distinta do Concorde Room (First exclusivo). Foto anterior generica removida."
+  }
+]

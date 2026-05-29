@@ -1566,6 +1566,33 @@
     "detail": "NAO E UMA SALA VIP comum: 'GVIP / المكتب التنفيذي' e o terminal/salao executivo (Executive Office) de JED (~4.000 m2, area comercial, restaurantes, sala de reuniao, oracao), nao um lounge de embarque tradicional. Acesso premium/meet&greet (DragonPass). Foto anterior generica removida."
   },
   {
+    "lounge_id": "28c42a13-9676-466b-87f3-27a9268dc0ff",
+    "name": "Plaza Premium Lounge - Guarulhos (Terminal 2)",
+    "airport_iata": "GRU",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: registro descreve Plaza Premium 'apos emigracao, embarque internacional' no T2, mas a Plaza Premium airside do T2 fica na zona DOMESTICA (Pier Oeste, gates 209-224); ha tambem a unidade landside. Embarque internacional de GRU concentra-se no T3. Terminal/localizacao a corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "62cb39d6-bf17-4d74-86f6-001627d930b3",
+    "name": "Saudia Alfursan Golden Lounge (International) - Jeddah (KAIA T1)",
+    "airport_iata": "JED",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "3130aa2b",
+    "detail": "DUPLICATA/relacionado: Alfursan Lounge (internacional) no Terminal 1 de JED, 24h, First+Business, SkyTeam Elite Plus. Ha tambem a Alfursan domestica no T1 (registro distinto - ver batch_34 id 3130aa2b). Distinguir/consolidar dominio domestico vs internacional. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c424eb3a-2334-4090-95ce-924cd3b0d579",
+    "name": "Sala VIP TudoAzul Diamante - Guarulhos (T2)",
+    "airport_iata": "GRU",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "NAO HA LOUNGE proprio 'TudoAzul Diamante' em GRU; e nivel de fidelidade que da acesso a salas parceiras, nao uma sala dedicada. VERIFICAR EXISTENCIA - registro deve mapear para a sala parceira efetiva. Foto anterior generica removida."
+  },
+  {
     "lounge_id": "e5082975-b5be-4243-862b-cdb6682f5f00",
     "name": "Living Heineken - Guarulhos T2 (bar, nao e lounge)",
     "airport_iata": "GRU",
