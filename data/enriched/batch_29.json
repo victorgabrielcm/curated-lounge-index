@@ -1,0 +1,477 @@
+[
+  {
+    "lounge_id": "4a87f61c-9ba4-4f67-8d5d-33ae333a100e",
+    "name": "Goldair Handling Extra-Schengen Lounge - Athens",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "Main Terminal (Extra-Schengen)",
+    "location_description": "Area Extra-Schengen (gates A non-Schengen). Unidade Goldair.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.goldair-handling.com/our-services/lounges/athens-international-airport-extra-schengen/",
+    "operator": "Goldair Handling",
+    "source_urls": [
+      "https://www.goldair-handling.com/our-services/lounges/athens-international-airport-extra-schengen/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "DUPLICATA/relacionado: unidade Extra-Schengen do Goldair. Ver #184 (generico, id ce35a13e) e #261 (intra-Schengen, id 22f4e505). O Goldair tem 2 unidades reais (intra + extra Schengen) mas 3 registros na base - consolidar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "53bed40b-585c-4dd6-aba4-9da773013b14",
+    "name": "Skyserv Aristotle Onassis Lounge - Athens",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "Main Terminal (Hall A, non-Schengen)",
+    "location_description": "2o andar, apos o duty free, proximo ao gate A7 (area non-Schengen, gates A1-A30).",
+    "hours_open_text": "07:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "tv",
+      "conference",
+      "prayer_room",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://skyserv.aero/",
+    "operator": "Skyserv",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/greece/athens-international/ath6-aristotle-onassis-lounge",
+      "https://loungereview.com/lounges/skyserv-aristotle-onassis-lounge-ath/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Sala Skyserv no Hall A (non-Schengen). Algumas fontes (Amex) indicaram fechamento temporario - verificar status atual. Banheiros compartilhados com a Swissport Lounge vizinha. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "01246fdc-8c57-46b5-a420-241ec448dfea",
+    "name": "Marhaba Lounge - Bahrain",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Main Terminal",
+    "location_description": "Bahrain International (airside). Sala contratada operada pela Marhaba (dnata).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "http://www.marhabaservices.com/english/our-locations/bahrain-international-airport",
+    "operator": "Marhaba (dnata)",
+    "source_urls": [
+      "http://www.marhabaservices.com/english/our-locations/bahrain-international-airport"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "Sala Marhaba em BAH. O aeroporto tem varias salas contratadas (Dilmun #231, Hala #258, VIP genericas) - verificar sobreposicao/duplicatas. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b7247d18-cce6-44c7-b2ac-2e628e6a6359",
+    "name": "Etihad First & Business Arrivals Lounge - Abu Dhabi",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal 3 (encerrado) / Terminal A",
+    "location_description": "A Arrivals Lounge da Etihad ficava no antigo Terminal 3 (chegadas). Operacao atual no Terminal A (lounge de chegadas/chauffeur).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "shower",
+      "clothes_pressing",
+      "business_center",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "etihad_first",
+      "etihad_business",
+      "etihad_status"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.etihad.com/en/plan/fly-with-etihad/lounges",
+    "operator": "Etihad Airways",
+    "source_urls": [
+      "https://onemileatatime.com/reviews/etihad-arrivals-lounge-abu-dhabi/",
+      "https://www.etihad.com/en/news/etihad-airways-unveils-stunning-new-lounges-at-abu-dhabi-internationals-new-terminal-a"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 42,
+    "notes": "CONFLITO: a Etihad Arrivals Lounge ficava no Terminal 3 (encerrado em nov/2023). Hoje a Etihad opera lounge de chegadas/chauffeur no Terminal A. Atualizar terminal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "59ba2850-8938-4f7b-a378-30283e64622e",
+    "name": "Al Dhabi Lounge - Abu Dhabi (Terminal 1 - FECHADO)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal 1 (fechado)",
+    "location_description": "A Al Dhabi Lounge (Plaza Premium) ficava no antigo Terminal 1, fechado em nov/2023.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://thepointshabibi.com/2019/02/07/auh-alreem-aldhabi-airport-lounge-review/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 22,
+    "notes": "FECHADO: a Al Dhabi Lounge (Plaza Premium) operava no Terminal 1, fechado permanentemente em nov/2023. A Plaza Premium opera agora o Pearl Lounge no Terminal A (#254 id fddf0030). Desativar/remapear. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1b948022-7799-4afd-885d-e3508aebfbb3",
+    "name": "Aegean CIP Lounge - Athens (Gate A13)",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "Main Terminal (Gate A13)",
+    "location_description": "Proximo ao gate A13. Provavel Aegean Business Lounge.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://en.aegeanair.com/travel-information/at-the-airport/lounges-info/",
+    "operator": "Aegean Airlines",
+    "source_urls": [
+      "https://en.aegeanair.com/travel-information/at-the-airport/lounges-info/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 38,
+    "notes": "DUPLICATA/VERIFICAR: 'Aegean CIP Lounge' (gate A13) provavelmente e a Aegean Business Lounge (ver #155 id 317439b5 / #273 id 58806962) ou a unidade intra-Schengen. Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "91004a5c-0430-432e-8334-fea738047881",
+    "name": "Brussels Airlines Lounge (generico = THE LOFT)",
+    "airport_iata": "BRU",
+    "airport_name": "Brussels Airport (BRU)",
+    "terminal": "Pier A (Schengen)",
+    "location_description": "Lounge da Brussels Airlines (registro generico) = THE LOFT (Pier A) ou Sunrise (gates T).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.brusselsairlines.com/us/en/extra-services/lounges/brussels-airport-lounges",
+    "operator": "Brussels Airlines",
+    "source_urls": [
+      "https://www.brusselsairlines.com/us/en/extra-services/lounges/brussels-airport-lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 36,
+    "notes": "DUPLICATA: 'Brussels Airlines Lounge' generico = THE LOFT (Pier A, #161/#260/#274) ou Sunrise (gates T). Mesclar/consolidar os multiplos registros Brussels. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6d637b7f-7acf-441b-ad93-3e052f6df669",
+    "name": "Bangkok Airways Boutique Lounge (Domestic) - Bangkok",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse A (Domestico)",
+    "location_description": "Concourse A domestico, Nivel 2, antes do controle de seguranca.",
+    "hours_open_text": "04:30-21:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "coffee",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Gratuita para todos os passageiros Bangkok Airways (dom/intl).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.bangkokair.com/lounge/boutique",
+    "operator": "Bangkok Airways",
+    "source_urls": [
+      "https://www.bangkokair.com/lounge/boutique",
+      "https://loungereview.com/lounges/bangkok-airways-boutique-lounge-bkk-domestic/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "Sala da Bangkok Airways (gratuita para todos os passageiros BG, dom/intl). Desde 01/04/2025 removida dos programas Priority Pass/DragonPass (regra AoT). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d4c76b60-eb51-417b-963e-9dd939ce7caf",
+    "name": "Pearl Lounge T5 - Stockholm Arlanda",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 5",
+    "location_description": "Terminal 5 (gates C/E1), 4o andar. Pearl Lounge (Menzies, ex-Norrsken).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/sweden/stockholm-arlanda",
+    "operator": "Menzies Aviation",
+    "source_urls": [
+      "https://flyctory.com/2025/06/02/menzies-pearl-lounge-stockholm-airport-arn-terminal-5-c-gates/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 44,
+    "notes": "DUPLICATA do #239 'Menzies Pearl Lounge - T4 (Gate C37)' (id 93c43415, batch 24) e relacionado ao #167 'Menzies Aviation Lounge ARN' (id c3b98bc9). Mesma sala Pearl no T5. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1dd65c50-3295-47ec-84de-7983bc1915c9",
+    "name": "American Express Platinum Lounge - Stockholm Arlanda",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 5",
+    "location_description": "Terminal 5, proximo aos gates E (American Express Lounge by Pontus Frithiof).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "http://www.americanexpress.se/lounge",
+    "operator": "American Express",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/ARN/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 44,
+    "notes": "DUPLICATA do #233 'American Express Lounge by Pontus Frithiof ARN' (id 3a5d49c9, batch 24). Mesma sala Amex no T5. Mesclar. Foto anterior generica removida."
+  }
+]

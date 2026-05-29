@@ -1141,5 +1141,77 @@
     "recommended_action": "disable_or_verify",
     "related_id_hint": "5bd40cd8",
     "detail": "CONFLITO/VERIFICAR: a Cathay Pacific nao opera sala propria em BAH; o endereco (em frente ao gate 16, nivel 3) coincide com o Dilmun Lounge (#231 id 5bd40cd8). Cathay usa sala contratada. Provavel duplicata/mapeamento incorreto - mesclar com Dilmun. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "4a87f61c-9ba4-4f67-8d5d-33ae333a100e",
+    "name": "Goldair Handling Extra-Schengen Lounge - Athens",
+    "airport_iata": "ATH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "ce35a13e",
+    "detail": "DUPLICATA/relacionado: unidade Extra-Schengen do Goldair. Ver #184 (generico, id ce35a13e) e #261 (intra-Schengen, id 22f4e505). O Goldair tem 2 unidades reais (intra + extra Schengen) mas 3 registros na base - consolidar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "01246fdc-8c57-46b5-a420-241ec448dfea",
+    "name": "Marhaba Lounge - Bahrain",
+    "airport_iata": "BAH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "Sala Marhaba em BAH. O aeroporto tem varias salas contratadas (Dilmun #231, Hala #258, VIP genericas) - verificar sobreposicao/duplicatas. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b7247d18-cce6-44c7-b2ac-2e628e6a6359",
+    "name": "Etihad First & Business Arrivals Lounge - Abu Dhabi",
+    "airport_iata": "AUH",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: a Etihad Arrivals Lounge ficava no Terminal 3 (encerrado em nov/2023). Hoje a Etihad opera lounge de chegadas/chauffeur no Terminal A. Atualizar terminal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "59ba2850-8938-4f7b-a378-30283e64622e",
+    "name": "Al Dhabi Lounge - Abu Dhabi (Terminal 1 - FECHADO)",
+    "airport_iata": "AUH",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": "fddf0030",
+    "detail": "FECHADO: a Al Dhabi Lounge (Plaza Premium) operava no Terminal 1, fechado permanentemente em nov/2023. A Plaza Premium opera agora o Pearl Lounge no Terminal A (#254 id fddf0030). Desativar/remapear. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1b948022-7799-4afd-885d-e3508aebfbb3",
+    "name": "Aegean CIP Lounge - Athens (Gate A13)",
+    "airport_iata": "ATH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "317439b5",
+    "detail": "DUPLICATA/VERIFICAR: 'Aegean CIP Lounge' (gate A13) provavelmente e a Aegean Business Lounge (ver #155 id 317439b5 / #273 id 58806962) ou a unidade intra-Schengen. Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "91004a5c-0430-432e-8334-fea738047881",
+    "name": "Brussels Airlines Lounge (generico = THE LOFT)",
+    "airport_iata": "BRU",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "DUPLICATA: 'Brussels Airlines Lounge' generico = THE LOFT (Pier A, #161/#260/#274) ou Sunrise (gates T). Mesclar/consolidar os multiplos registros Brussels. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d4c76b60-eb51-417b-963e-9dd939ce7caf",
+    "name": "Pearl Lounge T5 - Stockholm Arlanda",
+    "airport_iata": "ARN",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "93c43415",
+    "detail": "DUPLICATA do #239 'Menzies Pearl Lounge - T4 (Gate C37)' (id 93c43415, batch 24) e relacionado ao #167 'Menzies Aviation Lounge ARN' (id c3b98bc9). Mesma sala Pearl no T5. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1dd65c50-3295-47ec-84de-7983bc1915c9",
+    "name": "American Express Platinum Lounge - Stockholm Arlanda",
+    "airport_iata": "ARN",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "3a5d49c9",
+    "detail": "DUPLICATA do #233 'American Express Lounge by Pontus Frithiof ARN' (id 3a5d49c9, batch 24). Mesma sala Amex no T5. Mesclar. Foto anterior generica removida."
   }
 ]
