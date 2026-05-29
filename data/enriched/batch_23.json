@@ -1,0 +1,464 @@
+[
+  {
+    "lounge_id": "85e56769-58cd-40cd-bd33-fffdbaa884e2",
+    "name": "51st & Green Lounge - Dublin (T2)",
+    "airport_iata": "DUB",
+    "airport_name": "Dublin Airport",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2. Acessivel inclusive na area de pre-clearance dos EUA (para voos aos Estados Unidos).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.dublinairport.com/enhance-your-journey/lounges",
+    "operator": "daa (Dublin Airport)",
+    "source_urls": [
+      "https://thedublinairport.com/airport-lounges/",
+      "https://www.dublinairport.com/enhance-your-journey/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Sala '51st & Green' no T2; disponivel tambem na area de US Preclearance (voos aos EUA). Priority Pass/pay-per-use. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f951762a-d5cf-43b3-b064-4999124273da",
+    "name": "Ahlan Lounge - Dubai (T1)",
+    "airport_iata": "DXB",
+    "airport_name": "Dubai International Airport (DXB)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1 (airside). Sala paga operada pela dnata/marhaba sob a marca 'Ahlan'.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.marhabaservices.com/",
+    "operator": "dnata / marhaba (Ahlan)",
+    "source_urls": [
+      "https://www.loungepair.com/guides/dubai-airport-dxb-terminal-1-lounges-and-terminal-guide/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "'Ahlan' e a marca de salas pagas da dnata/marhaba (T1). Pay-per-use / Priority Pass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0f17bde9-1a56-402a-ac0c-2ad0a3b0cf2f",
+    "name": "Plaza Premium Lounge - Edinburgh",
+    "airport_iata": "EDI",
+    "airport_name": "Edinburgh Airport (EDI)",
+    "terminal": "Main Terminal",
+    "location_description": "Terminal principal (airside), apos a seguranca.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plaza-network.com",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Sala contratada (Priority Pass/Plaza Premium) no terminal principal de Edimburgo. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "36e6cb03-5690-48bf-87c5-9aaacf958b73",
+    "name": "Plaza Premium Lounge - Rome FCO (T3)",
+    "airport_iata": "FCO",
+    "airport_name": "Leonardo da Vinci-Fiumicino Airport (Roma)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3 (area internacional), airside.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plaza-network.com",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.airtravelgenius.com/rome-fiumicino-airport-lounges/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Sala contratada (Priority Pass/Plaza Premium) no T3 de Fiumicino. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a228745c-7ed6-4fe2-aa4f-b71ed981c256",
+    "name": "ITA Airways Hangar Lounge (Schengen) - Rome FCO [base: Piazza di Spagna]",
+    "airport_iata": "FCO",
+    "airport_name": "Leonardo da Vinci-Fiumicino Airport (Roma)",
+    "terminal": "Terminal 1 (Schengen)",
+    "location_description": "Um andar acima do concourse principal do Terminal 1 (area Schengen).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.ita-airways.com/en_us/fly-ita/additional-services/extra/lounges/hangar-lounge.html",
+    "operator": "ITA Airways",
+    "source_urls": [
+      "https://paliparan.com/2025/06/30/review-ita-airways-hangar-lounge/",
+      "https://www.ita-airways.com/en_us/fly-ita/additional-services/extra/lounges/piazza-di-spagna.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "CONFLITO: 'Piazza di Spagna' e na verdade a sala NON-Schengen (T3, ver #219 id aec74c18). A sala Schengen do T1 e a Hangar Lounge. Este registro (T1/Schengen) corresponde a Hangar Lounge - corrigir nome; possivel duplicata de #219. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "fcbff854-dec6-45de-839f-36a89328fe1e",
+    "name": "United Polaris Lounge - Newark (Terminal C)",
+    "airport_iata": "EWR",
+    "airport_name": "Newark Liberty International Airport (EWR)",
+    "terminal": "Terminal C",
+    "location_description": "Terminal C (hub United), area de embarque internacional.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "united_business",
+      "star_alliance_business",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.united.com/en/us/fly/travel/airport/lounges/polaris.html",
+    "operator": "United Airlines",
+    "source_urls": [
+      "https://www.united.com/en/us/fly/travel/airport/lounges/polaris.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Polaris Lounge (Business internacional United/Star Alliance) no Terminal C, com a la carte dining e chuveiros. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "27b23c0f-be82-4f93-86d3-a152e87f92c4",
+    "name": "Oman Air Lounge - Bangkok (Concourse E)",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse E",
+    "location_description": "3o andar, na juncao entre os concourses G e E (em frente a sala de oracao).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso pago ~THB 1.200 / USD 35 quando ha espaco.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.omanair.com/en/lounges-bangkok",
+    "operator": "Oman Air",
+    "source_urls": [
+      "https://www.omanair.com/en/lounges-bangkok",
+      "https://www.prioritypass.com/lounges/thailand/bangkok-suvarnabhumi-intl/bkk7-oman-air-first--business-class-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Sala First/Business da Oman Air (+ Sindbad Gold/Silver). Obs: desde 01/04/2025 a AoT alterou a participacao das salas de cia aerea em programas de membership em BKK - verificar status Priority Pass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "eadab2c0-71c4-4717-aac9-b6c30abf727c",
+    "name": "Atelier Relaxium Lounge - Copenhagen (FECHADO)",
+    "airport_iata": "CPH",
+    "airport_name": "Copenhagen Airport (Kastrup)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, Pier A (1o e 2o andares). Nao opera mais.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Aviator Denmark",
+    "source_urls": [
+      "https://loungereview.com/lounges/atelier-relaxium-aviator-denmark-cph/",
+      "https://retaildesignblog.net/2018/01/05/the-atelier-relaxium-by-aviator-denmark-in-terminal-2-of-the-copenhagen-airport-denmark/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 12,
+    "notes": "FECHADO PERMANENTEMENTE em 01/11/2019: 'Atelier - The Colorful Aviator Lounge' (ex-Atelier Relaxium) nao opera mais. Recomendado desativar/remover. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a3876b92-1c93-4d5b-8c1f-0e5bc0abdb78",
+    "name": "SAS Gold Lounge - Stockholm Arlanda (SkyCity/T5)",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 5 (SkyCity)",
+    "location_description": "Terminal 5 (regiao SkyCity), area airside.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "business_center",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "eurobonus_gold",
+      "eurobonus_diamond",
+      "skyteam_elite_plus"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.flysas.com/en/travel-info/at-the-airport/lounges",
+    "operator": "SAS Scandinavian Airlines",
+    "source_urls": [
+      "https://www.flysas.com/en/travel-info/at-the-airport/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "DUPLICATA do #193 'SAS Gold Lounge ARN' (id 393feee3, batch 20) - mesma sala no T5. Mesclar. Obs: SAS reorganizou lounges em 2025 e migrou da Star Alliance para a SkyTeam (set/2024). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "af4ba382-342a-41e6-b220-179dd8f06f5f",
+    "name": "Etihad Business Class Lounge AUH Pier B (FECHADO - mudou p/ Terminal A)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal 3 (encerrado) / Terminal A (atual)",
+    "location_description": "Antigo Terminal 3, Pier B (encerrado). A operacao Etihad migrou para o novo Terminal A em nov/2023.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [
+      "etihad_business",
+      "etihad_first"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.etihad.com/en/plan/fly-with-etihad/lounges",
+    "operator": "Etihad Airways",
+    "source_urls": [
+      "https://www.etihad.com/en/news/etihad-airways-unveils-stunning-new-lounges-at-abu-dhabi-internationals-new-terminal-a",
+      "https://loungereview.com/lounges/etihad-first-class-lounge-auh-terminal-3/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 22,
+    "notes": "FECHADO: os lounges da Etihad no antigo Terminal 3 (incl. Pier B) encerraram em nov/2023, quando a Etihad migrou para o novo Terminal A (Midfield). O lounge Business atual fica no Terminal A (entre os Piers C e D) - ver #156 (id bc8923fa). Atualizar/mesclar. Foto anterior generica removida."
+  }
+]

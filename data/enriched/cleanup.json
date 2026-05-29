@@ -799,5 +799,41 @@
     "recommended_action": "fix",
     "related_id_hint": null,
     "detail": "CONFLITO DE NOME: a sala non-Schengen da ITA no T3/Pier E chama-se 'Piazza di Spagna' (base registra 'Piazza Navona'). Verificar/corrigir. ITA integra a SkyTeam. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a228745c-7ed6-4fe2-aa4f-b71ed981c256",
+    "name": "ITA Airways Hangar Lounge (Schengen) - Rome FCO [base: Piazza di Spagna]",
+    "airport_iata": "FCO",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "aec74c18",
+    "detail": "CONFLITO: 'Piazza di Spagna' e na verdade a sala NON-Schengen (T3, ver #219 id aec74c18). A sala Schengen do T1 e a Hangar Lounge. Este registro (T1/Schengen) corresponde a Hangar Lounge - corrigir nome; possivel duplicata de #219. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "eadab2c0-71c4-4717-aac9-b6c30abf727c",
+    "name": "Atelier Relaxium Lounge - Copenhagen (FECHADO)",
+    "airport_iata": "CPH",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "FECHADO PERMANENTEMENTE em 01/11/2019: 'Atelier - The Colorful Aviator Lounge' (ex-Atelier Relaxium) nao opera mais. Recomendado desativar/remover. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a3876b92-1c93-4d5b-8c1f-0e5bc0abdb78",
+    "name": "SAS Gold Lounge - Stockholm Arlanda (SkyCity/T5)",
+    "airport_iata": "ARN",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "393feee3",
+    "detail": "DUPLICATA do #193 'SAS Gold Lounge ARN' (id 393feee3, batch 20) - mesma sala no T5. Mesclar. Obs: SAS reorganizou lounges em 2025 e migrou da Star Alliance para a SkyTeam (set/2024). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "af4ba382-342a-41e6-b220-179dd8f06f5f",
+    "name": "Etihad Business Class Lounge AUH Pier B (FECHADO - mudou p/ Terminal A)",
+    "airport_iata": "AUH",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": "bc8923fa",
+    "detail": "FECHADO: os lounges da Etihad no antigo Terminal 3 (incl. Pier B) encerraram em nov/2023, quando a Etihad migrou para o novo Terminal A (Midfield). O lounge Business atual fica no Terminal A (entre os Piers C e D) - ver #156 (id bc8923fa). Atualizar/mesclar. Foto anterior generica removida."
   }
 ]
