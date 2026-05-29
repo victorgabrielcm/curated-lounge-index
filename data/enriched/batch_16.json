@@ -1,0 +1,510 @@
+[
+  {
+    "lounge_id": "96b28e82-6783-4f1d-a1f5-e9cf5d99e6a0",
+    "name": "Qatar Airways Platinum & Gold Lounge - North (Doha)",
+    "airport_iata": "DOH",
+    "airport_name": "Hamad International Airport (Doha)",
+    "terminal": "Terminal 1 (Concourse C / North)",
+    "location_description": "Concourse C (North Terminal), Nivel 2 junto ao gate C14, proximo ao jardim The Orchard. Acesso por trem ou esteiras (~10 min).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "shower",
+      "relaxation_area",
+      "workspace",
+      "prayer_room",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "privilege_club_gold",
+      "privilege_club_platinum",
+      "oneworld_emerald",
+      "oneworld_sapphire"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qatarairways.com/en-us/lounges/platinum-and-gold-lounges.html",
+    "operator": "Qatar Airways",
+    "source_urls": [
+      "https://upgradedpoints.com/travel/airports/qatar-airways-platinum-gold-lounge-north-doha-doh-review/",
+      "https://dohahamadairport.com/lounge/gold-lounge-south"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 68,
+    "notes": "Lounge para elites Privilege Club Gold/Platinum e oneworld Emerald/Sapphire no Concourse C (North). Distinto do Platinum & Gold Lounge South (id 4aa9e4e6, batch 13). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d632cc5d-d258-4456-827a-677a3ba47f53",
+    "name": "Ambaar Lounge - Aracaju (Santa Maria)",
+    "airport_iata": "AJU",
+    "airport_name": "Aeroporto Internacional de Santa Maria (Aracaju)",
+    "terminal": "Terminal Unico",
+    "location_description": "Apos a seguranca, em frente aos portoes 2 e 3.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "bradesco_visa_aeternum",
+      "bradesco_elo_nanquim",
+      "diners_club",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://ambaarlounge.com/en/sala-aracaju/",
+    "operator": "Ambaar Lounge",
+    "source_urls": [
+      "https://www.prioritypass.com/pt/lounges/brazil/aracaju---santa-maria-international/aju-ambaar-lounge",
+      "https://passageirodeprimeira.com/aeroporto-de-aracaju-inaugura-primeira-sala-vip/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "CONFLITO DE NOME: base registra 'W Premium Lounge', mas a unica sala VIP de Aracaju e o Ambaar Lounge (inaugurado em mar/2025). Corrigir nome/operadora. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "99a034c2-36c9-4366-a504-ba3c77276364",
+    "name": "Delta One Lounge ATL (a verificar - nao inaugurado)",
+    "airport_iata": "ATL",
+    "airport_name": "Hartsfield-Jackson Atlanta International Airport (ATL)",
+    "terminal": "Concourse E/F (previsto)",
+    "location_description": "Localizacao prevista no Concourse E (terminal internacional). Ainda nao construido/aberto.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [
+      "delta_one"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.delta.com/us/en/delta-sky-club/locations",
+    "operator": "Delta Air Lines",
+    "source_urls": [
+      "https://onemileatatime.com/news/delta-one-lounge-atlanta-airport/",
+      "https://news.delta.com/year-lounges-delta-one-lounge-coming-sea-and-more-2025"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO EXISTE ainda: o Delta One Lounge de Atlanta tem abertura prevista apenas para ~2028 (Concourse E). Em 2026 nao ha Delta One Lounge operando em ATL (apenas Delta Sky Clubs). Recomendado desativar/adiar o registro. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "cafaa816-8b3d-46e8-8368-a0b448028718",
+    "name": "THAI Royal Silk Lounge - Bangkok (Concourse D)",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse D",
+    "location_description": "Concourse D internacional, Nivel 3, proximo ao gate D4.",
+    "hours_open_text": "05:00-02:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "massage_chairs",
+      "kids_area",
+      "workspace",
+      "tv",
+      "wifi",
+      "relaxation_area"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.thaiairways.com/en-th/content/travel-class/royal-silk/",
+    "operator": "Thai Airways",
+    "source_urls": [
+      "https://loungereview.com/lounges/thai-airways-royal-silk-lounge-bkk-d/",
+      "https://www.thislifeintrips.com/royal-silk-lounge-thai-airways-bangkok-bkk/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 62,
+    "notes": "Lounge Business da Thai Airways (Royal Silk) no Concourse D (2.410 m2, ~314 lugares). Cadeiras de massagem. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "317439b5-b000-420e-9f20-3f3641eea18d",
+    "name": "Aegean Business Lounge - Athens (non-Schengen)",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "Main Terminal (area Extra-Schengen)",
+    "location_description": "Area non-Schengen (Extra-Schengen), 3o andar a direita, antes da praca central.",
+    "hours_open_text": "06:00-00:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "luggage_storage",
+      "private_rooms",
+      "meeting_room",
+      "workspace",
+      "tv",
+      "wifi",
+      "relaxation_area"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://en.aegeanair.com/travel-info/travelling-with-aegean/at-the-airport/lounges-info/",
+    "operator": "Aegean Airlines",
+    "source_urls": [
+      "https://www.headforpoints.com/2024/05/30/review-aegean-airlines-non-schengen-lounge-athens/",
+      "https://en.aegeanair.com/travel-info/travelling-with-aegean/at-the-airport/lounges-info/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Lounge Business da Aegean (~1.200 m2) na area non-Schengen. Existe tambem uma Aegean Business Lounge na area intra-Schengen (registro distinto). Day pass nao disponivel. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "bc8923fa-f22f-4c07-a163-fa9c5affad7e",
+    "name": "Etihad Lounge - Abu Dhabi (Terminal A)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal A",
+    "location_description": "Novo Terminal A (Zayed Intl, desde nov/2023). Lounge premium Etihad (Business/First).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "spa",
+      "prayer_room",
+      "kids_area",
+      "clothes_pressing",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "etihad_first",
+      "etihad_business",
+      "etihad_status",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.etihad.com/en/plan/fly-with-etihad/lounges",
+    "operator": "Etihad Airways",
+    "source_urls": [
+      "https://www.etihad.com/en/news/etihad-airways-unveils-stunning-new-lounges-at-abu-dhabi-internationals-new-terminal-a",
+      "https://loungereview.com/lounges/etihad-airways-first-class-lounge-auh-terminal-a/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Etihad transferiu operacao para o novo Terminal A (Zayed Intl) em nov/2023. 'Premium Lounge' generico - ha lounges Business e First distintos no Terminal A; verificar a qual o registro se refere. Aberto 24h. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c80057e7-0589-463b-9798-0816bfc8f663",
+    "name": "W Lounge - Cuiaba (Marechal Rondon)",
+    "airport_iata": "CGB",
+    "airport_name": "Aeroporto Internacional Marechal Rondon (Cuiaba)",
+    "terminal": "Terminal Unico",
+    "location_description": "Area de embarque domestico, apos o controle de seguranca.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "diners_club",
+      "visa_infinite",
+      "mastercard_black",
+      "bradesco_elo_diners",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://my.prioritypass.com/pt-BR/lounges/brazil/cuiaba-marechal-rondon-intl/cgb-w-lounge-cuiaba",
+    "operator": "W Premium Group",
+    "source_urls": [
+      "https://my.prioritypass.com/pt-BR/lounges/brazil/cuiaba-marechal-rondon-intl/cgb-w-lounge-cuiaba",
+      "https://www.melhoresdestinos.com.br/sala-vip-aeroporto-cuiaba.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Nome generico 'Sala VIP Cuiaba' -> mapeada como W Lounge Cuiaba (W Premium Group, Priority Pass). CGB tem tambem 'The Lounge Cuiaba' (Global Lounge Network) - registro possivelmente ambiguo. Max 3h. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "728d33ac-ce4a-43d6-ad8e-2cf55cc9fe55",
+    "name": "Ambaar Lounge - Confins (Belo Horizonte)",
+    "airport_iata": "CNF",
+    "airport_name": "Aeroporto Internacional de Belo Horizonte (Confins / Tancredo Neves)",
+    "terminal": "Terminal 1",
+    "location_description": "Area de embarque (domestico/internacional), apos o controle de seguranca.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "latam_pass_elite",
+      "priority_pass",
+      "loungekey",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://shopping.latampass.latam.com/pt_br/easylive/sala-vip-embarque-nacional-ambaar-lounge-confins-bh/21505",
+    "operator": "Ambaar Lounge",
+    "source_urls": [
+      "https://loungefindr.com/lounge/latam-vip-lounge-confins-cnf",
+      "https://www.prioritypass.com/pt-BR/lounges/brazil/belo-horizonte-confins-intl"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "Registro 'LATAM VIP Lounge CNF' -> na pratica e o Ambaar Lounge de Confins (resgate via LATAM Pass); a LATAM nao opera sala propria exclusiva em CNF. CNF tem Ambaar Domestico/Internacional + Advantage. Corrigir operadora. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ee6cfff7-7ad9-4f5c-9ae1-9b438c3bb372",
+    "name": "W Lounge - Belem (Val de Cans)",
+    "airport_iata": "BEL",
+    "airport_name": "Aeroporto Internacional de Belem (Val de Cans)",
+    "terminal": "Terminal Unico",
+    "location_description": "Apos a seguranca, proximo aos portoes 6 e 7.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/pt-BR/lounges/brazil/val-de-cans-international/bel1-w-lounge-belem",
+    "operator": "W Premium Group",
+    "source_urls": [
+      "https://www.prioritypass.com/pt-BR/lounges/brazil/val-de-cans-international/bel1-w-lounge-belem",
+      "https://www.melhoresdestinos.com.br/sala-vip-aeroporto-de-belem.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Nome generico 'Sala VIP Belem' -> mapeada como W Lounge Belem (gates 6-7). BEL tem tambem a Amazon VIP Lounge (gate 1) - registro possivelmente ambiguo. Acesso pode ser restrito por lotacao; max 3h. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f85a11c5-ba2d-400e-b73d-c6274ddbc340",
+    "name": "Sala VIP Miro - Barcelona T1",
+    "airport_iata": "BCN",
+    "airport_name": "Aeroporto de Barcelona-El Prat (Josep Tarradellas)",
+    "terminal": "Terminal 1 (area non-Schengen)",
+    "location_description": "Area non-Schengen do T1. Apos o controle de passaportes/seguranca, em direcao aos gates D; primeira escada em frente ao Burger King (ou elevador) ate o nivel inferior.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "loungekey",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": "Criancas <6 gratis com adulto; menores de 18 acompanhados.",
+    "guest_policy": "Maximo 1 convidado por titular (sujeito a tarifa).",
+    "voucher_info": "Acesso a partir de ~EUR 38/pessoa; liberado 4h antes do voo.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://serviciosvip.aena.es/vip/en/aeropuertos/josep-tarradellas-barcelona-el-prat/salas-vip/joan-miro",
+    "operator": "Aena",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/spain/barcelona-el-prat/bcn9-sala-vip-miro",
+      "https://www.headforpoints.com/2023/06/23/review-sala-vip-joan-miro-lounge-barcelona-airport-terminal-1/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "CONFLITO: base indica 'Embarque Schengen', mas a Sala VIP Miro (Joan Miro/Aena) fica na area NON-Schengen do T1 (voos intercontinentais). Corrigir. Foto anterior generica removida."
+  }
+]

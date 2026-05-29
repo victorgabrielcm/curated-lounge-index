@@ -502,5 +502,41 @@
     "recommended_action": "merge",
     "related_id_hint": "dde933fe",
     "detail": "DUPLICATA PROVAVEL: 'First Class Lounge' generico em Concourse E - a unica sala de Primeira Classe da QR em Hamad e o Al Safwa First Lounge (id dde933fe). Provavel duplicata/mislabel. Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d632cc5d-d258-4456-827a-677a3ba47f53",
+    "name": "Ambaar Lounge - Aracaju (Santa Maria)",
+    "airport_iata": "AJU",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO DE NOME: base registra 'W Premium Lounge', mas a unica sala VIP de Aracaju e o Ambaar Lounge (inaugurado em mar/2025). Corrigir nome/operadora. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "99a034c2-36c9-4366-a504-ba3c77276364",
+    "name": "Delta One Lounge ATL (a verificar - nao inaugurado)",
+    "airport_iata": "ATL",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "NAO EXISTE ainda: o Delta One Lounge de Atlanta tem abertura prevista apenas para ~2028 (Concourse E). Em 2026 nao ha Delta One Lounge operando em ATL (apenas Delta Sky Clubs). Recomendado desativar/adiar o registro. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "728d33ac-ce4a-43d6-ad8e-2cf55cc9fe55",
+    "name": "Ambaar Lounge - Confins (Belo Horizonte)",
+    "airport_iata": "CNF",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "Registro 'LATAM VIP Lounge CNF' -> na pratica e o Ambaar Lounge de Confins (resgate via LATAM Pass); a LATAM nao opera sala propria exclusiva em CNF. CNF tem Ambaar Domestico/Internacional + Advantage. Corrigir operadora. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f85a11c5-ba2d-400e-b73d-c6274ddbc340",
+    "name": "Sala VIP Miro - Barcelona T1",
+    "airport_iata": "BCN",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: base indica 'Embarque Schengen', mas a Sala VIP Miro (Joan Miro/Aena) fica na area NON-Schengen do T1 (voos intercontinentais). Corrigir. Foto anterior generica removida."
   }
 ]
