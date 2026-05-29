@@ -1,0 +1,476 @@
+[
+  {
+    "lounge_id": "095ae7ea-65af-4ec2-bc6b-c7793646aa1e",
+    "name": "Aspire Lounge (Gate 16) - Edinburgh",
+    "airport_iata": "EDI",
+    "airport_name": "Edinburgh Airport (EDI)",
+    "terminal": "Main Terminal",
+    "location_description": "Terminal principal, 1o andar, area airside proximo ao Gate 16 (acima do Pret a Manger), seguindo placas 'Premium Lounges'.",
+    "hours_open_text": "04:30-20:00 (sab 04:30-19:00)",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "coffee",
+      "workspace",
+      "kids_area",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "diners_club",
+      "lounge_voucher",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aspirelounges.com/airport-lounges/edinburgh-airport-aspire-lounge/",
+    "operator": "Swissport (Aspire)",
+    "source_urls": [
+      "https://www.aspirelounges.com/airport-lounges/edinburgh-airport-aspire-lounge/",
+      "https://www.prioritypass.com/lounges/united-kingdom/edinburgh-international/edi2-aspire-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Aspire Lounge (Gate 16) em Edimburgo, operada pela Swissport, airside no terminal principal. Priority Pass/DragonPass/Diners. A antiga Aspire do Gate 4 encerrou em out/2024 e virou Escape Lounge. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e4e61e2e-aa0b-4052-8d29-cce62e00e808",
+    "name": "Departure Lounge EDI (generico - a verificar)",
+    "airport_iata": "EDI",
+    "airport_name": "Edinburgh Airport (EDI)",
+    "terminal": "Main Terminal",
+    "location_description": "Registro generico 'Departure Lounge' em Edimburgo, sem terminal/local especifico informado.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.edinburghairport.com/prepare/services-and-facilities/lounges",
+      "https://www.airtravelgenius.com/edinburgh-airport-lounges/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 26,
+    "notes": "DUPLICATA/nome generico: 'Departure Lounge' em EDI sem local definido. EDI so tem Aspire (Gate 16) e Escape Lounge (ex-Aspire Gate 4); provavelmente duplica a Aspire (id 095ae7ea). VERIFICAR EXISTENCIA/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "413253b6-faef-4c0e-8b72-4cb6f0745a52",
+    "name": "W Premium Lounge (Arrivals/Chegadas) - Fortaleza",
+    "airport_iata": "FOR",
+    "airport_name": "Aeroporto Internacional de Fortaleza / Pinto Martins (FOR)",
+    "terminal": "Main Terminal",
+    "location_description": "Nivel 1, ao lado do saguao de desembarque domestico, logo apos sair da area restrita (sala de chegadas).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "kids_area",
+      "meeting_room",
+      "rest_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": "Criancas ate 12 anos entram gratis acompanhadas de adulto.",
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://fortaleza-airport.com.br/en/vip-lounges",
+    "operator": "W Premium Group",
+    "source_urls": [
+      "https://fortaleza-airport.com.br/en/vip-lounges",
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/FOR/W-Premium-Lounge-Arrivals--Main-Terminal-dJvCCydcut"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "'Arrival Lounge' em FOR corresponde a W Premium Lounge (Arrivals/AMBAAR Club), nivel 1 junto ao desembarque domestico, 24h. Operada pelo W Premium Group. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "db359352-93c4-448d-aac3-11b6ef28bb27",
+    "name": "Plaza Premium Lounge (Arrivals/Desembarque) - Rio Galeao T2",
+    "airport_iata": "GIG",
+    "airport_name": "Aeroporto Internacional do Rio de Janeiro / Galeao - Tom Jobim (GIG)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, area nao-restrita, nivel 2 do edificio-garagem (area de desembarque internacional).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "shower",
+      "nursing_room",
+      "tv",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "visa_airport_companion",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/americas/brazil/rio-de-janeiro/rio-de-janeiro-riogaleao-tom-jobim-international/arrivals-terminal-two",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/en-uk/find/americas/brazil/rio-de-janeiro/rio-de-janeiro-riogaleao-tom-jobim-international/arrivals-terminal-two",
+      "https://loungereview.com/lounges/plaza-premium-lounge-gig-terminal-2-arrivals/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Plaza Premium Lounge (Chegadas) no T2 do Galeao, nivel 2 do edificio-garagem, 24h, servico a la carte no bar. Plaza Premium tem 3 unidades no T2 (chegadas, embarque domestico, embarque internacional). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c9adcd76-a7c5-40df-b2f2-ccf4c5a4e0d7",
+    "name": "Visa Infinite Lounge GIG (nao existe sala exclusiva)",
+    "airport_iata": "GIG",
+    "airport_name": "Aeroporto Internacional do Rio de Janeiro / Galeao - Tom Jobim (GIG)",
+    "terminal": "Terminal 2",
+    "location_description": "Embarque internacional T2. Nao ha sala exclusiva Visa Infinite no Galeao; acesso Visa se da via Plaza Premium Lounge.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "visa_infinite",
+      "visa_airport_companion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://wise.com/br/blog/sala-vip-aeroporto-do-galeao",
+      "https://www.riogaleao.com/passageiros/vip-rooms"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 22,
+    "notes": "NAO EXISTE sala exclusiva 'Visa Infinite Lounge' no Galeao (GIG). Titulares Visa Infinite/Visa Airport Companion acessam a Plaza Premium Lounge T2. A sala propria Visa Infinite fica em GRU, nao no Rio. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "82662981-f33c-4eda-8b74-1400dff3dbe4",
+    "name": "Plaza Premium Lounge (International Departures) - Rio Galeao T2",
+    "airport_iata": "GIG",
+    "airport_name": "Aeroporto Internacional do Rio de Janeiro / Galeao - Tom Jobim (GIG)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, area airside, nivel 3 da extensao do Pier Sul (embarque internacional).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "private_rooms",
+      "nursing_room",
+      "workspace",
+      "tv",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "visa_airport_companion",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso pago entre ~R$156 e R$238.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/americas/brazil/rio-de-janeiro/rio-de-janeiro-riogaleao-tom-jobim-international/international-departures-terminal-two",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/en-uk/find/americas/brazil/rio-de-janeiro/rio-de-janeiro-riogaleao-tom-jobim-international/international-departures-terminal-two",
+      "https://www.loungepair.com/guides/guide-to-plaza-premium-rio-de-janeiro-galeo-international-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Plaza Premium Lounge (Embarque Internacional) no T2 do Galeao, Pier Sul nivel 3, 24h, ~1300 m2 com arte de grafiteiros locais. A Star Alliance Lounge fica ao lado, gerida pela Plaza Premium. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "98bef64e-3107-4092-b564-4201ea49b494",
+    "name": "Lider Aviacao (FBO/Aviacao Executiva) - Fortaleza",
+    "airport_iata": "FOR",
+    "airport_name": "Aeroporto Internacional de Fortaleza / Pinto Martins (FOR)",
+    "terminal": null,
+    "location_description": "Terminal de aviacao geral/executiva (FBO) da Lider Aviacao no aeroporto de Fortaleza. Nao e sala VIP de embarque comercial.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "wifi"
+    ],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.lideraviacao.com.br/pt-br/bases",
+    "operator": "Lider Aviacao",
+    "source_urls": [
+      "https://www.lideraviacao.com.br/pt-br/bases",
+      "https://aviapages.com/fbo/lider-aviacao-fortaleza/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 16,
+    "notes": "NAO E UMA SALA VIP: Lider Aviacao e um FBO/terminal de aviacao geral e executiva (charter, servicos de patio) em FOR, nao um lounge de passageiros de voo comercial. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "79fb6432-df1e-4d1e-be55-3b5dad004329",
+    "name": "Lufthansa Business Lounge (Non-Schengen, Concourse Z) - Frankfurt",
+    "airport_iata": "FRA",
+    "airport_name": "Frankfurt Airport (FRA)",
+    "terminal": "Terminal 1, Concourse Z",
+    "location_description": "Terminal 1, Concourse Z (area non-Schengen apos controle), nivel 4, em frente ao Duty Free em direcao ao Gate Z50.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "workspace",
+      "relaxation_area",
+      "tarmac_view",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "star_alliance_business",
+      "business_class",
+      "miles_and_more_senator"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.lufthansa.com/de/en/lounges",
+    "operator": "Lufthansa",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/FRA/Lufthansa-Business-Lounge-Non-Schengen--Terminal-1-Concourse-Z-SlzE9Mbmxb",
+      "https://www.loungepair.com/at/FRA/frankfurt-airport-terminal-1-concourse-z-lufthansa-business-lounge-z/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Lufthansa Business Lounge non-Schengen no Concourse Z (T1, nivel 4, perto do Gate Z50) em Frankfurt. Acesso so com voo do Grupo Lufthansa/Star Alliance em Business ou Star Gold. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "855e42c7-0e3b-4cd4-b610-00d58bff1bcc",
+    "name": "The Cigar Lounge (sala de fumantes/charutaria) - Dubai T3",
+    "airport_iata": "DXB",
+    "airport_name": "Dubai International Airport (DXB)",
+    "terminal": "Terminal 3, Concourse A",
+    "location_description": "Terminal 3, Concourse A. Espaco de fumantes/charutaria (cigar lounge), nao uma sala VIP de relaxamento padrao.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "bar",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://foursquare.com/v/the-cigar-lounge/52027756498e7cb180636eff",
+      "https://airportterminal3.ae/smoking-area/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 20,
+    "notes": "NAO E UMA SALA VIP de relaxamento: 'The Cigar Lounge' no T3/Concourse A de Dubai e uma charutaria/sala de fumantes com bar, e nao um lounge de embarque com buffet/chuveiros. Salas Emirates First/Business no Concourse A tambem tem cigar rooms internas. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "65f5b259-75ba-45ca-a16f-0e3498ec18ee",
+    "name": "Avianca Lounge GRU (sem sala dedicada)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo / Guarulhos (GRU)",
+    "terminal": "Terminal 2",
+    "location_description": "Avianca opera no Terminal 2 de GRU (nao no T3) e nao possui sala VIP propria; passageiros usam salas parceiras (Plaza Premium/Star Alliance).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "lifemiles",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.avianca.com/en/information-and-help/avianca-experience/avianca-lounges/",
+    "operator": "Avianca",
+    "source_urls": [
+      "https://www.gru.com.br/en/passenger/discover-gru/relax/vip-lounges",
+      "https://moodiedavittreport.com/plaza-premium-group-builds-south-american-lounge-network-with-sa%CC%83o-paulo-opening-and-avianca-partnership/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 24,
+    "notes": "CONFLITO de terminal e NAO HA LOUNGE proprio: a Avianca opera no Terminal 2 de GRU (registro indica T3) e nao tem sala VIP dedicada; usa salas parceiras (Plaza Premium/Star Alliance via LifeMiles/Star Gold). Foto anterior generica removida."
+  }
+]

@@ -26,7 +26,14 @@ def find_canonical(notes):
 
 rows = []
 for f in sorted(glob.glob('data/enriched/batch_*.json')):
-    for r in json.load(open(f, encoding='utf-8')):
+    try:
+        recs = json.load(open(f, encoding='utf-8'))
+    except (json.JSONDecodeError, ValueError):
+        continue  # skip files an agent is still writing
+    for r in recs:
+        # skip transient/scratch records that lack the canonical keys
+        if not all(k in r for k in ('lounge_id', 'name', 'airport_iata')):
+            continue
         issue, action = classify(r.get('notes', ''))
         if issue:
             rows.append({
