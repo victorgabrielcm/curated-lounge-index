@@ -1,0 +1,485 @@
+[
+  {
+    "lounge_id": "2fb0ee10-c7bf-4aa6-bdc5-13a43ea127cb",
+    "name": "Finnair Lounge (Schengen) - Helsinki",
+    "airport_iata": "HEL",
+    "airport_name": "Helsinki Airport (HEL)",
+    "terminal": "Main Terminal (Schengen)",
+    "location_description": "Area Schengen. Lounge Finnair (ha tambem a Finnair Platinum Wing/non-Schengen).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "spa",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.finnair.com/",
+    "operator": "Finnair",
+    "source_urls": [
+      "https://www.finnair.com/en/flying-with-finnair/at-the-airport/finnair-lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Finnair Lounge (Schengen) em Helsinki, com sauna. Ha tambem a Finnair Lounge/Platinum Wing non-Schengen (registro distinto). oneworld Emerald/Sapphire/Business. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6654bdeb-d4db-4b2c-982c-e1259c2c158d",
+    "name": "IGA Lounge - Istanbul",
+    "airport_iata": "IST",
+    "airport_name": "Istanbul Airport (IST)",
+    "terminal": "International (airside)",
+    "location_description": "Aeroporto de Istambul (operadora IGA). Ha multiplas unidades IGA.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.igapass.com",
+    "operator": "IGA (operadora do aeroporto)",
+    "source_urls": [
+      "https://www.igapass.com"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "IGA Lounge (operadora do Aeroporto de Istambul) - ha varias unidades. Priority Pass / IGA Pass. Distinta da Turkish Airlines Lounge. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "189b2e34-01fc-4b14-b20b-ec08607a6d06",
+    "name": "Kuwait Airways Al Mubarakiya Lounge - Kuwait (T4)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 4",
+    "location_description": "Terminal 4, airside, proximo ao gate B5.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "shower",
+      "tv",
+      "luggage_storage",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "mastercard",
+      "visa_airport_companion",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Walk-in a partir de ~USD 23.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.kuwaitairways.com/",
+    "operator": "Kuwait Airways",
+    "source_urls": [
+      "https://my.prioritypass.com/en-GB/lounges/kuwait/kuwait-international/kwi6-al-mubarakiya-lounge",
+      "https://simpleflying.com/review-mubarakiya-lounge-kuwait-t4/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Al Mubarakiya Lounge (Kuwait Airways) no T4, 24h. First/Business + Oasis Club Gold/Silver + Priority Pass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "06f71db8-5b40-4ab1-bdd4-5ad46296b0b1",
+    "name": "W Lounge - Guarulhos T1 (Domestico)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 1 (Domestico)",
+    "location_description": "Terminal 1, airside (area de embarque domestico). Base domestica da Azul.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://wpremiumlounge.com/salas/w-lounge-terminal-1",
+    "operator": "W Premium Group",
+    "source_urls": [
+      "https://wpremiumlounge.com/salas/w-lounge-terminal-1",
+      "https://www.prioritypass.com/pt-BR/lounges/brazil/sao-paulo-guarulhos-governador-andre-franco-montoro-international/gru21-w-lounge-guarulhos"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "W Lounge T1 de Guarulhos (W Premium Group), airside, 24h. GRU tem varias W Premium (T1, T2 West, T3) - unidades distintas. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3130aa2b-dda2-4172-9c75-7074445c59b0",
+    "name": "Saudia Alfursan Lounge - Jeddah (KAIA T1)",
+    "airport_iata": "JED",
+    "airport_name": "King Abdulaziz International Airport (Jeddah)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1 (KAIA). Lounge Alfursan da Saudia.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "coffee",
+      "shower",
+      "prayer_room",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.saudia.com/plan/at-the-airport/lounges-information/AlFursanLounges",
+    "operator": "Saudia",
+    "source_urls": [
+      "https://www.kaia.sa/Airport-Services/Lounges/Saudia-AlFursan-Lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "DUPLICATA/relacionado: Alfursan Lounge no Terminal 1 de JED. Ver #321 'Alfursan Domestic Departure' (id 0c230618). Ha 2 salas Alfursan (domestica + internacional) no T1 - distinguir/consolidar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "4d9318c9-5a2c-482c-8ca7-2da1ade00742",
+    "name": "The Centurion Lounge - Hong Kong",
+    "airport_iata": "HKG",
+    "airport_name": "Hong Kong International Airport (HKG)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, Nivel 7, ao redor do gate 60 (Sky Plaza Rd).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://thecenturionlounge.com/locations/HKG/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://thecenturionlounge.com/locations/HKG/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Amex Centurion Lounge em HKG (T1, Nivel 7, perto do gate 60). Para titulares Amex Platinum/Centurion. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e332e032-d2d0-4bd6-ae8b-74b2480d4a94",
+    "name": "Power Lounge North - Tokyo Haneda (T1)",
+    "airport_iata": "HND",
+    "airport_name": "Tokyo Haneda Airport (HND)",
+    "terminal": "Terminal 1 (North Wing)",
+    "location_description": "Terminal 1, North Wing, 2o andar.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://tokyo-haneda.com",
+    "operator": "Tokyo Airport (JAT)",
+    "source_urls": [
+      "https://tokyo-haneda.com"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "Power Lounge North (Haneda T1, North Wing 2F) - sala paga/Priority Pass do terminal domestico. HND tem varias Power Lounge (North/South/Central). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "80dbb771-1077-4350-a353-7b8b6028c6ca",
+    "name": "Matina Gold Lounge (Walkerhill) - Seoul Incheon (T2)",
+    "airport_iata": "ICN",
+    "airport_name": "Incheon International Airport (Seoul)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, Nivel 4 (Duty-Free Zone), em frente ao gate 250 (escada perto do gate 252).",
+    "hours_open_text": "06:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "massage_chairs",
+      "meeting_room",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.walkerhill.com/transithotel/en/lounge/MatinaGold.jsp",
+    "operator": "Walkerhill",
+    "source_urls": [
+      "https://www.walkerhill.com/transithotel/en/lounge/MatinaGold.jsp",
+      "https://www.plazapremiumlounge.com/en-uk/find/asia/south-korea/seoul/incheon-international-airport/matina-gold"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Matina Gold (Walkerhill) - tier premium com live cooking; NAO acessivel com Priority Pass padrao (apenas a Matina regular). Distinta da Matina Lounge comum. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "da7bac6c-93c6-44bc-9d33-a1895bba75c4",
+    "name": "LATAM VIP Lounge - Guarulhos (T3 Internacional)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 3 (Internacional)",
+    "location_description": "Terminal 3, area de embarque internacional. Sala propria da LATAM (hub).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "latam_business",
+      "latam_pass_black",
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.latamairlines.com/",
+    "operator": "LATAM Airlines",
+    "source_urls": [
+      "https://www.gru.com.br/en/passenger/discover-gru/relax/vip-lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Sala VIP propria da LATAM no T3 internacional de GRU (hub) - REAL e dedicada, diferente de CNF/BSB/CWB/CGH onde 'LATAM VIP Lounge' aponta para salas parceiras. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "48c3e581-3b1e-4645-89b8-5555e367dc1c",
+    "name": "Departure Lounge LGW (generico - a verificar)",
+    "airport_iata": "LGW",
+    "airport_name": "London Gatwick Airport (LGW)",
+    "terminal": "Main Terminal",
+    "location_description": "Registro generico 'Departure Lounge' em Gatwick.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.gatwickairport.com/premium-services/lounge-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 28,
+    "notes": "Registro generico 'Departure Lounge' em LGW. Gatwick tem No1 Lounge, My Lounge, Club Aspire (South) e Plaza Premium (#323). Provavel duplicata/nome generico - verificar/mesclar. Foto anterior generica removida."
+  }
+]

@@ -1393,5 +1393,23 @@
     "recommended_action": "delete",
     "related_id_hint": null,
     "detail": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken (voucher de consumo). 5o registro deste tipo (ver CNF/BSB/CWB/FLN). Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3130aa2b-dda2-4172-9c75-7074445c59b0",
+    "name": "Saudia Alfursan Lounge - Jeddah (KAIA T1)",
+    "airport_iata": "JED",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "0c230618",
+    "detail": "DUPLICATA/relacionado: Alfursan Lounge no Terminal 1 de JED. Ver #321 'Alfursan Domestic Departure' (id 0c230618). Ha 2 salas Alfursan (domestica + internacional) no T1 - distinguir/consolidar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "48c3e581-3b1e-4645-89b8-5555e367dc1c",
+    "name": "Departure Lounge LGW (generico - a verificar)",
+    "airport_iata": "LGW",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "Registro generico 'Departure Lounge' em LGW. Gatwick tem No1 Lounge, My Lounge, Club Aspire (South) e Plaza Premium (#323). Provavel duplicata/nome generico - verificar/mesclar. Foto anterior generica removida."
   }
 ]
