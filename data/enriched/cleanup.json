@@ -664,5 +664,68 @@
     "recommended_action": "disable_or_verify",
     "related_id_hint": null,
     "detail": "VERIFICAR EXISTENCIA: nao ha Plaza Premium em CNF. Lounges de Confins: Ambaar (dom/intl), Advantage VIP e BRT Lounge. Plaza Premium no Brasil esta em GRU. Provavel mapeamento incorreto. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "356c8aa1-6e68-4f18-82b8-810e5a375c92",
+    "name": "Ambaar Lounge - Aracaju [Sala VIP]",
+    "airport_iata": "AJU",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "d632cc5d",
+    "detail": "DUPLICATA do #152 (id d632cc5d): ambos apontam para o Ambaar Lounge de Aracaju (unica sala do AJU). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "bfdf541a-e6b5-4469-abfa-b5b8825ebe85",
+    "name": "Sala VIP (Azul) - Cuiaba [a verificar]",
+    "airport_iata": "CGB",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "DUPLICATA/CONFLITO: 'Sala VIP Azul Cuiaba' - a Azul nao opera sala propria em CGB; provavelmente acesso (parceria) a uma das salas existentes (W Lounge - #157/#162 - ou The Lounge). Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "393feee3-3c7f-479d-9b76-78aa5ec137be",
+    "name": "SAS Gold Lounge - Stockholm Arlanda (T5)",
+    "airport_iata": "ARN",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO/ATUALIZACAO: a SAS reorganizou seus lounges no T5 em 2025 (nova SAS Lounge by Mastercard perto do F26); ha relatos de que a antiga SAS Gold Lounge foi encerrada/realocada - verificar status atual. Obs: SAS migrou da Star Alliance para a SkyTeam em set/2024. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "af292a06-66c0-4ff5-98ea-af9b1a818c73",
+    "name": "Sala VIP Buquebus AEP (a verificar existencia)",
+    "airport_iata": "AEP",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: nao ha sala 'Buquebus' no Aeroparque (AEP). Lounges de AEP: AMAE Lounge (publica/domestica), Outback Lounge (internacional) e Sala VIP Condor (Aerolineas). 'Buquebus' e empresa de ferries - provavel erro de cadastro. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "98a65215-948c-4e74-976b-d88677112bd9",
+    "name": "SAS Lounge - Copenhagen (T3)",
+    "airport_iata": "CPH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "ad890b63",
+    "detail": "DUPLICATA do #132 'Sas One Lounge' (id ad890b63) - ambos sao a SAS Lounge de Copenhague (gate C, T3). Mesclar. Obs: SAS migrou para a SkyTeam em set/2024 (o #132 lista Star Alliance, desatualizado - corrigir). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0ebb885f-9c9b-4dc0-bd45-8e75a734ced1",
+    "name": "Living Heineken - Curitiba (bar, nao e lounge)",
+    "airport_iata": "CWB",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken com voucher de consumo, nao um lounge. Recomendado remover/recategorizar (ver tambem CNF e BSB). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e1933137-56d6-4f80-bd1d-6bd49edc4fde",
+    "name": "Al Mourjan Business Lounge DOH [generico]",
+    "airport_iata": "DOH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "d6740fdb",
+    "detail": "DUPLICATA: 4o registro 'Al Mourjan Business Lounge' - ver Al Mourjan South (id d6740fdb, batch 13), The Garden (id f700093a, batch 14) e generico (id 21c35328, batch 15). Mesclar no South. Foto anterior generica removida."
   }
 ]

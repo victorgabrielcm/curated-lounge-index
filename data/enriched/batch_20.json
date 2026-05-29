@@ -1,0 +1,489 @@
+[
+  {
+    "lounge_id": "356c8aa1-6e68-4f18-82b8-810e5a375c92",
+    "name": "Ambaar Lounge - Aracaju [Sala VIP]",
+    "airport_iata": "AJU",
+    "airport_name": "Aeroporto Internacional de Santa Maria (Aracaju)",
+    "terminal": "Terminal Unico",
+    "location_description": "Apos a seguranca, em frente aos portoes 2 e 3 (mesma sala Ambaar).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "bradesco_visa_aeternum",
+      "diners_club",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://ambaarlounge.com/en/sala-aracaju/",
+    "operator": "Ambaar Lounge",
+    "source_urls": [
+      "https://www.prioritypass.com/pt/lounges/brazil/aracaju---santa-maria-international/aju-ambaar-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "DUPLICATA do #152 (id d632cc5d): ambos apontam para o Ambaar Lounge de Aracaju (unica sala do AJU). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "bfdf541a-e6b5-4469-abfa-b5b8825ebe85",
+    "name": "Sala VIP (Azul) - Cuiaba [a verificar]",
+    "airport_iata": "CGB",
+    "airport_name": "Aeroporto Internacional Marechal Rondon (Cuiaba)",
+    "terminal": "Terminal Unico",
+    "location_description": "Area de embarque. A Azul nao opera sala propria; provavel acesso a uma das salas de CGB.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "tudoazul_diamante",
+      "azul_business",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://my.prioritypass.com/pt-BR/lounges/brazil/cuiaba-marechal-rondon-intl"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 34,
+    "notes": "DUPLICATA/CONFLITO: 'Sala VIP Azul Cuiaba' - a Azul nao opera sala propria em CGB; provavelmente acesso (parceria) a uma das salas existentes (W Lounge - #157/#162 - ou The Lounge). Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "393feee3-3c7f-479d-9b76-78aa5ec137be",
+    "name": "SAS Gold Lounge - Stockholm Arlanda (T5)",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 5 (non-Schengen)",
+    "location_description": "4o andar, acima do balcao de transferencia SAS perto do Gate E1, ao lado da Pearl Lounge.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "business_center",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "eurobonus_gold",
+      "eurobonus_diamond",
+      "skyteam_elite_plus"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.flysas.com/en/travel-info/at-the-airport/lounges",
+    "operator": "SAS Scandinavian Airlines",
+    "source_urls": [
+      "https://www.loungebuddy.com/ARN/sas-gold-lounge-terminal-5-MWg8QasTVm",
+      "https://www.swedavia.com/about-swedavia/swedaviasnewsroom/2025/sas-opens-a-new-lounge-at-arlanda--easy-access-to-premium-benefits-regardless-of-your-departure-gate/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "CONFLITO/ATUALIZACAO: a SAS reorganizou seus lounges no T5 em 2025 (nova SAS Lounge by Mastercard perto do F26); ha relatos de que a antiga SAS Gold Lounge foi encerrada/realocada - verificar status atual. Obs: SAS migrou da Star Alliance para a SkyTeam em set/2024. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "12d0c66f-8c13-41c8-b122-2755a9972dd9",
+    "name": "SWISS Business Lounge - Zurich (E Gates)",
+    "airport_iata": "ZRH",
+    "airport_name": "Zurich Airport (ZRH)",
+    "terminal": "Terminal E (Gates E)",
+    "location_description": "Gates E (non-Schengen), Nivel 3, compartilha entrada com a Senator Lounge E (proximo aos gates E36/E43).",
+    "hours_open_text": "06:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "swiss_business",
+      "star_alliance_business",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.swiss.com/ch/en/fly/airport/lounges/lounges-zurich",
+    "operator": "SWISS",
+    "source_urls": [
+      "https://loungereview.com/lounges/swiss-business-lounge-zrh-e/",
+      "https://thealviator.com/2026/04/swiss-e-lounge-zurich/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Lounge Business da SWISS nos Gates E (longo curso/non-Schengen). Distinto do Business Lounge dos Gates A. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e13b76a5-79d6-4e3c-a55f-47a87aca4b9e",
+    "name": "SWISS Arrival Lounge - Zurich",
+    "airport_iata": "ZRH",
+    "airport_name": "Zurich Airport (ZRH)",
+    "terminal": "Arrivals 2 (landside)",
+    "location_description": "Landside, em Arrivals 2 (logo apos a alfandega; tambem acessivel de Arrivals 1). Sala de CHEGADAS.",
+    "hours_open_text": "06:00-13:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "shower",
+      "sleep_area",
+      "food",
+      "coffee",
+      "clothes_pressing",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "swiss_first",
+      "swiss_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.swiss.com/ch/en/fly/airport/lounges/lounges-zurich",
+    "operator": "SWISS",
+    "source_urls": [
+      "https://onemileatatime.com/reviews/swiss-arrivals-lounge-zurich/",
+      "https://www.flughafen-zuerich.ch/en/passengers/shopping-and-enjoy/services/all-services/swiss-arrival-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Sala de CHEGADAS (landside) com 20 suites de chuveiro (nomeadas com cidades) e servico de passar roupa - para passageiros desembarcando, especialmente de voos noturnos. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "af292a06-66c0-4ff5-98ea-af9b1a818c73",
+    "name": "Sala VIP Buquebus AEP (a verificar existencia)",
+    "airport_iata": "AEP",
+    "airport_name": "Aeroparque Jorge Newbery (Buenos Aires)",
+    "terminal": "Terminal Unico",
+    "location_description": "Existencia de sala 'Buquebus' no AEP nao confirmada.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://aeroparquebuenosaires.ar/en/vip-lounge-access",
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/AEP/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 22,
+    "notes": "VERIFICAR EXISTENCIA: nao ha sala 'Buquebus' no Aeroparque (AEP). Lounges de AEP: AMAE Lounge (publica/domestica), Outback Lounge (internacional) e Sala VIP Condor (Aerolineas). 'Buquebus' e empresa de ferries - provavel erro de cadastro. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "98a65215-948c-4e74-976b-d88677112bd9",
+    "name": "SAS Lounge - Copenhagen (T3)",
+    "airport_iata": "CPH",
+    "airport_name": "Copenhagen Airport (Kastrup)",
+    "terminal": "Terminal 3",
+    "location_description": "Airside, proximo ao gate C, em frente ao controle de passaportes (area non-Schengen/internacional).",
+    "hours_open_text": "Abre ~1h antes do 1o voo SAS; fecha ~30 min apos o ultimo.",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "sleep_rooms",
+      "kids_area",
+      "conference",
+      "relaxation_area",
+      "workspace",
+      "tv",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "sas_business",
+      "eurobonus_gold",
+      "eurobonus_diamond",
+      "skyteam_elite_plus"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.cph.dk/en/practical/workspaces-and-lounges/sas-lounge",
+    "operator": "SAS Scandinavian Airlines",
+    "source_urls": [
+      "https://www.cph.dk/en/practical/workspaces-and-lounges/sas-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "DUPLICATA do #132 'Sas One Lounge' (id ad890b63) - ambos sao a SAS Lounge de Copenhague (gate C, T3). Mesclar. Obs: SAS migrou para a SkyTeam em set/2024 (o #132 lista Star Alliance, desatualizado - corrigir). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0ebb885f-9c9b-4dc0-bd45-8e75a734ced1",
+    "name": "Living Heineken - Curitiba (bar, nao e lounge)",
+    "airport_iata": "CWB",
+    "airport_name": "Aeroporto Internacional Afonso Pena (Curitiba)",
+    "terminal": "Terminal Unico",
+    "location_description": "Area de embarque - bar/restaurante da marca Heineken (acesso por voucher de consumo).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "bar"
+    ],
+    "accepted_programs": [
+      "lounge_voucher"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Voucher de consumo (credito em produtos), nao acesso a sala VIP.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Heineken/concessionaria",
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken com voucher de consumo, nao um lounge. Recomendado remover/recategorizar (ver tambem CNF e BSB). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e1933137-56d6-4f80-bd1d-6bd49edc4fde",
+    "name": "Al Mourjan Business Lounge DOH [generico]",
+    "airport_iata": "DOH",
+    "airport_name": "Hamad International Airport (Doha)",
+    "terminal": "Terminal 1",
+    "location_description": "Lounge Business Al Mourjan (registro generico, sem distincao South/Garden).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "shower",
+      "sleep_rooms",
+      "prayer_room",
+      "relaxation_area",
+      "workspace",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "qatar_business",
+      "qatar_first",
+      "oneworld_first",
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "privilege_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qatarairways.com/en/lounges/al-mourjan.html",
+    "operator": "Qatar Airways",
+    "source_urls": [
+      "https://www.qatarairways.com/en/lounges/al-mourjan.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 42,
+    "notes": "DUPLICATA: 4o registro 'Al Mourjan Business Lounge' - ver Al Mourjan South (id d6740fdb, batch 13), The Garden (id f700093a, batch 14) e generico (id 21c35328, batch 15). Mesclar no South. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ecd8a990-be28-40b1-9439-880e59b38b48",
+    "name": "Al Maha Lounge - Doha (South)",
+    "airport_iata": "DOH",
+    "airport_name": "Hamad International Airport (Doha)",
+    "terminal": "Terminal 1 (area de transito)",
+    "location_description": "Al Maha South: Nivel 2 do Duty Free South, perto do Lamp Bear (escadas a esquerda). Ha tambem Al Maha North (Duty Free Plaza North).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "sleep_rooms",
+      "private_rooms",
+      "luggage_storage",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "dragonpass",
+      "amex_platinum",
+      "mastercard",
+      "visa_airport_companion",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qatarairways.com/en-us/lounges/almaha-lounge.html",
+    "operator": "Qatar Aviation Services (Al Maha)",
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/lounges/qatar/hamad-international/doh2-al-maha-lounge-south-node",
+      "https://upgradedpoints.com/travel/airports/al-maha-lounge-doha-doh-review/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Al Maha South - sala paga/contratada, 24h, max 4h, comidas Halal, quartos de descanso. IMPORTANTE: deixou de participar do Priority Pass em 15/05/2026. O registro #136 'HIA VIP Lounge' (id ebf70f7a) provavelmente duplica esta sala - mesclar. Foto anterior generica removida."
+  }
+]
