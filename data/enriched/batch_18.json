@@ -1,0 +1,478 @@
+[
+  {
+    "lounge_id": "8a834ea2-bc79-4bdc-99a5-4718c64fef21",
+    "name": "Living Heineken - Confins (bar, nao e lounge)",
+    "airport_iata": "CNF",
+    "airport_name": "Aeroporto Internacional de Belo Horizonte (Confins)",
+    "terminal": "Terminal 1",
+    "location_description": "Area de embarque - bar/restaurante da marca Heineken (acesso por voucher de consumo).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "bar"
+    ],
+    "accepted_programs": [
+      "lounge_voucher"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Voucher de consumo (credito em produtos), nao acesso a sala VIP.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Heineken/concessionaria",
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken com voucher de consumo, nao um lounge. Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0a4d44a4-5e88-40aa-a9fe-95a4bfc71f82",
+    "name": "Mastercard Lounge - Budapest",
+    "airport_iata": "BUD",
+    "airport_name": "Budapest Ferenc Liszt International Airport (BUD)",
+    "terminal": "Terminal 2 (SkyCourt)",
+    "location_description": "Nivel mezanino do edificio SkyCourt (entre T2A e T2B), ao lado da SkyCourt Lounge.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "mastercard",
+      "mastercard_black",
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Black/World Elite Mastercard de fora da Hungria: ~30 EUR / 12.000 HUF.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.bud.hu/en/passengers/shopping_and_passenger_experience/convenience_services/lounges_and_vip_services/mastercard_lounge",
+    "operator": "Mastercard",
+    "source_urls": [
+      "https://www.bud.hu/en/passengers/shopping_and_passenger_experience/convenience_services/lounges_and_vip_services/mastercard_lounge",
+      "https://airport.mastercard.com/en/lounge-finder/airport?airportcode=BUD"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Localizada no SkyCourt (entre os piers T2A/T2B), nao estritamente no T2A como indica a base. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9d8d4fc9-3a59-46b4-8476-1130b3dd98e9",
+    "name": "Garuda Indonesia Business Lounge - Jakarta (T3 Intl)",
+    "airport_iata": "CGK",
+    "airport_name": "Soekarno-Hatta International Airport (Jakarta)",
+    "terminal": "Terminal 3 (Internacional)",
+    "location_description": "Nivel mezanino, airside, proximo ao gate 9 (apos a imigracao, escada a direita um andar abaixo).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "cinema",
+      "massage",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Economy Garuda pode comprar acesso (~IDR 349.000).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.garuda-indonesia.com/id/en/garuda-indonesia-experience/on-ground/premium-service/lounge/index",
+    "operator": "Garuda Indonesia",
+    "source_urls": [
+      "https://loungereview.com/lounges/garuda-indonesia-business-class-lounge-cgk-terminal-3-international/",
+      "https://theluxurytraveller.com/lounge-reviews/garuda-business-jakarta-cgk-t3/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Lounge Business da Garuda (SkyTeam); tambem sala contratada de ANA, JAL, Philippine e Qatar. Cinema e area de reflexologia. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7d9c83c5-b881-4d52-a2d9-0457c52701b3",
+    "name": "Living Heineken - Brasilia (bar, nao e lounge)",
+    "airport_iata": "BSB",
+    "airport_name": "Aeroporto Internacional de Brasilia (Juscelino Kubitschek)",
+    "terminal": "Terminal 1",
+    "location_description": "Area de embarque - bar/restaurante da marca Heineken (acesso por voucher de consumo).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "bar"
+    ],
+    "accepted_programs": [
+      "lounge_voucher"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Voucher de consumo (credito em produtos), nao acesso a sala VIP.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Heineken/concessionaria",
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken com voucher de consumo, nao um lounge. Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0e840ead-8c04-441e-9cef-99bf057e2bc3",
+    "name": "Miracle Lounge - Bangkok (multiplos concourses)",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourses A / D / G",
+    "location_description": "Operador opera varias salas (First/Business) nos concourses A, D e G (internacional) e no concourse D domestico. Registro generico.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "massage_chairs",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso avulso ~USD 35 sem Priority Pass.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/thailand/bangkok-suvarnabhumi-intl/bkk17-miracle-lounge",
+    "operator": "Miracle",
+    "source_urls": [
+      "https://www.loungepair.com/guides/bangkok-suvarnabhumi-international-paid-access-airport-lounges-complete-guide-2025/",
+      "https://my.prioritypass.com/en-GB/lounges/thailand/suvarnabhumi/bkk11-miracle-first-class-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 45,
+    "notes": "Registro generico: 'Miracle' opera multiplas salas (First/Business) nos concourses A/D/G + domestico. Desde 01/04/2025 a AoT removeu as salas DE CIA AEREA (Thai/AF/TK/Oman) dos programas de membership, mas as Miracle (contratadas) seguem acessiveis via Priority Pass. Verificar a qual sala se refere. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "df5d5f86-185f-4b7b-b81e-027825ff9ebc",
+    "name": "Adani Lounge (ex-GVK) - Mumbai T2",
+    "airport_iata": "BOM",
+    "airport_name": "Chhatrapati Shivaji Maharaj International Airport (Mumbai)",
+    "terminal": "Terminal 2 (Internacional)",
+    "location_description": "Terminal 2, area de embarque internacional. Sala premium (antiga GVK Lounge).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "dragonpass",
+      "visa_infinite",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://csmia-mumbai.adaniairports.com/en/airport-services/lounges",
+    "operator": "Adani Airports (op. Performa/Travel Food Services)",
+    "source_urls": [
+      "https://www.cardexpert.in/mumbai-gvk-lounge-is-now-adani-lounge/",
+      "https://csmia-mumbai.adaniairports.com/en/airport-services/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "A GVK Lounge foi rebatizada como Adani Lounge apos a aquisicao do aeroporto pela Adani - atualizar nome/operadora. Desde ago/2024 passou a aceitar cartoes Visa/RuPay elegiveis; parceria com DragonPass desde fim de 2025. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c06b4a97-1424-4936-a17b-10d93f92cb03",
+    "name": "Primeclass Lounge - Zurich (E Gates)",
+    "airport_iata": "ZRH",
+    "airport_name": "Zurich Airport (ZRH)",
+    "terminal": "Terminal E (Gates E)",
+    "location_description": "Gates E (non-Schengen), proximo ao gate E46. Subir ao 3o andar pela escada/elevador junto aos gates E44-E45.",
+    "hours_open_text": "06:00-22:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "outdoor_terrace",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://tavoperationservices.com/en-EN/services/lounges/zurich-international-airport-primeclass-lounge",
+    "operator": "TAV Operation Services",
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/lounges/switzerland/zurich/zrh6-primeclass-lounge",
+      "https://www.loungepair.com/guides/guide-primeclass-airport-lounge-zurich-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 62,
+    "notes": "Sala contratada (Priority Pass/Amex/TAV) nos Gates E - apenas passageiros internacionais/transito (non-Schengen). Terraco ao ar livre; ~134 lugares. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "fa0783c4-9890-491c-a8f6-82264d58b189",
+    "name": "American Express Centurion Lounge - Atlanta",
+    "airport_iata": "ATL",
+    "airport_name": "Hartsfield-Jackson Atlanta International Airport (ATL)",
+    "terminal": "Concourse E",
+    "location_description": "Concourse E, proximo ao gate E11 (~26.000 sq ft, com terraco ao ar livre). Acessivel de qualquer terminal (airside conectado).",
+    "hours_open_text": "06:00-23:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "outdoor_terrace",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.thecenturionlounge.com/locations/atl/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/ATL/the-centurion-lounge-concourse-e-KF4QDCUsaM/",
+      "https://onemileatatime.com/reviews/amex-centurion-lounge-atlanta/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 66,
+    "notes": "CONFLITO DE LOCALIZACAO: base indica Concourse B, mas o Centurion Lounge de ATL fica no Concourse E (perto do gate E11). Maior Centurion da rede; abriu em fev/2024. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "08a4b257-2968-49aa-97e8-5d413db6924e",
+    "name": "Advantage VIP Lounge - Campo Grande [Sala VIP]",
+    "airport_iata": "CGR",
+    "airport_name": "Aeroporto Internacional de Campo Grande (CGR)",
+    "terminal": "Terminal Unico",
+    "location_description": "Embarque domestico (provavel mesma sala Advantage VIP, unica de CGR).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "diners_club",
+      "mastercard_black",
+      "visa_infinite",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.advantagevip.com.br/salas/cgr-campo-grande",
+    "operator": "Advantage Group",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/brazil/campo-grande-international/cgr-advantage-vip-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 44,
+    "notes": "DUPLICATA: 'Sala VIP Campo Grande' e o 3o registro para a unica sala de CGR (Advantage VIP Lounge) - ver tambem #163 (id 36721cfa) e #168 (id 2f991eb8). Mesclar todos. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "637d942f-6984-4c80-8331-828b5b237e01",
+    "name": "SWISS First Lounge - Zurich (E Gates)",
+    "airport_iata": "ZRH",
+    "airport_name": "Zurich Airport (ZRH)",
+    "terminal": "Terminal E (Gates E)",
+    "location_description": "Gates E (terminal satelite), proximo ao gate E27. Acesso via controle de passaportes e monotrilho 'Heidi Train' (ou shuttle SWISS First a partir do lounge dos Gates A).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "champagne",
+      "wine",
+      "bar",
+      "shower",
+      "sleep_rooms",
+      "conference",
+      "outdoor_terrace",
+      "relaxation_area",
+      "view",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "swiss_first",
+      "lufthansa_first",
+      "hon_circle"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": "Titular First SWISS/LH (+2 convidados) ou HON Circle em voo Star Alliance no mesmo dia (+2).",
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.swiss.com/ch/en/fly/airport/lounges/lounges-zurich",
+    "operator": "SWISS",
+    "source_urls": [
+      "https://theluxurytraveller.com/lounge-reviews/swiss-first-zurich-zrh-e-gates/",
+      "https://onemileatatime.com/reviews/swiss-first-lounge-zurich/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 70,
+    "notes": "Sala de Primeira ultra-premium: quartos de hotel, bar de champagne, 2 restaurantes a la carte, humidor com 1.000+ vinhos, terraco de 352 m2. Acesso muito restrito (First SWISS/LH ou HON Circle). Foto anterior generica removida."
+  }
+]

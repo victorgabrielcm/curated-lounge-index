@@ -592,5 +592,41 @@
     "recommended_action": "disable_or_verify",
     "related_id_hint": null,
     "detail": "NAO EXISTE ainda: o Centurion Lounge de Boston tem abertura prevista para ~2027-2029 (Terminal C, perto do gate C10). Base indica Terminal B. Em 2026 nao ha Centurion Lounge operando em BOS. Recomendado desativar/adiar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "8a834ea2-bc79-4bdc-99a5-4718c64fef21",
+    "name": "Living Heineken - Confins (bar, nao e lounge)",
+    "airport_iata": "CNF",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken com voucher de consumo, nao um lounge. Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7d9c83c5-b881-4d52-a2d9-0457c52701b3",
+    "name": "Living Heineken - Brasilia (bar, nao e lounge)",
+    "airport_iata": "BSB",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken com voucher de consumo, nao um lounge. Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "fa0783c4-9890-491c-a8f6-82264d58b189",
+    "name": "American Express Centurion Lounge - Atlanta",
+    "airport_iata": "ATL",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO DE LOCALIZACAO: base indica Concourse B, mas o Centurion Lounge de ATL fica no Concourse E (perto do gate E11). Maior Centurion da rede; abriu em fev/2024. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "08a4b257-2968-49aa-97e8-5d413db6924e",
+    "name": "Advantage VIP Lounge - Campo Grande [Sala VIP]",
+    "airport_iata": "CGR",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "36721cfa",
+    "detail": "DUPLICATA: 'Sala VIP Campo Grande' e o 3o registro para a unica sala de CGR (Advantage VIP Lounge) - ver tambem #163 (id 36721cfa) e #168 (id 2f991eb8). Mesclar todos. Foto anterior generica removida."
   }
 ]
