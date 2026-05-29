@@ -1701,6 +1701,51 @@
     "detail": "CONFLITO de terminal e NAO HA LOUNGE proprio: a Avianca opera no Terminal 2 de GRU (registro indica T3) e nao tem sala VIP dedicada; usa salas parceiras (Plaza Premium/Star Alliance via LifeMiles/Star Gold). Foto anterior generica removida."
   },
   {
+    "lounge_id": "6b425f4b-097e-452e-9f8c-6a2206b6bf70",
+    "name": "The Centurion Lounge (American Express) - Buenos Aires Ezeiza",
+    "airport_iata": "EZE",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: a Amex Centurion Lounge de Ezeiza fica no Terminal C (partidas internacionais), nao no Terminal A como consta no DB. Para titulares Amex Platinum/Business Platinum/Centurion, 09:00-00:00. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e4e53c45-a179-4f16-b062-f7e9b3f13983",
+    "name": "Sala de Fumantes (Smoking Lounge) - Fiumicino T3 (gate E38)",
+    "airport_iata": "FCO",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: e uma area/cabine de fumantes no T3 (proximo ao portao E38) de Fiumicino, sem servicos de lounge. Registro deveria sair do indice de salas VIP. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "8decca45-2a69-4e42-aa1c-7e827c3d58d8",
+    "name": "Living HNK (Heineken) - Rio de Janeiro Galeao (T2)",
+    "airport_iata": "GIG",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: Living HNK (Heineken) no T2 de Galeao e um bar de marca que concede credito de consumo via Priority Pass/LoungeKey/Visa Airport Companion, nao um lounge. 7o registro deste tipo (CNF/BSB/CWB/FLN/GRU-T2/GRU-T3). Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "75ff41e5-a0af-4cec-8862-4332a44182e7",
+    "name": "The Centurion Lounge (American Express) - Sao Paulo Guarulhos (T3)",
+    "airport_iata": "GRU",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "FECHADO PERMANENTEMENTE em 28/02/2025. A Amex Centurion Lounge do T3 de Guarulhos nao reabrira; titulares Amex foram redirecionados para as W Lounge (W 5th Av / Pier) no T3. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "31c98411-bcc0-44c5-b044-a1d95cbc9c7e",
+    "name": "Emirates Lounge GRU (inexistente - usa Espaco Banco Safra)",
+    "airport_iata": "GRU",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "NAO HA LOUNGE proprio da Emirates em GRU. Passageiros Business/First da Emirates no T3 usam o Espaco Banco Safra (lounge contratado, ex-Star Alliance Lounge), entrada limitada a 2h antes do voo. VERIFICAR EXISTENCIA / mesclar com o registro do Espaco Banco Safra. Foto anterior generica removida."
+  },
+  {
     "lounge_id": "4a24c0c0-95fe-4f1c-a21a-cfca3cc14515",
     "name": "LATAM VIP Lounge GIG (a verificar - sem sala propria)",
     "airport_iata": "GIG",

@@ -1,0 +1,482 @@
+[
+  {
+    "lounge_id": "99e83dbd-0692-404b-ba87-b11512efa699",
+    "name": "Plaza Premium Lounge (International Departures) - Dubai (T3)",
+    "airport_iata": "DXB",
+    "airport_name": "Dubai International Airport (DXB)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, Concourse A (West Wing), Nivel 4, apos a area de Duty Free. Apenas voos internacionais/em transito.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "coffee",
+      "shower",
+      "prayer_room",
+      "private_rooms",
+      "kids_area",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 120,
+    "children_policy": "Criancas menores de 2 anos entram gratis.",
+    "guest_policy": null,
+    "voucher_info": "Acesso pago/walk-in disponivel.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/india-middle-east-south-africa/united-arab-emirates/dubai/dubai-international-airport/international-departures-terminal-three",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/en-uk/find/india-middle-east-south-africa/united-arab-emirates/dubai/dubai-international-airport/international-departures-terminal-three",
+      "https://my.prioritypass.com/en-GB/lounges/united-arab-emirates/dubai-international/dxb11-plaza-premium-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 62,
+    "notes": "Plaza Premium Lounge no T3 (Concourse A West Wing, Nivel 4) do DXB, ~1.260 m2, com salas de fumantes, chuveiros, sala de oracao e Family Suites pagas. Priority Pass/LoungeKey/DragonPass (estadia 2h) e walk-in. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6b425f4b-097e-452e-9f8c-6a2206b6bf70",
+    "name": "The Centurion Lounge (American Express) - Buenos Aires Ezeiza",
+    "airport_iata": "EZE",
+    "airport_name": "Aeropuerto Internacional Ministro Pistarini (Ezeiza)",
+    "terminal": "Terminal C",
+    "location_description": "Terminal C (internacional), Nivel 2, em frente ao portao 15 (acesso por escada e elevador). Voo internacional saindo em ate 3h.",
+    "hours_open_text": "09:00-00:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "kids_area",
+      "workspace",
+      "business_center",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": "Possui area dedicada para criancas/familias.",
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/EZE/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/EZE/",
+      "https://thertwguys.com/salon-centurion-lounge-buenos-aires/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "CONFLITO: a Amex Centurion Lounge de Ezeiza fica no Terminal C (partidas internacionais), nao no Terminal A como consta no DB. Para titulares Amex Platinum/Business Platinum/Centurion, 09:00-00:00. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "49b401a3-80e2-49d6-b4cd-be3f33558c1c",
+    "name": "VIP Club Lounge - Buenos Aires Ezeiza (Internacional)",
+    "airport_iata": "EZE",
+    "airport_name": "Aeropuerto Internacional Ministro Pistarini (Ezeiza)",
+    "terminal": "Terminal A",
+    "location_description": "Terminal de Partidas, terreo, Setor B (check-in) para partidas internacionais; chegadas internacionais no lado esquerdo do hall. Operadora VIPCLUB.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "coffee",
+      "workspace",
+      "relaxation_area",
+      "tv",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "mastercard",
+      "visa_signature",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.vipclub.com.ar/en/salas-VIP",
+    "operator": "VIPCLUB",
+    "source_urls": [
+      "https://www.vipclub.com.ar/en/salas-VIP",
+      "https://www.aeropuertosargentina.com/es/EZE/servicios/servicios-vip"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Salao VIPCLUB nas partidas internacionais de Ezeiza, terreo (Setor B), aberto 24h, com controles de aeroporto integrados. Acesso por socios VIPCLUB, cartoes parceiros, Priority Pass ou passe diario. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "77d7800d-6146-40d7-b939-e2cc0f085a26",
+    "name": "The Emirates Lounge - Rome Fiumicino (T3)",
+    "airport_iata": "FCO",
+    "airport_name": "Aeroporto Leonardo da Vinci - Fiumicino (FCO)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, Nivel 2, area de embarque E, proximo aos portoes E22-E24, com vista para o patio e embarque direto.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "prayer_room",
+      "business_center",
+      "tarmac_view",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "emirates_business",
+      "emirates_first",
+      "skywards_gold",
+      "skywards_platinum",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso pago para passageiros Emirates em economica: ~USD 125 (Skywards) / USD 155 (nao-membros) + GST.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.adr.it/web/aeroporti-di-roma-en/emirates-lounge",
+    "operator": "Emirates",
+    "source_urls": [
+      "https://www.adr.it/web/aeroporti-di-roma-en/emirates-lounge",
+      "https://www.emirates.com/media-centre/emirates-opens-new-lounge-at-romes-international-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Emirates Lounge no T3 (area E, Nivel 2, portoes E22-E24) de Fiumicino, 950 m2, aberto em 2018. Para passageiros Business/First da Emirates e Skywards Gold/Platinum; economica pode pagar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e4e53c45-a179-4f16-b062-f7e9b3f13983",
+    "name": "Sala de Fumantes (Smoking Lounge) - Fiumicino T3 (gate E38)",
+    "airport_iata": "FCO",
+    "airport_name": "Aeroporto Leonardo da Vinci - Fiumicino (FCO)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, area de embarque E (E31-E44), proximo ao portao E38. Cabine/sala designada para fumantes.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.adr.it/web/aeroporti-di-roma-en/pax-fco-smoking-areas",
+    "operator": "Aeroporti di Roma",
+    "source_urls": [
+      "https://www.adr.it/web/aeroporti-di-roma-en/pax-fco-smoking-areas",
+      "https://airportsmokers.com/airports_of_europe/italy/smoking_at_rome_Fiumicino.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 16,
+    "notes": "NAO E UMA SALA VIP: e uma area/cabine de fumantes no T3 (proximo ao portao E38) de Fiumicino, sem servicos de lounge. Registro deveria sair do indice de salas VIP. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "8decca45-2a69-4e42-aa1c-7e827c3d58d8",
+    "name": "Living HNK (Heineken) - Rio de Janeiro Galeao (T2)",
+    "airport_iata": "GIG",
+    "airport_name": "Aeroporto Internacional Tom Jobim - Galeao (GIG)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, area de embarque. Bar/espaco da marca Heineken (Living HNK) que funciona como sala VIP via creditos de consumo.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "bar"
+    ],
+    "accepted_programs": [
+      "lounge_voucher",
+      "priority_pass",
+      "visa_airport_companion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Voucher de consumo (credito ~USD 28 via Priority Pass/LoungeKey).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.instagram.com/livinghnk/",
+    "operator": "Living HNK (Heineken)",
+    "source_urls": [
+      "https://www.cartoesdecredito.me/salas/living-heineken-novas-unidades-disponiveis-no-loungekey-e-priority-pass/",
+      "https://passageirodeprimeira.com/bar-heineken-visa-airport-companion/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO E UMA SALA VIP: Living HNK (Heineken) no T2 de Galeao e um bar de marca que concede credito de consumo via Priority Pass/LoungeKey/Visa Airport Companion, nao um lounge. 7o registro deste tipo (CNF/BSB/CWB/FLN/GRU-T2/GRU-T3). Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d99916be-65c9-40a7-90e9-6a6b65f18068",
+    "name": "British Airways Galleries Club Lounge - Edinburgh",
+    "airport_iata": "EDI",
+    "airport_name": "Edinburgh Airport (EDI)",
+    "terminal": "Main Terminal",
+    "location_description": "Apos a seguranca, no fim da area de lojas (vire a esquerda), em frente ao portao 5.",
+    "hours_open_text": "05:00-20:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "coffee",
+      "workspace",
+      "business_center",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.edinburghairport.com/prepare/services-and-facilities/lounges",
+    "operator": "British Airways",
+    "source_urls": [
+      "https://loungereview.com/lounges/british-airways-galleries-club-lounge-edi/",
+      "https://www.headforpoints.com/2024/02/19/review-british-airways-lounge-edinburgh-airport-2/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "British Airways Galleries Club Lounge em Edimburgo (terminal unico, em frente ao portao 5), 730 m2, 05:00-20:30 diariamente. Para BA Gold/Silver, First/Business e oneworld Emerald/Sapphire; sem acesso pago e sem chuveiros. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "75ff41e5-a0af-4cec-8862-4332a44182e7",
+    "name": "The Centurion Lounge (American Express) - Sao Paulo Guarulhos (T3)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 3",
+    "location_description": "Ficava no Terminal 3 (embarque internacional), proximo ao portao 309. FECHADO PERMANENTEMENTE.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/GRU/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://awardwallet.com/news/credit-cards/amex-centurion-lounge-sao-paulo/",
+      "https://www.travelcodex.com/this-american-express-centurion-lounge-is-now-closed/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 22,
+    "notes": "FECHADO PERMANENTEMENTE em 28/02/2025. A Amex Centurion Lounge do T3 de Guarulhos nao reabrira; titulares Amex foram redirecionados para as W Lounge (W 5th Av / Pier) no T3. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c071a861-ddc1-4881-9aee-1559dbc42a9d",
+    "name": "Prima Vista Lounge - Portus (Gates E) - Rome Fiumicino (T3)",
+    "airport_iata": "FCO",
+    "airport_name": "Aeroporto Leonardo da Vinci - Fiumicino (FCO)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, area de embarque E (portoes E51-E61). Apenas voos extra-Schengen/nao-Schengen.",
+    "hours_open_text": "05:45-22:45",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "oneworld_sapphire",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.adr.it/web/aeroporti-di-roma-en/passenger-lounge1",
+    "operator": "Aeroporti di Roma / Prima Vista",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/italy/rome-fiumicino/fco6-prima-vista-lounge---portus",
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/FCO/Prima-Vista-Lounge---Portus-Terminal-3-E-Gates-Ppq3OqXyvl/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Prima Vista Lounge 'Portus' no T3 (area E, portoes E51-E61) de Fiumicino, 550 m2, 05:45-22:45, max 3h. Voos extra-Schengen; aceita Priority Pass, oneworld e Business. Distinta da Prima Vista do T1. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "31c98411-bcc0-44c5-b044-a1d95cbc9c7e",
+    "name": "Emirates Lounge GRU (inexistente - usa Espaco Banco Safra)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3 (embarque internacional). A Emirates nao tem sala propria em GRU; usa o lounge contratado Espaco Banco Safra.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "emirates_business",
+      "emirates_first",
+      "business_class",
+      "priority_pass"
+    ],
+    "max_stay_minutes": 120,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.gru.com.br/en/passenger/discover-gru/relax/vip-lounges",
+    "operator": "Espaco Banco Safra (lounge contratado da Emirates)",
+    "source_urls": [
+      "https://onemileatatime.com/reviews/espaco-banco-safra-lounge-sao-paulo/",
+      "https://www.loungepair.com/guides/sao-paulo-guarulhos-airport-gru-guide/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 26,
+    "notes": "NAO HA LOUNGE proprio da Emirates em GRU. Passageiros Business/First da Emirates no T3 usam o Espaco Banco Safra (lounge contratado, ex-Star Alliance Lounge), entrada limitada a 2h antes do voo. VERIFICAR EXISTENCIA / mesclar com o registro do Espaco Banco Safra. Foto anterior generica removida."
+  }
+]
