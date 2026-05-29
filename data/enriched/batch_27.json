@@ -1,0 +1,454 @@
+[
+  {
+    "lounge_id": "22f4e505-5a60-43a5-b670-04f51638083e",
+    "name": "Goldair Handling Lounge - Athens (intra-Schengen)",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "Main Terminal (intra-Schengen)",
+    "location_description": "Nivel de partidas, proximo ao gate B13 (area Schengen).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "amex_platinum",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.goldair-handling.com/our-services/lounges/athens-international-airport-intra-schengen/",
+    "operator": "Goldair Handling",
+    "source_urls": [
+      "https://www.goldair-handling.com/our-services/lounges/athens-international-airport-intra-schengen/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "DUPLICATA do #184 'Goldair Handling Lounge ATH' (id ce35a13e, batch 19) - este registro corresponde a unidade intra-Schengen (gate B13). Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "eea6004d-abea-4cef-a26d-37736eb1d358",
+    "name": "THAI Royal Silk Lounge - Bangkok (Concourse C)",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse C",
+    "location_description": "Concourse C, 3o andar. Lounge Business da Thai Airways (Royal Silk).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "massage_chairs",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.thaiairways.com/en-th/content/travel-class/royal-silk/",
+    "operator": "Thai Airways",
+    "source_urls": [
+      "https://loungereview.com/lounges/thai-airways-royal-silk-lounge-bkk-d/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Royal Silk (Thai Business) no Concourse C - distinta da unidade do Concourse D (#154 id cafaa816, batch 16). A Thai opera Royal Silk em varios concourses (C/D/E). Verificar/possivel duplicata. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "353d06d7-10ee-469e-9804-1e60ed965e86",
+    "name": "Gulf Air Falcon Gold Lounge (Golden Falcon) - Bahrain",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Main Terminal",
+    "location_description": "Entrada mais proxima do gate 18. ~6.500 sq ft, 400 lugares.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "prayer_room",
+      "sleep_pods",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Economy Gulf Air pode comprar acesso (~USD 55).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.gulfair.com/flying-with-us/at-the-airport/bahrain-falcon-gold-lounge",
+    "operator": "Gulf Air",
+    "source_urls": [
+      "https://www.gulfair.com/flying-with-us/at-the-airport/bahrain-falcon-gold-lounge",
+      "https://www.prioritypass.com/lounges/bahrain/bahrain-international/bah-gulf-air-golden-falcon-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "'Golden Falcon' = Gulf Air Falcon Gold Lounge. Gulf Air Business + Falconflyer Black/Gold/Silver; cabines de dormir (Quiet Lounge). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0c689aab-1885-4eb9-80db-902f5199974d",
+    "name": "Winston Smoking Lounge 2 - Athens (nao e lounge)",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "Main Terminal",
+    "location_description": "Sala de fumantes patrocinada (Winston), proxima ao gate B12. Nao e uma sala VIP.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 10,
+    "notes": "NAO E UMA SALA VIP: 'Winston Smoking Lounge' e uma sala de fumantes patrocinada, nao um lounge. Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "71acf705-4514-433d-806c-950e6682d731",
+    "name": "Star Alliance Lounge BCN (a verificar - usa contratadas)",
+    "airport_iata": "BCN",
+    "airport_name": "Aeroporto de Barcelona-El Prat (Josep Tarradellas)",
+    "terminal": "Terminal 1",
+    "location_description": "Nao ha Star Alliance Lounge dedicado em BCN. Star Alliance usa salas contratadas (Pau Casals - Schengen; Miro - non-Schengen).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "star_alliance_business",
+      "priority_pass"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat/vip-services/vip-lounges/t1-vip-lounges.html",
+    "operator": "Aena (contratada)",
+    "source_urls": [
+      "https://www.staralliance.com/en/lounge-finder",
+      "https://www.aeropuertobarcelona-elprat.com/ingl/vip_lounges.htm"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 28,
+    "notes": "VERIFICAR/DUPLICATA: nao ha Star Alliance Lounge dedicado em BCN. Passageiros Star Alliance usam salas contratadas Aena (Pau Casals - Schengen #183 id 405c74f6; Miro - non-Schengen #160 id f85a11c5). Provavel mapeamento incorreto - mesclar/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0b433802-c077-4524-a2ab-17721ea0bac5",
+    "name": "Lounge GOL/Smiles Platinum/Diamante - Brasilia",
+    "airport_iata": "BSB",
+    "airport_name": "Aeroporto Internacional de Brasilia (Juscelino Kubitschek)",
+    "terminal": "Terminal 1",
+    "location_description": "Area de embarque internacional (mesma sala GOL/Smiles).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "smiles_diamante",
+      "gol_premium_economy",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.smiles.com.br/sala-vip",
+    "operator": "GOL/Smiles",
+    "source_urls": [
+      "https://www.melhoresdestinos.com.br/gol-smiles-sala-vip-brasilia.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 42,
+    "notes": "DUPLICATA do #185 'Sala VIP Smiles Diamante BSB' (id 6430d4ac, batch 19) - mesma sala GOL/Smiles (Smiles Ouro/Diamante e GOL Premium). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "90af424a-8dfc-4d7d-980e-008a8aef5e93",
+    "name": "Iberia VIP Lounge BCN (a verificar - usa Sala Colomer)",
+    "airport_iata": "BCN",
+    "airport_name": "Aeroporto de Barcelona-El Prat (Josep Tarradellas)",
+    "terminal": "Terminal 1 (Schengen)",
+    "location_description": "Nao ha sala 'Iberia' dedicada em BCN; a Iberia usa a Sala VIP Colomer (contratada, T1 Schengen).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "iberia_business",
+      "iberia_plus_elite",
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "priority_pass"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.iberia.com/us/fly-with-iberia/barcelone-airport/services/",
+    "operator": "Aena (Sala Colomer)",
+    "source_urls": [
+      "https://upgradedpoints.com/travel/airports/sala-vip-colomer-lounge-barcelona-bcn-review/",
+      "https://www.iberia.com/us/fly-with-iberia/barcelone-airport/services/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 34,
+    "notes": "CONFLITO/VERIFICAR: nao ha sala dedicada 'Iberia' em BCN; a Iberia usa a Sala VIP Colomer (contratada Aena, T1 Schengen). Mapear/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "860b5f8c-6262-490a-9078-99a11399c978",
+    "name": "Lufthansa Business Lounge - Athens",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "Main Terminal (intra-Schengen)",
+    "location_description": "Nivel de partidas, proximo ao gate B12 (area Schengen).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "lufthansa_frequent_traveller",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.lufthansa.com/de/en/lounges",
+    "operator": "Lufthansa",
+    "source_urls": [
+      "https://www.lufthansa.com/de/en/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Lounge Business da Lufthansa em ATH (perto do gate B12, intra-Schengen), para Star Alliance Business/Gold. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "38f3c7e9-241f-4fa8-926a-fd843997bb0a",
+    "name": "Smoking Lounge BAH (nao e lounge / duplicata)",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Main Terminal",
+    "location_description": "Sala de fumantes em Bahrein. Nao e uma sala VIP.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 10,
+    "notes": "NAO E UMA SALA VIP: sala de fumantes. DUPLICATA do #247 'Smoking Lounge BAH' (id ef626c99, batch 25). Remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "771b47b7-c6b2-42cb-9663-7a76830acb67",
+    "name": "King Power Lounge - Bangkok (Concourse E)",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse E",
+    "location_description": "Area de partidas internacionais, Nivel 4, Concourse E. Ha tambem unidade no Concourse A.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso via cartao King Power (membership gratuita, requer cadastro na loja Downtown).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://member.kingpower.com/",
+    "operator": "King Power",
+    "source_urls": [
+      "https://www.loungebuddy.com/BKK/king-power-lounge-concourse-a-international-ox6PpGOogD",
+      "http://asia-airports.com/thailand/bkk/lounges.php"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "Sala da King Power (operadora de duty-free) no Concourse E (Nivel 4); ha tambem unidade no Concourse A. Acesso por membership King Power. Foto anterior generica removida."
+  }
+]

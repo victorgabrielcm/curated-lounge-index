@@ -1006,5 +1006,68 @@
     "recommended_action": "merge",
     "related_id_hint": "5e542584",
     "detail": "DUPLICATA/generico: 'Brussels Airlines Business Lounge' corresponde a THE LOFT (Pier A Schengen, #161 id 5e542584) ou a THE SUITE (Pier B). Mesclar/verificar. Obs: THE LOFT esta em reforma desde 01/2026. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "22f4e505-5a60-43a5-b670-04f51638083e",
+    "name": "Goldair Handling Lounge - Athens (intra-Schengen)",
+    "airport_iata": "ATH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "ce35a13e",
+    "detail": "DUPLICATA do #184 'Goldair Handling Lounge ATH' (id ce35a13e, batch 19) - este registro corresponde a unidade intra-Schengen (gate B13). Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "eea6004d-abea-4cef-a26d-37736eb1d358",
+    "name": "THAI Royal Silk Lounge - Bangkok (Concourse C)",
+    "airport_iata": "BKK",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "cafaa816",
+    "detail": "Royal Silk (Thai Business) no Concourse C - distinta da unidade do Concourse D (#154 id cafaa816, batch 16). A Thai opera Royal Silk em varios concourses (C/D/E). Verificar/possivel duplicata. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0c689aab-1885-4eb9-80db-902f5199974d",
+    "name": "Winston Smoking Lounge 2 - Athens (nao e lounge)",
+    "airport_iata": "ATH",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Winston Smoking Lounge' e uma sala de fumantes patrocinada, nao um lounge. Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "71acf705-4514-433d-806c-950e6682d731",
+    "name": "Star Alliance Lounge BCN (a verificar - usa contratadas)",
+    "airport_iata": "BCN",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "405c74f6",
+    "detail": "VERIFICAR/DUPLICATA: nao ha Star Alliance Lounge dedicado em BCN. Passageiros Star Alliance usam salas contratadas Aena (Pau Casals - Schengen #183 id 405c74f6; Miro - non-Schengen #160 id f85a11c5). Provavel mapeamento incorreto - mesclar/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0b433802-c077-4524-a2ab-17721ea0bac5",
+    "name": "Lounge GOL/Smiles Platinum/Diamante - Brasilia",
+    "airport_iata": "BSB",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "6430d4ac",
+    "detail": "DUPLICATA do #185 'Sala VIP Smiles Diamante BSB' (id 6430d4ac, batch 19) - mesma sala GOL/Smiles (Smiles Ouro/Diamante e GOL Premium). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "90af424a-8dfc-4d7d-980e-008a8aef5e93",
+    "name": "Iberia VIP Lounge BCN (a verificar - usa Sala Colomer)",
+    "airport_iata": "BCN",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO/VERIFICAR: nao ha sala dedicada 'Iberia' em BCN; a Iberia usa a Sala VIP Colomer (contratada Aena, T1 Schengen). Mapear/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "38f3c7e9-241f-4fa8-926a-fd843997bb0a",
+    "name": "Smoking Lounge BAH (nao e lounge / duplicata)",
+    "airport_iata": "BAH",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": "ef626c99",
+    "detail": "NAO E UMA SALA VIP: sala de fumantes. DUPLICATA do #247 'Smoking Lounge BAH' (id ef626c99, batch 25). Remover/recategorizar. Foto anterior generica removida."
   }
 ]
