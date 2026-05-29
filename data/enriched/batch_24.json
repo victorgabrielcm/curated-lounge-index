@@ -1,0 +1,494 @@
+[
+  {
+    "lounge_id": "5bd40cd8-23cd-4468-a36f-6d66286f251a",
+    "name": "Dilmun Lounge - Bahrain",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Main Terminal",
+    "location_description": "1o andar, em frente ao gate 16.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "kids_area",
+      "tv",
+      "conference",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/bahrain/bahrain-international/bah3-dilmun-lounge",
+    "operator": "Bahrain Airport Company",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/bahrain/bahrain-international/bah3-dilmun-lounge",
+      "https://simpleflying.com/lounge-review-dilmun-bahrain/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Sala contratada (Priority Pass/DragonPass) aberta 24h, max 3h. Distinta da Gulf Air Falcon Gold Lounge. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9504404a-2862-491c-a5aa-5c559beb326a",
+    "name": "Avianca Sala VIP - Bogota (T1 Internacional)",
+    "airport_iata": "BOG",
+    "airport_name": "Aeropuerto Internacional El Dorado (Bogota)",
+    "terminal": "Terminal 1 (Internacional)",
+    "location_description": "Terminal 1, area de embarque internacional. Sala VIP da Avianca.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "lifemiles_diamond",
+      "lifemiles_gold",
+      "star_alliance_gold",
+      "star_alliance_business",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.avianca.com/",
+    "operator": "Avianca",
+    "source_urls": [
+      "https://www.avianca.com/en/booking/before-flight/vip-lounges/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Sala VIP da Avianca (Star Alliance) no T1 internacional de BOG. ATENCAO: ha varios registros Avianca/BOG na base (possiveis duplicatas) - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3a5d49c9-6bd0-4f24-bf1d-da9c492e4d8f",
+    "name": "American Express Lounge by Pontus Frithiof - Stockholm Arlanda",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 5",
+    "location_description": "Terminal 5, proximo aos gates E, em frente ao 'La Girafe by Pontus Frithiof'.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/ARN/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/ARN/american-express-lounge-by-pontus-frithiof-terminal-5-wuF8H1KrZa/",
+      "https://www.headforpoints.com/2024/05/12/american-express-new-lounge-stockholm-arlanda-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "CONFLITO DE NOME: base registra 'Centurion Lounge', mas a sala Amex de Arlanda chama-se 'American Express Lounge by Pontus Frithiof' (nao usa a marca Centurion). Corrigir nome. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "693f07e9-18fc-467b-9609-0e0a8426d06d",
+    "name": "Zain VIP Lounge - Amman (Queen Alia)",
+    "airport_iata": "AMM",
+    "airport_name": "Queen Alia International Airport (Amman)",
+    "terminal": "Terminal 1",
+    "location_description": "Andar superior, proximo ao Duty Free, em direcao aos gates 21-24 e 202-228.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://loungereview.com/lounges/zain-vip-lounge-amm/",
+    "operator": "Zain",
+    "source_urls": [
+      "https://loungereview.com/lounges/zain-vip-lounge-amm/",
+      "https://theammanairport.com/airport-lounges/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "CONFLITO: base indica cidade 'Petra' - incorreto; AMM = Amman (Queen Alia). Sala distinta da Petra Lounge (que fechou em 31/12/2025, ver batch 7). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b2fa6779-156b-4389-8331-e84bc17949e0",
+    "name": "Aeroportos VIP Club - Brasilia [VIP Club]",
+    "airport_iata": "BSB",
+    "airport_name": "Aeroporto Internacional de Brasilia (Juscelino Kubitschek)",
+    "terminal": "Terminal 1",
+    "location_description": "2o piso airside, no fim do corredor da area de embarque.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.bsb.aero/salavip",
+    "operator": "Aeroportos VIP Club",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/brazil/brasilia-international/bsb-aeroportos-vip-club",
+      "https://www.bsb.aero/salavip"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "'Aeroportos VIP Club' - principal operador airside de BSB. Os registros #236 'Sala VIP Mastercard Black' (id 9ad5b49c) e #186 'LATAM VIP Lounge BSB' (id e91f2f24) provavelmente apontam para esta sala. Mesclar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9ad5b49c-58d2-47ee-8315-b2a1879a41c7",
+    "name": "Sala VIP Mastercard Black - Brasilia",
+    "airport_iata": "BSB",
+    "airport_name": "Aeroporto Internacional de Brasilia (Juscelino Kubitschek)",
+    "terminal": "Terminal 1",
+    "location_description": "Acesso via Mastercard Black ao Aeroportos VIP Club de BSB.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "mastercard_black",
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.bsb.aero/salavip",
+    "operator": "Aeroportos VIP Club",
+    "source_urls": [
+      "https://www.bsb.aero/salavip"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 42,
+    "notes": "DUPLICATA: 'Sala VIP Mastercard Black' = acesso via cartao ao Aeroportos VIP Club de BSB (ver #235, id b2fa6779). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "791cc1f3-4b0a-450a-8464-cd789f2994c5",
+    "name": "BA Lounge BCN (a verificar - usa Sala VIP Miro)",
+    "airport_iata": "BCN",
+    "airport_name": "Aeroporto de Barcelona-El Prat (Josep Tarradellas)",
+    "terminal": "Terminal 1 (non-Schengen)",
+    "location_description": "A British Airways nao opera sala propria em BCN; passageiros elegiveis usam a Sala VIP Joan Miro (non-Schengen T1).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld",
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "priority_pass"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat/aerolineas/british-airways.html",
+    "operator": "Aena (Sala VIP Miro)",
+    "source_urls": [
+      "https://flyforpoints.com/lounge_search/BA/BCN.html",
+      "https://www.headforpoints.com/2023/06/23/review-sala-vip-joan-miro-lounge-barcelona-airport-terminal-1/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 30,
+    "notes": "VERIFICAR/DUPLICATA: a British Airways nao opera lounge proprio em BCN; passageiros BA usam a Sala VIP Joan Miro (non-Schengen T1, ver #160 id f85a11c5). Provavel duplicata/mapeamento incorreto - mesclar com a Miro. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "87cca4b7-0da8-47d0-ab3b-5c66bdf51ab5",
+    "name": "Air France Lounge - Paris CDG (2F)",
+    "airport_iata": "CDG",
+    "airport_name": "Aeroport de Paris-Charles de Gaulle (CDG)",
+    "terminal": "Terminal 2F (Schengen)",
+    "location_description": "Terminal 2F (voos Schengen), area de embarque.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "flying_blue",
+      "air_france_business",
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.airfrance.com/",
+    "operator": "Air France",
+    "source_urls": [
+      "https://wwws.airfrance.fr/information/aeroport/salons"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Lounge da Air France no 2F (voos Schengen). CDG tem multiplos lounges AF (2E halls K/L/M, 2F, 2G) - registro especifico do 2F. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "93c43415-5268-4e60-bba0-511f23a0c1a0",
+    "name": "Menzies Pearl Lounge - Stockholm Arlanda (T5)",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 5 (base indica T4)",
+    "location_description": "Terminal 5, proximo aos gates C/E1 (Pearl Lounge, ex-Norrsken). 4o andar.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/sweden/stockholm-arlanda",
+    "operator": "Menzies Aviation",
+    "source_urls": [
+      "https://flyctory.com/2025/06/02/menzies-pearl-lounge-stockholm-airport-arn-terminal-5-c-gates/",
+      "https://flyctory.com/2022/02/28/menzies-norrsken-lounge-stockholm-arlanda-arn-t5/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "CONFLITO: base indica 'T4 Gate C37', mas a Menzies Pearl Lounge (ex-Norrsken) fica no Terminal 5 (gates C, perto do E1). Possivel relacao/duplicata com #167 'Menzies Aviation Lounge ARN' (id c3b98bc9, batch 17). Verificar. Sem chuveiros. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "abe9ce54-fcd9-4c48-8fd3-f9c6e11351ba",
+    "name": "VIP Lounge BAH (generico - a verificar)",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Main Terminal",
+    "location_description": "Registro generico 'VIP Lounge' em Bahrein.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/airport-guides/bahrain-international"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 28,
+    "notes": "Registro generico 'VIP Lounge' em BAH. O aeroporto tem Dilmun Lounge (#231, id 5bd40cd8), Gulf Air Falcon Gold e salas CIP/VIP. Possivel duplicata do Dilmun ou sala CIP separada - verificar/mesclar. Foto anterior generica removida."
+  }
+]

@@ -835,5 +835,68 @@
     "recommended_action": "disable",
     "related_id_hint": "bc8923fa",
     "detail": "FECHADO: os lounges da Etihad no antigo Terminal 3 (incl. Pier B) encerraram em nov/2023, quando a Etihad migrou para o novo Terminal A (Midfield). O lounge Business atual fica no Terminal A (entre os Piers C e D) - ver #156 (id bc8923fa). Atualizar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9504404a-2862-491c-a5aa-5c559beb326a",
+    "name": "Avianca Sala VIP - Bogota (T1 Internacional)",
+    "airport_iata": "BOG",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "Sala VIP da Avianca (Star Alliance) no T1 internacional de BOG. ATENCAO: ha varios registros Avianca/BOG na base (possiveis duplicatas) - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3a5d49c9-6bd0-4f24-bf1d-da9c492e4d8f",
+    "name": "American Express Lounge by Pontus Frithiof - Stockholm Arlanda",
+    "airport_iata": "ARN",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO DE NOME: base registra 'Centurion Lounge', mas a sala Amex de Arlanda chama-se 'American Express Lounge by Pontus Frithiof' (nao usa a marca Centurion). Corrigir nome. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "693f07e9-18fc-467b-9609-0e0a8426d06d",
+    "name": "Zain VIP Lounge - Amman (Queen Alia)",
+    "airport_iata": "AMM",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: base indica cidade 'Petra' - incorreto; AMM = Amman (Queen Alia). Sala distinta da Petra Lounge (que fechou em 31/12/2025, ver batch 7). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9ad5b49c-58d2-47ee-8315-b2a1879a41c7",
+    "name": "Sala VIP Mastercard Black - Brasilia",
+    "airport_iata": "BSB",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "b2fa6779",
+    "detail": "DUPLICATA: 'Sala VIP Mastercard Black' = acesso via cartao ao Aeroportos VIP Club de BSB (ver #235, id b2fa6779). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "791cc1f3-4b0a-450a-8464-cd789f2994c5",
+    "name": "BA Lounge BCN (a verificar - usa Sala VIP Miro)",
+    "airport_iata": "BCN",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": "f85a11c5",
+    "detail": "VERIFICAR/DUPLICATA: a British Airways nao opera lounge proprio em BCN; passageiros BA usam a Sala VIP Joan Miro (non-Schengen T1, ver #160 id f85a11c5). Provavel duplicata/mapeamento incorreto - mesclar com a Miro. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "93c43415-5268-4e60-bba0-511f23a0c1a0",
+    "name": "Menzies Pearl Lounge - Stockholm Arlanda (T5)",
+    "airport_iata": "ARN",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "c3b98bc9",
+    "detail": "CONFLITO: base indica 'T4 Gate C37', mas a Menzies Pearl Lounge (ex-Norrsken) fica no Terminal 5 (gates C, perto do E1). Possivel relacao/duplicata com #167 'Menzies Aviation Lounge ARN' (id c3b98bc9, batch 17). Verificar. Sem chuveiros. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "abe9ce54-fcd9-4c48-8fd3-f9c6e11351ba",
+    "name": "VIP Lounge BAH (generico - a verificar)",
+    "airport_iata": "BAH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "5bd40cd8",
+    "detail": "Registro generico 'VIP Lounge' em BAH. O aeroporto tem Dilmun Lounge (#231, id 5bd40cd8), Gulf Air Falcon Gold e salas CIP/VIP. Possivel duplicata do Dilmun ou sala CIP separada - verificar/mesclar. Foto anterior generica removida."
   }
 ]
