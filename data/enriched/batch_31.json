@@ -1,0 +1,491 @@
+[
+  {
+    "lounge_id": "aa54b6c3-7172-4043-b3a7-eb03b4691df0",
+    "name": "Air France La Premiere Lounge - Paris CDG",
+    "airport_iata": "CDG",
+    "airport_name": "Aeroport de Paris-Charles de Gaulle (CDG)",
+    "terminal": "Terminal 2E Hall M",
+    "location_description": "Terminal 2E Hall M. Sala La Premiere (Primeira Classe) da Air France - acesso ultra-restrito (por convite).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "champagne",
+      "wine",
+      "bar",
+      "spa",
+      "shower",
+      "sleep_area",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "air_france_la_premiere",
+      "flying_blue_ultimate"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": "Apenas passageiros La Premiere AF e convidados Flying Blue Ultimate (sob convite).",
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.airfrance.com/",
+    "operator": "Air France",
+    "source_urls": [
+      "https://wwws.airfrance.fr/information/aeroport/salons"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Sala La Premiere (Primeira Classe AF) no 2E Hall M - acesso muito restrito. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "412970d2-290a-4079-b1d1-ea991ed544ca",
+    "name": "Pearl Lounge AUH (duplicata - Terminal A)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal A (base indica T1)",
+    "location_description": "O Pearl Lounge fica no Terminal A (Nivel 5, perto do gate D43). A base indica T1 (encerrado).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/india-middle-east-south-africa/united-arab-emirates/abu-dhabi/zayed-international-airport/pearl-lounge",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://my.prioritypass.com/en-GB/lounges/united-arab-emirates/abu-dhabi-international/auh12-pearl-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "DUPLICATA do #254 'Pearl Lounge - Abu Dhabi (Terminal A)' (id fddf0030, batch 26). A base indica Terminal 1 (encerrado em nov/2023), mas o Pearl Lounge fica no Terminal A. Mesclar/corrigir terminal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7de4db1e-cf24-45de-ac8a-dcd8916af866",
+    "name": "EVA Air Evergreen Lounge - Bangkok (Concourse F)",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse F",
+    "location_description": "Hall de partidas do terminal principal, 3o andar, area F.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "noodle_bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_business",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.evaair.com/en-th/fly-prepare/at-the-airport/lounges/bangkok-international-airport/",
+    "operator": "EVA Air",
+    "source_urls": [
+      "https://www.evaair.com/en-th/fly-prepare/at-the-airport/lounges/bangkok-international-airport/",
+      "https://onemileatatime.com/reviews/eva-air-lounge-bangkok/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Sala propria da EVA Air (Royal/Premium Laurel + Star Alliance Gold) no Concourse F. Obs: desde 01/04/2025 a AoT removeu salas de cia aerea dos programas de membership em BKK. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7154822f-b841-4254-aceb-0ed8517704e9",
+    "name": "Aspire Lounge 26 (Schengen) - Amsterdam",
+    "airport_iata": "AMS",
+    "airport_name": "Amsterdam Airport Schiphol (AMS)",
+    "terminal": "Lounge 26 (Schengen)",
+    "location_description": "Area Schengen (apos seguranca), Lounge 26.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aspirelounges.com/",
+    "operator": "Aspire (Swissport)",
+    "source_urls": [
+      "https://www.schiphol.nl/en/at-schiphol/lounges/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Aspire Lounge 26 (area Schengen) em Schiphol - sala contratada Priority Pass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "41deae5f-ec58-4d89-9ca8-15fab48a6ebb",
+    "name": "The Pearl Lounge - Bahrain",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "New Passenger Terminal",
+    "location_description": "Area de partidas oeste, proximo aos gates 15A-15B, 2o andar (escada/elevador). 10 ambientes.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "mastercard",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso pago ~BHD 25 (3h).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.bahrainairport.bh/airport-service/?category=1574&service=1588",
+    "operator": "Hala Bahrain Hospitality",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/bahrain/bahrain-international/bah11-the-pearl-lounge",
+      "https://pointszilla.com/review-pearl-lounge-bahrain"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "'The Pearl Lounge' (Hala Bahrain), perto do gate 15A-15B. Business de Oman Air/Etihad/Emirates/Saudia/BA/Austrian/LH/Swiss tem acesso complementar. Relacionado ao #258 'Hala Bahrain Lounge' - verificar sobreposicao. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7144d0be-8983-4b87-b78b-279db95c9d64",
+    "name": "Dilmun Lounge - Bahrain (duplicata)",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Main Terminal",
+    "location_description": "1o andar, em frente ao gate 16.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "kids_area",
+      "tv",
+      "conference",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "http://www.bas.com.bh/",
+    "operator": "Bahrain Airport Services",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/bahrain/bahrain-international/bah3-dilmun-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "DUPLICATA do #231 'Dilmun Lounge' (id 5bd40cd8, batch 24) - mesma sala (BAS, em frente ao gate 16). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "50291333-3f3d-4b86-8f1a-b69718ca27b1",
+    "name": "Etihad First & Business Lounge AUH (T1 -> Terminal A)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal 1 (encerrado) / Terminal A",
+    "location_description": "Lounge First/Business da Etihad indicado no antigo Terminal 1 (encerrado). Operacao atual no Terminal A.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "spa",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "etihad_first",
+      "etihad_business",
+      "etihad_status",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.etihad.com/en/plan/fly-with-etihad/lounges",
+    "operator": "Etihad Airways",
+    "source_urls": [
+      "https://www.etihad.com/en/plan/fly-with-etihad/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "CONFLITO/DUPLICATA: lounge First/Business da Etihad indicado no Terminal 1 (encerrado em nov/2023); operacao atual no Terminal A (ver #156 id bc8923fa). Atualizar/mesclar com os demais registros Etihad/AUH. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "5b84fb60-89a0-4250-9da4-53040f0d73d2",
+    "name": "Stockholm-Arlanda Lounge (generico - T5)",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 5",
+    "location_description": "Registro generico 'Stockholm-Arlanda Lounge' no T5.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/airport-guides/stockholm-arlanda"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 28,
+    "notes": "Registro generico 'Stockholm-Arlanda Lounge' (T5). ARN T5 tem SAS Lounge/Gold (#193/#229/#251), Menzies Pearl (#239/#289), 60 graus (#252) e Amex (#233/#290). Possivel duplicata - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b30924ff-e172-4a01-871c-ecb98fae9882",
+    "name": "Cathay Pacific Lounge - Bangkok (Concourse G)",
+    "airport_iata": "BKK",
+    "airport_name": "Suvarnabhumi Airport (Bangkok)",
+    "terminal": "Concourse G",
+    "location_description": "Concourse G, Nivel 3, perto do gate G1 (descer pela escada; entrada sob a escada, ao lado da Miracle Lounge).",
+    "hours_open_text": "05:10-18:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "noodle_bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "cathay_business",
+      "cathay_first",
+      "oneworld_first",
+      "oneworld_emerald",
+      "oneworld_sapphire"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.cathaypacific.com/cx/en_US/destinations/lounges/bangkok-bkk/cathay-pacific-lounge.html",
+    "operator": "Cathay Pacific",
+    "source_urls": [
+      "https://www.cathaypacific.com/cx/en_US/destinations/lounges/bangkok-bkk/cathay-pacific-lounge.html",
+      "https://www.forwardofthewing.com/lounge-review-cathay-pacific-lounge-bangkok/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Sala propria da Cathay Pacific no Concourse G (oneworld First/Business). Diferente do caso de BAH (#280), onde a Cathay nao opera sala propria. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "36b98197-9985-4c7e-8025-99ad89007527",
+    "name": "KLM Crown Lounge 52 (non-Schengen) - Amsterdam",
+    "airport_iata": "AMS",
+    "airport_name": "Amsterdam Airport Schiphol (AMS)",
+    "terminal": "Lounge 52 (non-Schengen)",
+    "location_description": "Area non-Schengen (apos seguranca), Lounge 52. A versao Schengen e a Crown Lounge 25.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "flying_blue",
+      "klm_business",
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.klm.com/information/at-the-airport/lounges",
+    "operator": "KLM",
+    "source_urls": [
+      "https://www.klm.com/information/at-the-airport/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "KLM Crown Lounge 52 (area non-Schengen, longo curso) em Schiphol. A unidade Schengen e a Crown Lounge 25 (#243 id 22b0270a). Foto anterior generica removida."
+  }
+]

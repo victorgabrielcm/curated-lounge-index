@@ -1294,5 +1294,50 @@
     "recommended_action": "merge",
     "related_id_hint": "2282c20e",
     "detail": "DUPLICATA/VERIFICAR: em Congonhas, clientes Smiles Diamante acessam a mesma sala VIP (Advantage VIP/Coworking) usada por TudoAzul Diamante (#256 id 2282c20e, batch 26). O GOL Premium Lounge proprio fica em GRU/GIG, nao em CGH. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "412970d2-290a-4079-b1d1-ea991ed544ca",
+    "name": "Pearl Lounge AUH (duplicata - Terminal A)",
+    "airport_iata": "AUH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "fddf0030",
+    "detail": "DUPLICATA do #254 'Pearl Lounge - Abu Dhabi (Terminal A)' (id fddf0030, batch 26). A base indica Terminal 1 (encerrado em nov/2023), mas o Pearl Lounge fica no Terminal A. Mesclar/corrigir terminal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7144d0be-8983-4b87-b78b-279db95c9d64",
+    "name": "Dilmun Lounge - Bahrain (duplicata)",
+    "airport_iata": "BAH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "5bd40cd8",
+    "detail": "DUPLICATA do #231 'Dilmun Lounge' (id 5bd40cd8, batch 24) - mesma sala (BAS, em frente ao gate 16). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "50291333-3f3d-4b86-8f1a-b69718ca27b1",
+    "name": "Etihad First & Business Lounge AUH (T1 -> Terminal A)",
+    "airport_iata": "AUH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "bc8923fa",
+    "detail": "CONFLITO/DUPLICATA: lounge First/Business da Etihad indicado no Terminal 1 (encerrado em nov/2023); operacao atual no Terminal A (ver #156 id bc8923fa). Atualizar/mesclar com os demais registros Etihad/AUH. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "5b84fb60-89a0-4250-9da4-53040f0d73d2",
+    "name": "Stockholm-Arlanda Lounge (generico - T5)",
+    "airport_iata": "ARN",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "Registro generico 'Stockholm-Arlanda Lounge' (T5). ARN T5 tem SAS Lounge/Gold (#193/#229/#251), Menzies Pearl (#239/#289), 60 graus (#252) e Amex (#233/#290). Possivel duplicata - verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b30924ff-e172-4a01-871c-ecb98fae9882",
+    "name": "Cathay Pacific Lounge - Bangkok (Concourse G)",
+    "airport_iata": "BKK",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "Sala propria da Cathay Pacific no Concourse G (oneworld First/Business). Diferente do caso de BAH (#280), onde a Cathay nao opera sala propria. Foto anterior generica removida."
   }
 ]
