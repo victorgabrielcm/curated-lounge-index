@@ -1,0 +1,488 @@
+[
+  {
+    "lounge_id": "7d8b1bc9-1fdb-4cc0-a169-a48ed8e0bce7",
+    "name": "American Express Centurion Lounge - Washington Reagan (DCA)",
+    "airport_iata": "DCA",
+    "airport_name": "Ronald Reagan Washington National Airport (DCA)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, apos o South Security Checkpoint.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_business_platinum",
+      "amex_centurion"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.thecenturionlounge.com/locations/dca/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/DCA/The-Centurion-Lounge-Terminal-2-DtCiyA4Yr2/",
+      "https://www.flyreagan.com/travel-information/services-amenities/airport-lounges/american-express-centurion-lounge-dca"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Abriu em 17/07/2024. Base indica 'Terminal B/C', mas o DCA renomeou os terminais (o antigo B/C corresponde ao atual Terminal 2). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c0a6b4e3-d8fb-46e8-9008-a907840ba0ff",
+    "name": "The Lounge Florianopolis [Sala VIP Flytour]",
+    "airport_iata": "FLN",
+    "airport_name": "Aeroporto Internacional Hercilio Luz (Florianopolis)",
+    "terminal": "Terminal Unico",
+    "location_description": "Em frente ao gate 6, 2o andar.",
+    "hours_open_text": "04:00-21:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://theloungefloripa.com.br/",
+    "operator": "The Lounge (Global Lounge Network)",
+    "source_urls": [
+      "https://www.prioritypass.com/pt/lounges/brazil/florianopolis-hercilio-luz-int/fln1-the-lounge-florianopolis",
+      "https://floripa-airport.com/noticias/101661-conheca-a-sala-vip"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "CONFLITO DE NOME: 'Sala VIP Flytour' nao corresponde a operadora real; as salas de FLN (domestica e internacional) sao operadas por 'The Lounge' (Global Lounge Network). Corrigir nome/operadora. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "14197615-b651-4b5f-88b1-3c3a3fa5f5bc",
+    "name": "SkyTeam Lounge - Dubai (T1, Concourse D)",
+    "airport_iata": "DXB",
+    "airport_name": "Dubai International Airport (DXB)",
+    "terminal": "Terminal 1, Concourse D",
+    "location_description": "Lounge level, proximo ao food court, em frente ao 'DIH Lounge'. Voos internacionais SkyTeam.",
+    "hours_open_text": "02:00-20:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "kids_area",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "delta_one",
+      "air_france_business",
+      "klm_business",
+      "business_class"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.skyteam.com/en/lounges/dubai/",
+    "operator": "SkyTeam (gestao Marhaba)",
+    "source_urls": [
+      "https://www.skyteam.com/en/lounges/dubai/",
+      "https://my.prioritypass.com/en-GB/lounges/united-arab-emirates/dubai-international/dxb10-skyteam-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 62,
+    "notes": "Sala SkyTeam gerida pela Marhaba (~960 m2, 180 lugares). First/Business SkyTeam + Elite Plus em voo internacional no mesmo dia. Max 4h. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "471d5b85-ce23-464a-a18d-9176fa4eb181",
+    "name": "Living Heineken - Florianopolis (bar, nao e lounge)",
+    "airport_iata": "FLN",
+    "airport_name": "Aeroporto Internacional Hercilio Luz (Florianopolis)",
+    "terminal": "Terminal Unico",
+    "location_description": "Area de embarque - bar/restaurante da marca Heineken (acesso por voucher de consumo).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "bar"
+    ],
+    "accepted_programs": [
+      "lounge_voucher"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Voucher de consumo (credito em produtos), nao acesso a sala VIP.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Heineken/concessionaria",
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken com voucher de consumo, nao um lounge (4o registro deste tipo - ver CNF/BSB/CWB). Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "269068d5-8bb2-4741-b27c-873c71ad3760",
+    "name": "United Club - Newark (Terminal C)",
+    "airport_iata": "EWR",
+    "airport_name": "Newark Liberty International Airport (EWR)",
+    "terminal": "Terminal C",
+    "location_description": "Terminal C (hub da United). Multiplas unidades de United Club ao longo do terminal.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "united_elite",
+      "united_business",
+      "star_alliance_business",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.united.com/en/us/fly/travel/airport/lounges.html",
+    "operator": "United Airlines",
+    "source_urls": [
+      "https://www.united.com/en/us/fly/travel/airport/lounges.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Hub da United em EWR; ha varias unidades de United Club no Terminal C - registro generico (verificar a qual corresponde). Acesso via United Club membership, status ou Business internacional. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "4bac62fd-9773-43c1-a661-259fbf0a1618",
+    "name": "Marhaba Lounge - Dubai (T3)",
+    "airport_iata": "DXB",
+    "airport_name": "Dubai International Airport (DXB)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3 (airside). Sala paga/contratada operada pela Marhaba.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "kids_area",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.marhabaservices.com/",
+    "operator": "Marhaba (dnata)",
+    "source_urls": [
+      "https://www.marhabaservices.com/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Marhaba opera salas em T1 e T3 do DXB (registro generico). Pay-per-use / Priority Pass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c4bbe8c0-4e7e-41b9-a0f9-856074f703c6",
+    "name": "Aer Lingus Lounge - Dublin (T2)",
+    "airport_iata": "DUB",
+    "airport_name": "Dublin Airport",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, apos a seguranca. Sala da Aer Lingus (voos de longo curso/Business).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "aer_lingus_business",
+      "aerclub_concierge",
+      "aerclub_platinum",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aerlingus.com/",
+    "operator": "Aer Lingus",
+    "source_urls": [
+      "https://www.dublinairport.com/enhance-your-journey/lounges/lounge-airline-partners"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Sala da Aer Lingus no T2 para passageiros Business de longo curso e membros AerClub Concierge/Platinum. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2502cec0-f9af-4d22-ac0b-4165d23361f7",
+    "name": "Emirates First Class Lounge DXB Concourse A",
+    "airport_iata": "DXB",
+    "airport_name": "Dubai International Airport (DXB)",
+    "terminal": "Terminal 3, Concourse A",
+    "location_description": "Concourse A (acesso por trem a partir do T3), um nivel acima do concourse principal. Embarque direto.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "a_la_carte_dining",
+      "food",
+      "hot_food",
+      "bar",
+      "champagne",
+      "shower",
+      "spa",
+      "prayer_room",
+      "clothes_pressing",
+      "relaxation_area",
+      "view",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "emirates_first",
+      "skywards_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.emirates.com/english/before-you-fly/lounges/our-lounges/",
+    "operator": "Emirates",
+    "source_urls": [
+      "https://loungereview.com/lounges/emirates-first-class-lounge-dxb-t3a/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "DUPLICATA do #137 'Emirates First Class Lounge T3A' (id 362969ff, batch 14) - mesma sala (Concourse A). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "aec74c18-638e-4d7f-9963-9a1ab8521963",
+    "name": "ITA Airways Lounge (Piazza di Spagna) - Rome FCO",
+    "airport_iata": "FCO",
+    "airport_name": "Leonardo da Vinci-Fiumicino Airport (Roma)",
+    "terminal": "Terminal 3 (non-Schengen, Pier E)",
+    "location_description": "T3, area non-Schengen, Pier E (perto dos gates E11-E24), apos o controle de passaportes.",
+    "hours_open_text": "06:00-23:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.ita-airways.com/us/en/book-and-prepare/travel-information/at-the-airport/lounges",
+    "operator": "ITA Airways",
+    "source_urls": [
+      "https://onemileatatime.com/reviews/ita-airways-lounge-rome/",
+      "https://www.adr.it/web/aeroporti-di-roma-en/ita-airways-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "CONFLITO DE NOME: a sala non-Schengen da ITA no T3/Pier E chama-se 'Piazza di Spagna' (base registra 'Piazza Navona'). Verificar/corrigir. ITA integra a SkyTeam. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "25abb501-8c27-43b2-b97e-e198cde08ca1",
+    "name": "Emirates Business Class Lounge DXB Concourse B",
+    "airport_iata": "DXB",
+    "airport_name": "Dubai International Airport (DXB)",
+    "terminal": "Terminal 3, Concourse B",
+    "location_description": "Concourse B, embarque direto. Distinto do lounge Business do Concourse A.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "spa",
+      "kids_area",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "emirates_business",
+      "emirates_first",
+      "skywards_platinum",
+      "skywards_gold",
+      "oneworld",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.emirates.com/english/before-you-fly/lounges/our-lounges/",
+    "operator": "Emirates",
+    "source_urls": [
+      "https://www.loungebuddy.com/DXB/the-emirates-business-class-lounge-terminal-3-concourse-b-BkwhFIwBHW"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Lounge Business da Emirates no Concourse B - distinto do Concourse A (id 17067c18, batch 15) e do Concourse C. Foto anterior generica removida."
+  }
+]

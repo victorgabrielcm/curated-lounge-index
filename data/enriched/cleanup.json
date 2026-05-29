@@ -763,5 +763,41 @@
     "recommended_action": "merge",
     "related_id_hint": "dde933fe",
     "detail": "DUPLICATA do #131 'Al Safwa First Lounge' (id dde933fe, batch 14) - ambos sao a mesma sala de Primeira Classe. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c0a6b4e3-d8fb-46e8-9008-a907840ba0ff",
+    "name": "The Lounge Florianopolis [Sala VIP Flytour]",
+    "airport_iata": "FLN",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO DE NOME: 'Sala VIP Flytour' nao corresponde a operadora real; as salas de FLN (domestica e internacional) sao operadas por 'The Lounge' (Global Lounge Network). Corrigir nome/operadora. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "471d5b85-ce23-464a-a18d-9176fa4eb181",
+    "name": "Living Heineken - Florianopolis (bar, nao e lounge)",
+    "airport_iata": "FLN",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken com voucher de consumo, nao um lounge (4o registro deste tipo - ver CNF/BSB/CWB). Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2502cec0-f9af-4d22-ac0b-4165d23361f7",
+    "name": "Emirates First Class Lounge DXB Concourse A",
+    "airport_iata": "DXB",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "362969ff",
+    "detail": "DUPLICATA do #137 'Emirates First Class Lounge T3A' (id 362969ff, batch 14) - mesma sala (Concourse A). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "aec74c18-638e-4d7f-9963-9a1ab8521963",
+    "name": "ITA Airways Lounge (Piazza di Spagna) - Rome FCO",
+    "airport_iata": "FCO",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO DE NOME: a sala non-Schengen da ITA no T3/Pier E chama-se 'Piazza di Spagna' (base registra 'Piazza Navona'). Verificar/corrigir. ITA integra a SkyTeam. Foto anterior generica removida."
   }
 ]
