@@ -1,0 +1,471 @@
+[
+  {
+    "lounge_id": "f11543d2-0abe-4a6d-82ec-880a444df836",
+    "name": "King David Lounge (El Al) - Tel Aviv (T3)",
+    "airport_iata": "TLV",
+    "airport_name": "Ben Gurion Airport (Tel Aviv)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, area duty-free, Concourse D. Sala propria da El Al (reformada em 2025).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "spa",
+      "massage_chairs",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "oneworld_emerald",
+      "oneworld_sapphire"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.elal.com/eng/airport-services/lounge-king-david",
+    "operator": "El Al",
+    "source_urls": [
+      "https://www.elal.com/eng/airport-services/lounge-king-david",
+      "https://www.iaa.gov.il/en/airports/ben-gurion/lounges/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "King David Lounge da El Al no T3 (Concourse D) de Ben Gurion, reformada/reaberta em 2025. Acesso a passageiros El Al First/Business e membros King David Club; tem sala de charuto, spa e cadeiras de massagem. So entra ate 3h antes do voo. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "545c1e80-5ce2-4b87-9f00-25d2fe8c2106",
+    "name": "GVIP / Altanfeethi Executive Lounge - Riyadh (RUH)",
+    "airport_iata": "RUH",
+    "airport_name": "King Khalid International Airport (Riyadh)",
+    "terminal": null,
+    "location_description": "Terminal executivo VIP (Altanfeethi 'التنفيذي') do Aeroporto King Khalid. Servico de protocolo/VIP com check-in e imigracao dedicados.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "kids_area",
+      "business_center",
+      "meeting_room",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://altanfeethi.com.sa/",
+    "operator": "Altanfeethi (Executive/VIP Terminals)",
+    "source_urls": [
+      "https://altanfeethi.com.sa/",
+      "https://www.instagram.com/explore/locations/214943441/saudi-arabia/riyadh-saudi-arabia/gvip-lounge-king-khalid-intl-airport-riyadh/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 38,
+    "notes": "NAO E UMA SALA airside comum: 'GVIP' e o terminal/servico executivo VIP (Altanfeethi) do Aeroporto King Khalid, com protocolo, check-in/imigracao dedicados e corredor privativo - mais terminal de protocolo VIP que lounge de embarque tradicional. Acesso pago/por contratacao. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "62f3da9c-4df0-475c-b242-b957ec474fd8",
+    "name": "Copa Airlines Crew Room - Panama Tocumen (PTY)",
+    "airport_iata": "PTY",
+    "airport_name": "Tocumen International Airport (Panama City)",
+    "terminal": null,
+    "location_description": "Sala de tripulacao da Copa Airlines em Tocumen - uso interno de crew, nao acessivel a passageiros.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.copaair.com/",
+    "operator": "Copa Airlines",
+    "source_urls": [
+      "https://panamatocumen.com/en/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 12,
+    "notes": "NAO E UMA SALA VIP de passageiros: e uma 'Crew Room' (sala de tripulantes) da Copa Airlines, de uso interno. A sala de passageiros da Copa em PTY e o Copa Club (T1/T2). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "42d1850c-cb79-4689-be97-0ac381480807",
+    "name": "The Lounge Panama by Global Lounge Network - Tocumen (T1)",
+    "airport_iata": "PTY",
+    "airport_name": "Tocumen International Airport (Panama City)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, airside, proximo aos gates 101-115 (em frente a Panama Store). So para voos internacionais.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "conference",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": "Criancas ate 12 anos entram gratis.",
+    "guest_policy": null,
+    "voucher_info": "Walk-in ~USD 38 por pessoa.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://globalloungenetwork.com/lounge/pty-tocumen-international-terminal-1-panama/",
+    "operator": "Global Lounge Network",
+    "source_urls": [
+      "https://globalloungenetwork.com/lounge/pty-tocumen-international-terminal-1-panama/",
+      "https://www.prioritypass.com/en-GB/lounges/panama/tocumen-international/pty4-the-lounge-panama-by-global-lounge-network"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "'The Lounge' = The Lounge Panama by Global Lounge Network no T1 de Tocumen (gates 101-115), 24h, max 4h. Priority Pass/LoungeKey/Amex; walk-in ~USD 38. So para voos internacionais. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "fa88f888-03b0-489c-979e-e3eea4649b55",
+    "name": "Juneyao Air No. 86 VIP Lounge - Shanghai Pudong (T2 Domestico)",
+    "airport_iata": "PVG",
+    "airport_name": "Shanghai Pudong International Airport (PVG)",
+    "terminal": "Terminal 2 (Domestico)",
+    "location_description": "Terminal 2, area de embarque domestico, proximo ao gate C80.",
+    "hours_open_text": "05:30-23:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "noodle_bar",
+      "massage_chairs",
+      "sleep_area",
+      "luggage_storage",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 120,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/china/shanghai-pudong-international/pvg14-juneyao-air-lounge-no86",
+    "operator": "Juneyao Airlines",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/china/shanghai-pudong-international/pvg14-juneyao-air-lounge-no86",
+      "https://www.plazapremiumlounge.com/en-uk/find/china-regions/mainland-china/shanghai/shanghai-pudong-international-airport/juneyao-air-v86"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Juneyao Air No. 86 VIP Lounge no T2 domestico de PVG (perto do gate C80), 05:30-23:00, max ~2h. Priority Pass/DragonPass; tem day beds, cadeiras de massagem e guarda-volumes. Distinta da No. 72 (T2 internacional). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "60f8f125-d7f2-4223-9032-71ae7aa9d8e6",
+    "name": "The Emirates Lounge - Sydney (T1 Internacional)",
+    "airport_iata": "SYD",
+    "airport_name": "Sydney Kingsford Smith Airport (SYD)",
+    "terminal": "Terminal 1 (Internacional)",
+    "location_description": "Terminal 1, apos a imigracao/customs, proximo ao gate 58, Nivel 1.",
+    "hours_open_text": "04:00-07:20 e 16:45-20:15",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "business_center",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "emirates_first",
+      "emirates_business",
+      "skywards_gold",
+      "skywards_platinum",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.emirates.com/",
+    "operator": "Emirates",
+    "source_urls": [
+      "https://www.sydneyairport.com.au/info-sheet/airline-lounges-t1",
+      "https://loungereview.com/lounges/the-emirates-lounge-syd/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "The Emirates Lounge no T1 internacional de Sydney (perto do gate 58, Nivel 1), com horario dividido conforme os voos da Emirates. Acesso First/Business da Emirates e Skywards Gold/Platinum; entrada paga para economy. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6f914613-0c2a-4501-b076-fec2c47bd9ec",
+    "name": "Marco Polo Club (Diners Club) - Venice (VCE)",
+    "airport_iata": "VCE",
+    "airport_name": "Venice Marco Polo Airport (VCE)",
+    "terminal": "Main Terminal (Extra-Schengen)",
+    "location_description": "Apos o controle de seguranca, 2o andar, antes do controle de passaportes (area Extra-Schengen) - sala de PARTIDAS, nao de chegadas.",
+    "hours_open_text": "05:00-22:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "coffee",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "diners_club",
+      "priority_pass",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.dinersclub.com/cardmembers/airport-lounges-details.Italy.Venice.marco-polo-club-1.VCE/",
+    "operator": "Marco Polo Club / Venice Airport",
+    "source_urls": [
+      "https://www.dinersclub.com/cardmembers/airport-lounges-details.Italy.Venice.marco-polo-club-1.VCE/",
+      "https://www.veneziaairport.it/en_gb/services/lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "CONFLITO de localizacao: 'Diners Club Lounge' e o Marco Polo Club (acesso via Diners Club/Priority Pass) que fica APOS a seguranca, no 2o andar (partidas Extra-Schengen), e NAO em 'Arrivals' como no registro. Acessivel so a passageiros embarcando. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "01398711-e55f-4ef9-a2ce-9737088e675b",
+    "name": "Qantas Domestic Business Lounge - Sydney (T3)",
+    "airport_iata": "SYD",
+    "airport_name": "Sydney Kingsford Smith Airport (SYD)",
+    "terminal": "Terminal 3 (Domestico)",
+    "location_description": "Terminal 3 domestico (Qantas), apos a seguranca, em frente aos gates 4-5 (subir a escada rolante).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "workspace",
+      "business_center",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "oneworld_emerald",
+      "oneworld_sapphire"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qantas.com/au/en/qantas-experience/at-the-airport/airport-lounges/all-qantas-airport-lounges.html",
+    "operator": "Qantas",
+    "source_urls": [
+      "https://www.qantas.com/au/en/qantas-experience/at-the-airport/airport-lounges/all-qantas-airport-lounges.html",
+      "https://www.pointhacks.com.au/reviews/qantas-domestic-business-lounge-sydney/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Qantas Domestic Business Lounge no T3 domestico de Sydney (hub da Qantas), em frente aos gates 4-5. Acesso a passageiros Business/oneworld Emerald e Sapphire. Distinta do Qantas Club e do International First/Business Lounge (T1). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0f3f18e9-1626-4c2c-93d7-48a6e89d8a85",
+    "name": "Business Lounge (Dan Lounge) - Tel Aviv (T3)",
+    "airport_iata": "TLV",
+    "airport_name": "Ben Gurion Airport (Tel Aviv)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, area duty-free, Concourses B e C. Provavelmente o Dan Lounge (sala business para companhias nao-El Al).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "coffee",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.iaa.gov.il/en/companies/lounges/dan-lounge/",
+    "operator": "Dan Hotels / QAS",
+    "source_urls": [
+      "https://www.iaa.gov.il/en/airports/ben-gurion/lounges/",
+      "https://www.iaa.gov.il/en/companies/lounges/dan-lounge/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 36,
+    "notes": "DUPLICATA/nome generico: 'Business Lounge' no T3 de Ben Gurion corresponde provavelmente ao Dan Lounge (sala business para passageiros nao-El Al, Concourses B e C), gerido por Dan Hotels/QAS. Verificar/mesclar com o registro do Dan Lounge. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "50c52b58-9d65-43e0-b021-c2d2e5c77f49",
+    "name": "Menzies Aviation Lounge - Prague (T2) [FECHADO]",
+    "airport_iata": "PRG",
+    "airport_name": "Vaclav Havel Airport Prague (PRG)",
+    "terminal": "Terminal 2 (Schengen)",
+    "location_description": "Terminal 2, airside, Nivel 3, perto dos gates C (adjacente a Erste Premier Lounge). Registro cita 'near Gate D2', mas a sala ficava junto aos gates C.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [
+      "priority_pass"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Menzies Aviation",
+    "source_urls": [
+      "https://loungereview.com/lounges/menzies-lounge-prg-terminal-2/",
+      "https://morepremium.com/review-menzies-aviation-lounge-prague-airport-terminal-2/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 18,
+    "notes": "FECHADO PERMANENTEMENTE: as Menzies Aviation Lounges do PRG (Terminais 1 e 2) encerraram de forma permanente em novembro de 2020 e nao reabriram. Alternativas no T2 incluem a Erste Premier Lounge. Registro tambem cita 'near Gate D2', mas a sala ficava junto aos gates C. Foto anterior generica removida."
+  }
+]

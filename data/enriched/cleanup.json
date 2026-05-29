@@ -1816,5 +1816,185 @@
     "recommended_action": "delete",
     "related_id_hint": null,
     "detail": "NAO E UMA SALA de embarque comum: Club Continental e o servico VIP privativo (meet-and-greet, passagem privada por seguranca, transfer ao aviao) do aeroporto de Praga, com salas reservadas por grupo e preco por reserva (~CZK 5.500). Distinto das lounges Mastercard/Plaza Premium. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e5bb2148-c29b-4677-9e69-508c9a1dee38",
+    "name": "Dan+ Lounge - Tel Aviv Ben Gurion (T3)",
+    "airport_iata": "TLV",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "FECHADO PERMANENTEMENTE: a Dan+ Lounge (Atrio Central do T3, Dan Hotels) encerrou em 31/12/2025. Havia tambem Dan Lounges nos concourses B/C/E. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c16dadc1-b622-40b7-996a-400e9546bbfc",
+    "name": "Window Lounge (area de descanso) - Beijing Capital (PEK)",
+    "airport_iata": "PEK",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: a 'Window Lounge' do PEK e apenas uma area de descanso publica com poltronas voltadas para janela com vista da pista (gates 36-39), sem buffet, recepcao ou controle de acesso. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "21459f59-d898-4668-a6f2-76228ebe2c98",
+    "name": "Masada VIP Lounge - Tel Aviv Ben Gurion (T1)",
+    "airport_iata": "TLV",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: a antiga Masada (Mazada) VIP Lounge no T1 (Masada Hall) nao opera mais - foi substituida pelo Fattal Lounge no mesmo local. Trata-se de terminal/servico VIP privado (recepcao premium pago), nao um lounge airside comum. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "545c1e80-5ce2-4b87-9f00-25d2fe8c2106",
+    "name": "GVIP / Altanfeethi Executive Lounge - Riyadh (RUH)",
+    "airport_iata": "RUH",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA airside comum: 'GVIP' e o terminal/servico executivo VIP (Altanfeethi) do Aeroporto King Khalid, com protocolo, check-in/imigracao dedicados e corredor privativo - mais terminal de protocolo VIP que lounge de embarque tradicional. Acesso pago/por contratacao. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "62f3da9c-4df0-475c-b242-b957ec474fd8",
+    "name": "Copa Airlines Crew Room - Panama Tocumen (PTY)",
+    "airport_iata": "PTY",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP de passageiros: e uma 'Crew Room' (sala de tripulantes) da Copa Airlines, de uso interno. A sala de passageiros da Copa em PTY e o Copa Club (T1/T2). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6f914613-0c2a-4501-b076-fec2c47bd9ec",
+    "name": "Marco Polo Club (Diners Club) - Venice (VCE)",
+    "airport_iata": "VCE",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO de localizacao: 'Diners Club Lounge' e o Marco Polo Club (acesso via Diners Club/Priority Pass) que fica APOS a seguranca, no 2o andar (partidas Extra-Schengen), e NAO em 'Arrivals' como no registro. Acessivel so a passageiros embarcando. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0f3f18e9-1626-4c2c-93d7-48a6e89d8a85",
+    "name": "Business Lounge (Dan Lounge) - Tel Aviv (T3)",
+    "airport_iata": "TLV",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "DUPLICATA/nome generico: 'Business Lounge' no T3 de Ben Gurion corresponde provavelmente ao Dan Lounge (sala business para passageiros nao-El Al, Concourses B e C), gerido por Dan Hotels/QAS. Verificar/mesclar com o registro do Dan Lounge. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "50c52b58-9d65-43e0-b021-c2d2e5c77f49",
+    "name": "Menzies Aviation Lounge - Prague (T2) [FECHADO]",
+    "airport_iata": "PRG",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "FECHADO PERMANENTEMENTE: as Menzies Aviation Lounges do PRG (Terminais 1 e 2) encerraram de forma permanente em novembro de 2020 e nao reabriram. Alternativas no T2 incluem a Erste Premier Lounge. Registro tambem cita 'near Gate D2', mas a sala ficava junto aos gates C. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "5c62f8d5-c8d9-48a1-aad3-ba65683095ff",
+    "name": "Smoker Lounge (sala de fumantes) - Vienna Airport",
+    "airport_iata": "VIE",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Smoker Lounge' nos Gates D do VIE e uma area/cabine de fumantes, nao um lounge de aeroporto. Quem quer fumar com servico de lounge usa o terraco da Vienna Lounge. Registro deve ser removido/reclassificado. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "df174d3e-dcd1-4d7d-a041-5d4ccf9d22bf",
+    "name": "Erste Premier Lounge - Prague (Terminal 2, Schengen)",
+    "airport_iata": "PRG",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: o registro indica 'Terminal 1, Level 3', mas a Erste Premier Lounge fica no TERMINAL 2 (Schengen), proxima aos portoes C. Aceita Priority Pass/Diners Club e cartoes Erste Premier. Distinta da Mastercard Lounge (T1, non-Schengen). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d4099fd2-838a-4b58-beb6-c6f2e0061957",
+    "name": "Ck Dufry (registro a verificar) - Salvador",
+    "airport_iata": "SSA",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA: 'Ck Dufry' refere-se a Dufry (lojas duty-free), nao a um lounge. VERIFICAR EXISTENCIA - as salas VIP de SSA sao a Ambaar Club (landside e airside, com Priority Pass/Diners Club). Registro deve ser reclassificado/mesclado com Ambaar Club. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1c136beb-36cc-410c-bc0f-0a692a91e9b5",
+    "name": "Diners Club Lounge (= Mastercard Lounge) - Prague (T1)",
+    "airport_iata": "PRG",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "13b9db3b",
+    "detail": "DUPLICATA: nao ha 'Diners Club Lounge' propria em PRG; o acesso Diners Club ocorre na Mastercard Lounge (T1, Level 3 - mesmo endereco deste registro) e na Erste Premier (T2). Este registro duplica a Mastercard Lounge (id 13b9db3b). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "331563a6-f1f1-4508-aca3-fbe1e6cbb546",
+    "name": "JAL Lounge (No.39 VIP Lounge) - Shanghai Pudong (T1)",
+    "airport_iata": "PVG",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: a JAL nao tem lounge proprio em PVG; usa a No.39 VIP Lounge no Terminal 1 (compartilhada com Air France e Korean Air). Acesso para JMB Diamond/Sapphire, JGC e oneworld Emerald/Sapphire/Business. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "75b9d75b-edb1-4a1d-b522-15738e95133b",
+    "name": "Priority Pass - Tocumen (generico - a verificar)",
+    "airport_iata": "PTY",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": "db9665b7",
+    "detail": "VERIFICAR EXISTENCIA: registro generico 'Priority Pass' sem sala especifica em PTY. Provavel DUPLICATA do registro 'Sala Vip Priority Pass' (id db9665b7). Nao corresponde a uma sala unica - mapear para uma das salas reais (The Lounge by GLN/Copa Club/Royal Saloon). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "db9665b7-d598-4e43-92e2-f193722aab4f",
+    "name": "Sala Vip Priority Pass - Tocumen (generico - a verificar)",
+    "airport_iata": "PTY",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": "75b9d75b",
+    "detail": "DUPLICATA do registro 'Priority Pass' (id 75b9d75b) em PTY - ambos genericos sem sala especifica. VERIFICAR EXISTENCIA / consolidar com uma sala real do aeroporto (The Lounge by GLN, Copa Club, Tocumen Royal Saloon). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f695fc5e-85df-470e-831c-cfeaba6c70ae",
+    "name": "IQOS Lounge - Warsaw Chopin (T A)",
+    "airport_iata": "WAW",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: o 'IQOS Lounge' em WAW e uma sala de fumantes da marca IQOS (tabaco aquecido), proxima aos portoes 32/33, nao um lounge de aeroporto com servicos. Sem acesso por programas. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9c442443-18c6-46c7-8542-19a7d057361d",
+    "name": "Sala VIP Avianca - Salvador (SSA) (a verificar)",
+    "airport_iata": "SSA",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "NAO HA LOUNGE: nao existe sala VIP propria da Avianca em SSA; as salas sao da Ambaar Lounge. A Avianca Brasil encerrou as operacoes em maio de 2019. VERIFICAR EXISTENCIA / provavel mapeamento para a Ambaar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e5124bb8-e53e-418c-b3fb-1e9babecb314",
+    "name": "Juneyao Air Lounge No.86 - Shanghai Pudong (T2, Domestico)",
+    "airport_iata": "PVG",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: o registro indica 'FM' (Shanghai Airlines), mas a 'First Class Lounge No.86' no T2 de PVG (perto do gate C80) e a Juneyao Air Lounge No.86 (partidas domesticas), com Priority Pass e pagamento. Operador correto: Juneyao Air. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "223b8005-c8d6-48e4-8d4f-fe2d27041de2",
+    "name": "Lounge VIP - Prague (T2, Erste Premier Lounge)",
+    "airport_iata": "PRG",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: nome generico 'Lounge VIP' em PRG. No Terminal 2 (Schengen, 3o andar) a sala e a Erste Premier Lounge (Priority Pass/Diners). PRG tem ainda a Mastercard Lounge no T1 (non-Schengen). Confirmar/mapear para a sala correta. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7ea82b19-a679-4cbe-a0f5-962a7f3f1544",
+    "name": "Sala de fumantes - Venice Marco Polo (VCE)",
+    "airport_iata": "VCE",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'smooking lounge' = sala de fumantes airside (2o andar/L2) no aeroporto de Veneza, nao um lounge. Os lounges reais de VCE sao o Marco Polo Club e o Aspire Executive Lounge. Foto anterior generica removida."
   }
 ]

@@ -1,0 +1,495 @@
+[
+  {
+    "lounge_id": "cf4e7814-9091-486e-a531-7c03e8ae8d55",
+    "name": "Qantas First Lounge - Singapore Changi (T1)",
+    "airport_iata": "SIN",
+    "airport_name": "Singapore Changi Airport (SIN)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, airside, na extremidade dos portoes D (apos a imigracao, virar a direita rumo aos gates D, primeiras escadas a esquerda).",
+    "hours_open_text": "14:30-00:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "coffee",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_first",
+      "oneworld_emerald",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qantas.com/au/en/qantas-experience/at-the-airport/airport-lounges.html",
+    "operator": "Qantas",
+    "source_urls": [
+      "https://www.pointhacks.com.au/reviews/qantas-international-first-lounge-singapore/",
+      "https://www.headforpoints.com/2025/09/19/review-qantas-singapore-first-lounge-changi-terminal-1/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Qantas First Lounge no T1 de Changi (perto dos gates D), menu a la carte (Neil Perry), 10 suites de banho. Abre ~14:30 ate o ultimo voo. Acesso oneworld First/Emerald. Registro original sem terminal - corrigido para T1. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "8d0b254c-9579-42d4-ae2e-bff5c4231ca9",
+    "name": "Salon VIP Pacific Club - Santiago (T2 Internacional)",
+    "airport_iata": "SCL",
+    "airport_name": "Comodoro Arturo Merino Benitez International Airport (Santiago)",
+    "terminal": "Terminal 2 (Internacional)",
+    "location_description": "Terminal 2, embarque internacional, airside. Operada pelo Pacific Club (ha tambem unidades no terminal domestico).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "diners_club",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Walk-in ~USD 45 por pessoa.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/chile/santiago-intl/scl9-salones-vip-pacific-club",
+    "operator": "Pacific Club (Salones VIP)",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/chile/santiago-intl/scl9-salones-vip-pacific-club",
+      "https://onemileatatime.com/santiago-airport-international-lounge-review/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Salon VIP Pacific Club no T2 internacional de SCL (airside). Priority Pass/Diners. Ha unidades Pacific Club tambem no terminal domestico (registros distintos). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e5bb2148-c29b-4677-9e69-508c9a1dee38",
+    "name": "Dan+ Lounge - Tel Aviv Ben Gurion (T3)",
+    "airport_iata": "TLV",
+    "airport_name": "Ben Gurion Airport (TLV)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, Atrio Central, a direita do Concourse E, perto da sinagoga. Operada pela rede Dan Hotels.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "coffee",
+      "spa",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.danhotels.com/AboutDanhotels/DanHotelsLounges",
+    "operator": "Dan Hotels",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/israel/tel-aviv-intl/tlv-dan-lounge",
+      "https://www.danhotels.com/AboutDanhotels/DanHotelsLounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 26,
+    "notes": "FECHADO PERMANENTEMENTE: a Dan+ Lounge (Atrio Central do T3, Dan Hotels) encerrou em 31/12/2025. Havia tambem Dan Lounges nos concourses B/C/E. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "135c8117-cdf8-4098-afdd-a280e92f69af",
+    "name": "Qantas International Business Lounge - Sydney (T1)",
+    "airport_iata": "SYD",
+    "airport_name": "Sydney Kingsford Smith Airport (SYD)",
+    "terminal": "Terminal 1 (Internacional)",
+    "location_description": "Terminal 1 internacional, apos a alfandega. Em obras: lounge operando em espaco temporario proximo ao gate 24 (novo lounge previsto para 2027).",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_sapphire",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Day pass a partir de ~AUD 49.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qantas.com/au/en/qantas-experience/at-the-airport/airport-lounges.html",
+    "operator": "Qantas",
+    "source_urls": [
+      "https://www.pointhacks.com.au/reviews/qantas-international-business-lounge-sydney/",
+      "https://www.sydneyairport.com.au/info-sheet/airline-lounges-t1"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Qantas International Business Lounge no T1 de Sydney (apos a alfandega, nivel mezanino). Atualmente em local temporario perto do gate 24 devido a obras (novo lounge ate 2027). Acesso oneworld Business/Sapphire/Qantas Club. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c16dadc1-b622-40b7-996a-400e9546bbfc",
+    "name": "Window Lounge (area de descanso) - Beijing Capital (PEK)",
+    "airport_iata": "PEK",
+    "airport_name": "Beijing Capital International Airport (PEK)",
+    "terminal": null,
+    "location_description": "Area de assentos com poltronas voltadas para janela panoramica com vista da pista, airside entre os gates 36-39.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "rest_area",
+      "relaxation_area",
+      "runway_view",
+      "view"
+    ],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.sleepinginairports.net/guides/beijing-capital-airport-guide.htm"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 18,
+    "notes": "NAO E UMA SALA VIP: a 'Window Lounge' do PEK e apenas uma area de descanso publica com poltronas voltadas para janela com vista da pista (gates 36-39), sem buffet, recepcao ou controle de acesso. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1b08de84-0b6f-4b27-9d7a-6d3591ef8e05",
+    "name": "Preludium Executive Lounge - Warsaw Chopin (T A, Schengen)",
+    "airport_iata": "WAW",
+    "airport_name": "Warsaw Chopin Airport (WAW)",
+    "terminal": "Terminal A (Schengen)",
+    "location_description": "Terminal A, area Schengen, airside, Nivel 0, apos o controle de seguranca, perto dos gates 34-35. Apenas para voos partindo do Schengen.",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "shower",
+      "nursing_room",
+      "kids_area",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Entrada avulsa ~PLN 210 (online) / PLN 230 (no balcao).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://lotnisko-chopina.pl/en/executive-lounge.html",
+    "operator": "Warsaw Chopin Airport",
+    "source_urls": [
+      "https://lotnisko-chopina.pl/en/executive-lounge.html",
+      "https://www.prioritypass.com/lounges/poland/warsaw-frederic-chopin/waw3-preludium-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Preludium Executive Lounge no T A (Schengen) de WAW, Nivel 0, perto dos gates 34-35; tem sala familiar e fraldario. Lounge contratado para cias nao-Star Alliance e Priority Pass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3d7830ff-d9e4-49e3-a8c2-6e434a2a2a0b",
+    "name": "SKY Lounge (Schengen) - Vienna (T3)",
+    "airport_iata": "VIE",
+    "airport_name": "Vienna International Airport (VIE)",
+    "terminal": "Terminal 3 (Schengen)",
+    "location_description": "Terminal 3, area Schengen (antes do controle de passaportes), Nivel 2, perto dos gates F. Acessivel a todos os passageiros que partem do T3.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "coffee",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "diners_club",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Walk-in EUR 46 (adultos) / EUR 26 (criancas 4-14).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://viennaairport.com/en/passengers/airport/lounges/sky_lounge_schengen_1",
+    "operator": "Vienna Airport",
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/lounges/austria/vienna-international/vie2-sky-lounge",
+      "https://viennaairport.com/en/passengers/airport/lounges/sky_lounge_schengen_1"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "SKY Lounge (Schengen) no T3 de Viena, Nivel 2 perto dos gates F, ~670 m2. Priority Pass ate 3h. Ha tambem SKY Lounge non-Schengen e outras salas no VIE. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "756db9f2-de07-4d04-a0f9-888d64a2aeeb",
+    "name": "Austrian Senator / Star Alliance Gold Lounge (Non-Schengen) - Vienna",
+    "airport_iata": "VIE",
+    "airport_name": "Vienna International Airport (VIE)",
+    "terminal": "Terminal 3 (Non-Schengen)",
+    "location_description": "Terminal 3, Nivel 3, area Non-Schengen, perto dos gates G, em frente ao Austrian Service Center.",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "coffee",
+      "shower",
+      "sleep_area",
+      "rest_area",
+      "workspace",
+      "view",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "business_class",
+      "miles_and_more_senator"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": "Membros Star Alliance Gold podem levar 1 convidado no mesmo voo.",
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.austrian.com/de/en/lounges-vienna-airport",
+    "operator": "Austrian Airlines",
+    "source_urls": [
+      "https://onemileatatime.com/reviews/austrian-senator-lounge-vienna/",
+      "https://www.austrian.com/de/en/lounges-vienna-airport"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Austrian Senator / Star Alliance Gold Lounge (Non-Schengen) no T3 de Viena, Nivel 3 perto dos gates G, com sala de descanso/daybeds. Acesso Star Alliance Gold + Senator. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "29e4e4e4-0aa2-4656-91b8-ecf3800997d5",
+    "name": "The House by Aspire - Sydney (T1)",
+    "airport_iata": "SYD",
+    "airport_name": "Sydney Kingsford Smith Airport (SYD)",
+    "terminal": "Terminal 1 (Internacional)",
+    "location_description": "Terminal 1 internacional, area de embarque, antes do gate 50.",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "coffee",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Pre-reserva a partir de ~AUD 66; Priority Pass com taxa extra ~AUD 20 para alcool premium/a la carte/banho.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.executivelounges.com/airport-lounges/sydney-airport-the-house",
+    "operator": "Aspire (Swissport)",
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/lounges/australia/sydney-kingsford-smith/syd16l-the-house",
+      "https://www.pointhacks.com.au/reviews/the-house-lounge-sydney/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 55,
+    "notes": "'The House' em Sydney e o The House by Aspire no T1 internacional (antes do gate 50), sala paga/Priority Pass. Distinta do Centurion e dos lounges Qantas no mesmo terminal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "21459f59-d898-4668-a6f2-76228ebe2c98",
+    "name": "Masada VIP Lounge - Tel Aviv Ben Gurion (T1)",
+    "airport_iata": "TLV",
+    "airport_name": "Ben Gurion Airport (TLV)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, no Masada Hall, proximo ao saguao de entrada. Terminal/servico VIP privado operado pela rede Dan/Fattal.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "coffee",
+      "shower",
+      "private_rooms",
+      "meeting_room",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.iaa.gov.il/en/airports/ben-gurion/lounges/",
+    "operator": "Dan Hotels / Fattal",
+    "source_urls": [
+      "https://www.touristisrael.com/tours/vip-private-terminal-at-ben-gurion-airport-fattal-lounge/",
+      "https://www.iaa.gov.il/en/airports/ben-gurion/lounges/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 30,
+    "notes": "VERIFICAR EXISTENCIA: a antiga Masada (Mazada) VIP Lounge no T1 (Masada Hall) nao opera mais - foi substituida pelo Fattal Lounge no mesmo local. Trata-se de terminal/servico VIP privado (recepcao premium pago), nao um lounge airside comum. Foto anterior generica removida."
+  }
+]

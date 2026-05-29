@@ -1,0 +1,471 @@
+[
+  {
+    "lounge_id": "331563a6-f1f1-4508-aca3-fbe1e6cbb546",
+    "name": "JAL Lounge (No.39 VIP Lounge) - Shanghai Pudong (T1)",
+    "airport_iata": "PVG",
+    "airport_name": "Shanghai Pudong International Airport (PVG)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, 4o andar (subindo a escada apos o controle de seguranca). JAL usa a No.39 VIP Lounge, compartilhada com Air France e Korean Air.",
+    "hours_open_text": "06:30-22:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "noodle_bar",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.jal.co.jp/jp/en/inter/service/lounge/pvg/",
+    "operator": "Shanghai Pudong Airport (No.39 VIP Lounge)",
+    "source_urls": [
+      "https://www.jal.co.jp/jp/en/inter/service/lounge/pvg/",
+      "https://wanderupfront.com/lounge-39-shanghai-pvg-jal-air-france/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 46,
+    "notes": "CONFLITO: a JAL nao tem lounge proprio em PVG; usa a No.39 VIP Lounge no Terminal 1 (compartilhada com Air France e Korean Air). Acesso para JMB Diamond/Sapphire, JGC e oneworld Emerald/Sapphire/Business. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "75b9d75b-edb1-4a1d-b522-15738e95133b",
+    "name": "Priority Pass - Tocumen (generico - a verificar)",
+    "airport_iata": "PTY",
+    "airport_name": "Tocumen International Airport (PTY)",
+    "terminal": null,
+    "location_description": "Registro generico 'Priority Pass' em Tocumen. PTY tem varias salas Priority Pass (The Lounge by GLN no T1, The Lounge no T2, Copa Club T2, Tocumen Royal Saloon T1, Airport Club).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/panama/panama-tocumen-international",
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/panama/panama-tocumen-international"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 24,
+    "notes": "VERIFICAR EXISTENCIA: registro generico 'Priority Pass' sem sala especifica em PTY. Provavel DUPLICATA do registro 'Sala Vip Priority Pass' (id db9665b7). Nao corresponde a uma sala unica - mapear para uma das salas reais (The Lounge by GLN/Copa Club/Royal Saloon). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "db9665b7-d598-4e43-92e2-f193722aab4f",
+    "name": "Sala Vip Priority Pass - Tocumen (generico - a verificar)",
+    "airport_iata": "PTY",
+    "airport_name": "Tocumen International Airport (PTY)",
+    "terminal": null,
+    "location_description": "Registro generico 'Sala Vip Priority Pass' em Tocumen, sem sala especifica. PTY tem multiplas salas Priority Pass nos Terminais 1 e 2.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/panama/panama-tocumen-international",
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/panama/panama-tocumen-international"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 22,
+    "notes": "DUPLICATA do registro 'Priority Pass' (id 75b9d75b) em PTY - ambos genericos sem sala especifica. VERIFICAR EXISTENCIA / consolidar com uma sala real do aeroporto (The Lounge by GLN, Copa Club, Tocumen Royal Saloon). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e712fb0c-a5a0-46da-8bec-14ed48ceb68c",
+    "name": "Air China First Class Lounge (No.71) - Shanghai Pudong (T2)",
+    "airport_iata": "PVG",
+    "airport_name": "Shanghai Pudong International Airport (PVG)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, partidas internacionais (4o andar), proximo aos gates D71-D75 (subindo um nivel apos o controle de seguranca).",
+    "hours_open_text": "05:00-01:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "massage_chairs",
+      "sleep_area",
+      "business_center",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_first",
+      "star_alliance_gold",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.airchina.com/",
+    "operator": "Air China",
+    "source_urls": [
+      "https://loungereview.com/lounges/air-china-first-lounge-pvg/",
+      "https://www.sfo777.com/content/air-china-first-class-lounge-pvg"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Air China First Class Lounge (No.71) no T2 de PVG, partidas internacionais perto dos gates D71-75. Para Star Alliance First/Gold e premium da Air China; ha tambem a Business Class Lounge No.71 adjacente. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "46373bda-7bb7-4db7-9dbb-10160ac845ce",
+    "name": "Ambaar Lounge Club (Airside) - Salvador (SSA)",
+    "airport_iata": "SSA",
+    "airport_name": "Salvador Bahia Airport (SSA)",
+    "terminal": null,
+    "location_description": "Apos o raio-x, a direita, em direcao aos portoes de embarque 18-23 (area airside).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "coffee",
+      "shower",
+      "tv",
+      "workspace",
+      "meeting_room",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "visa_airport_companion",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso por pagamento individual (One Day Pass) alem dos programas.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://ambaarlounge.com/en/sala-salvador-ar-area-de-embarque/",
+    "operator": "Ambaar Lounge",
+    "source_urls": [
+      "https://ambaarlounge.com/en/sala-salvador-ar-area-de-embarque/",
+      "https://www.salvador-airport.com.br/en/service/vip-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Ambaar Lounge Club airside em SSA (583 m2, ate 120 pessoas), 24h, perto dos portoes 18-23. Priority Pass/LoungeKey/Visa Airport Companion + pagamento. Ha tambem uma unidade Ambaar landside (registro distinto). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f695fc5e-85df-470e-831c-cfeaba6c70ae",
+    "name": "IQOS Lounge - Warsaw Chopin (T A)",
+    "airport_iata": "WAW",
+    "airport_name": "Warsaw Chopin Airport (WAW)",
+    "terminal": "Terminal A",
+    "location_description": "Terminal A, area Schengen, proximo aos portoes 32/33. Espaco da marca IQOS para fumantes de tabaco aquecido.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "rest_area"
+    ],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "IQOS (Philip Morris)",
+    "source_urls": [
+      "https://ratethesmokingroom.com/warsaw-chopin-airport-smoking-area/",
+      "https://liveandletsfly.com/smoking-warsaw-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 16,
+    "notes": "NAO E UMA SALA VIP: o 'IQOS Lounge' em WAW e uma sala de fumantes da marca IQOS (tabaco aquecido), proxima aos portoes 32/33, nao um lounge de aeroporto com servicos. Sem acesso por programas. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "9c442443-18c6-46c7-8542-19a7d057361d",
+    "name": "Sala VIP Avianca - Salvador (SSA) (a verificar)",
+    "airport_iata": "SSA",
+    "airport_name": "Salvador Bahia Airport (SSA)",
+    "terminal": null,
+    "location_description": "Nao ha sala VIP propria da Avianca em SSA; as salas VIP do aeroporto sao operadas pela Ambaar Lounge.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.salvador-airport.com.br/en/service/vip-lounge",
+      "https://www.aeroportodesalvador.com.br/avianca-aeroporto-de-salvador/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 16,
+    "notes": "NAO HA LOUNGE: nao existe sala VIP propria da Avianca em SSA; as salas sao da Ambaar Lounge. A Avianca Brasil encerrou as operacoes em maio de 2019. VERIFICAR EXISTENCIA / provavel mapeamento para a Ambaar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d6be7476-fa3e-4924-8b18-f04e2cf468ba",
+    "name": "The Emirates Lounge - Zurich (ZRH)",
+    "airport_iata": "ZRH",
+    "airport_name": "Zurich Airport (ZRH)",
+    "terminal": "Terminal E (Gates E)",
+    "location_description": "Concourse/Gates E (lado Schengen), Nivel 3 - subindo pela escada/elevador perto dos gates E52-E53.",
+    "hours_open_text": "10:35-14:15 e 17:50-21:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "massage_chairs",
+      "business_center",
+      "view",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "emirates_first",
+      "emirates_business",
+      "skywards_gold",
+      "skywards_platinum",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.flughafen-zuerich.ch/en/passengers/shopping-and-enjoy/services/all-services/emirates-lounge",
+    "operator": "Emirates",
+    "source_urls": [
+      "https://www.flughafen-zuerich.ch/en/passengers/shopping-and-enjoy/services/all-services/emirates-lounge",
+      "https://loungereview.com/lounges/the-emirates-lounge-zrh/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "The Emirates Lounge em ZRH (Gates E, Nivel 3, perto de E52-53), 741 m2 com vista dos Alpes. Para passageiros First/Business da Emirates (e Qantas) e Skywards Gold/Platinum. Horario em duas janelas (manha/noite). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e5124bb8-e53e-418c-b3fb-1e9babecb314",
+    "name": "Juneyao Air Lounge No.86 - Shanghai Pudong (T2, Domestico)",
+    "airport_iata": "PVG",
+    "airport_name": "Shanghai Pudong International Airport (PVG)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, partidas domesticas, proximo ao gate C80.",
+    "hours_open_text": "05:30-23:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "wine",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "star_alliance_gold",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 120,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso por pagamento e por voucher em voos Juneyao no mesmo dia.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/china/shanghai-pudong-international/pvg14-juneyao-air-lounge-no86",
+    "operator": "Juneyao Air",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/china/shanghai-pudong-international/pvg14-juneyao-air-lounge-no86",
+      "https://loungereview.com/lounges/juneyao-air-no-86-vip-lounge-pvg/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "CONFLITO: o registro indica 'FM' (Shanghai Airlines), mas a 'First Class Lounge No.86' no T2 de PVG (perto do gate C80) e a Juneyao Air Lounge No.86 (partidas domesticas), com Priority Pass e pagamento. Operador correto: Juneyao Air. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "223b8005-c8d6-48e4-8d4f-fe2d27041de2",
+    "name": "Lounge VIP - Prague (T2, Erste Premier Lounge)",
+    "airport_iata": "PRG",
+    "airport_name": "Vaclav Havel Airport Prague (PRG)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, area Schengen, 3o andar - cerca de 100 m a direita apos o controle de seguranca. Registro generico 'Lounge VIP' que corresponde a Erste Premier Lounge.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "coffee",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prg.aero/en/erste-premier-lounge",
+    "operator": "Erste Premier (PRG)",
+    "source_urls": [
+      "https://www.prg.aero/en/erste-premier-lounge",
+      "https://www.prioritypass.com/lounges/czech-republic/prague-vaclav-havel/prg10-erste-premier-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "VERIFICAR EXISTENCIA: nome generico 'Lounge VIP' em PRG. No Terminal 2 (Schengen, 3o andar) a sala e a Erste Premier Lounge (Priority Pass/Diners). PRG tem ainda a Mastercard Lounge no T1 (non-Schengen). Confirmar/mapear para a sala correta. Foto anterior generica removida."
+  }
+]
