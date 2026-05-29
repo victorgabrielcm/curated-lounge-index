@@ -1,0 +1,494 @@
+[
+  {
+    "lounge_id": "91d9000d-2714-4cff-bf3e-815612132ea1",
+    "name": "Virgin Atlantic Clubhouse - London Heathrow (T3)",
+    "airport_iata": "LHR",
+    "airport_name": "London Heathrow Airport (LHR)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, area de embarque Upper Class Wing, perto dos gates 13-22 (acima do Admirals Club). Acesso por escadaria/elevador.",
+    "hours_open_text": "05:30-22:30",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "champagne",
+      "shower",
+      "spa",
+      "games_room",
+      "outdoor_terrace",
+      "relaxation_area",
+      "rest_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "oneworld_emerald"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://flywith.virginatlantic.com/gb/en/upper-class-cabin-and-seats/clubhouse-airport-lounge/london-heathrow-clubhouse.html",
+    "operator": "Virgin Atlantic",
+    "source_urls": [
+      "https://flywith.virginatlantic.com/gb/en/upper-class-cabin-and-seats/clubhouse-airport-lounge/london-heathrow-clubhouse.html",
+      "https://theairportloungebro.com/virgin-atlantic-clubhouse-heathrow-terminal-3-lhr/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 64,
+    "notes": "Virgin Atlantic Clubhouse no T3 de Heathrow (Upper Class Wing), sala emblematica com brasserie, spa, games room e jardim com vista. Para Upper Class e Flying Club Gold; nao aceita Priority Pass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "077bd8d2-3e43-41c8-a2ff-0cad14d37d37",
+    "name": "Plaza Premium Lounge LIS (a verificar)",
+    "airport_iata": "LIS",
+    "airport_name": "Lisbon Airport / Humberto Delgado (LIS)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, area de embarque. Registro generico 'Plaza Premium Lounge'.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/portugal/lisbon-international",
+      "https://www.lisbon-airport.com/lounges.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 26,
+    "notes": "VERIFICAR EXISTENCIA: nao ha Plaza Premium Lounge operada em LIS. As salas do T1 sao ANA Lounge, Blue Lounge e TAP Premier Lounge (Priority Pass via Blue/ANA). Provavel nome incorreto ou duplicata de outra sala. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f58f4992-dd8b-4f32-85d5-a8a96226d27c",
+    "name": "The Emirates Lounge - Munich (T1)",
+    "airport_iata": "MUC",
+    "airport_name": "Munich Airport / Franz Josef Strauss (MUC)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, Modulo C, Nivel 05 (airside, non-Schengen).",
+    "hours_open_text": "06:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "emirates_first",
+      "emirates_business",
+      "skywards_gold",
+      "skywards_platinum",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso pago na porta para passageiros Emirates sem direito (cartao de credito/debito).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.munich-airport.com/emirates-lounge-643634",
+    "operator": "Emirates",
+    "source_urls": [
+      "https://www.munich-airport.com/emirates-lounge-643634",
+      "https://loungereview.com/lounges/emirates-lounge-muc/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Emirates Lounge no T1 de Munique (Modulo C, Nivel 05, non-Schengen), ~965 m2. Para Emirates First/Business e Skywards Gold/Platinum; horario alinhado aos voos EK. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "08eadad5-3031-4f1c-b63d-65df709e3eb7",
+    "name": "Saudia (Saudi Arabian) Lounge MXP (a verificar)",
+    "airport_iata": "MXP",
+    "airport_name": "Milan Malpensa Airport (MXP)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1. Saudia opera em MXP mas sem lounge proprio - usa sala parceira.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "skyteam_elite_plus"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Saudia",
+    "source_urls": [
+      "https://airportsterminal.com/saudia-airlines/saudia-airlines-mxp-terminal-milan-malpensa-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 24,
+    "notes": "NAO HA LOUNGE proprio da Saudia em MXP: passageiros Business/Alfursan usam sala parceira do T1. Registro a verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "607ddc92-2a7a-4fa6-b98c-206ee80ff2b0",
+    "name": "Priority Pass VIP Lounge MEX T1 (generico - a verificar)",
+    "airport_iata": "MEX",
+    "airport_name": "Mexico City International Airport / Benito Juarez (MEX)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1. Registro generico 'Priority Pass VIP Lounge' (nome de programa, nao de sala).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/airport-guides/mexico-city-benito-juarez-international/terminal-1"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 24,
+    "notes": "VERIFICAR EXISTENCIA: 'Priority Pass VIP Lounge' e nome generico de programa, nao de sala. No T1 de MEX existem The Grand Lounge Elite, The Lounge Mexico, Lounge 19, etc. Provavel duplicata/nome generico - mesclar com a sala real. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7fd9f671-501b-4e19-b85b-ecdf41d6a020",
+    "name": "Lufthansa Senator Lounge (Non-Schengen) - Munich (T2)",
+    "airport_iata": "MUC",
+    "airport_name": "Munich Airport / Franz Josef Strauss (MUC)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, Nivel 5, area de embarque H (non-Schengen), em frente ao gate H24 (apos seguranca e imigracao).",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "coffee",
+      "shower",
+      "sleep_area",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "star_alliance_gold",
+      "star_alliance_first",
+      "miles_and_more_senator",
+      "swiss_business"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.munich-airport.com/lh-lounge-521172",
+    "operator": "Lufthansa",
+    "source_urls": [
+      "https://loungereview.com/lounges/lufthansa-senator-lounge-muc-non-schengen-h24/",
+      "https://www.headforpoints.com/2023/11/29/review-lufthansas-senator-lounge-h24-munich-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Lufthansa Senator Lounge non-Schengen no T2 de Munique (Nivel 5, gates H, em frente ao H24). Para Star Alliance Gold/First, Senator e Business do Grupo Lufthansa; tem slumber room e bar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "235bf608-1ad0-4bcc-a921-ee58891dc329",
+    "name": "JAL Sakura Lounge - Tokyo Narita (T2)",
+    "airport_iata": "NRT",
+    "airport_name": "Narita International Airport (NRT)",
+    "terminal": "Terminal 2 (Main Building)",
+    "location_description": "Terminal 2, Main Building, 3o andar, area internacional perto do gate 61.",
+    "hours_open_text": "07:30-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "massage_chairs",
+      "kids_area",
+      "nursing_room",
+      "sleep_area",
+      "relaxation_area",
+      "tv",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "business_class",
+      "oneworld_emerald",
+      "oneworld_sapphire"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.jal.co.jp/jp/en/inter/service/lounge/nrt/sakura/",
+    "operator": "Japan Airlines (JAL)",
+    "source_urls": [
+      "https://www.jal.co.jp/jp/en/inter/service/lounge/nrt/sakura/",
+      "https://loungereview.com/lounges/jal-international-sakura-lounge-nrt-t2-main-building/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "JAL Sakura Lounge internacional no T2 de Narita (Main Building 3F, perto do gate 61). Para JAL/oneworld Business e oneworld Emerald/Sapphire; cadeiras de massagem, sala infantil e nap room. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "bde47b5e-f94b-4a8c-b7a6-95096c9c1eef",
+    "name": "Club S.E.A. - Sala Respighi - Milan Malpensa (T1)",
+    "airport_iata": "MXP",
+    "airport_name": "Milan Malpensa Airport (MXP)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1 (Malpensa West), landside, 2o andar proximo aos check-ins.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "luggage_storage",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "SEA (Club SEA)",
+    "source_urls": [
+      "https://loungereview.com/lounges/club-s-e-a-sala-respighi-mxp/",
+      "https://simpleflying.com/mxp-lounges-respighi-monteverdi/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 22,
+    "notes": "FECHADO PERMANENTEMENTE: a Club S.E.A. - Sala Respighi no T1 de Malpensa (landside) encerrou em 2022 e nao reabriu. Antes aceitava Priority Pass e pagantes. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "cc71f921-a358-4b3e-b17f-bddfcbeb2293",
+    "name": "Airport Lounge World - Munich (T1)",
+    "airport_iata": "MUC",
+    "airport_name": "Munich Airport / Franz Josef Strauss (MUC)",
+    "terminal": "Terminal 1 (Modulo B)",
+    "location_description": "Terminal 1, area non-Schengen perto do gate B10; subir de elevador ate o Nivel 6. Vista para a pista.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "kids_area",
+      "rest_area",
+      "runway_view",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.munich-airport.com/airport-lounge-world-4813151",
+    "operator": "Airport Lounge World",
+    "source_urls": [
+      "https://www.munich-airport.com/airport-lounge-world-4813151",
+      "https://www.prioritypass.com/lounges/germany/munich-franz-josef-strauss/muc2-airport-lounge-world"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Airport Lounge World no T1 de Munique (non-Schengen, perto do gate B10, Nivel 6) - sala paga/Priority Pass com vista para a pista. So acessivel em voos non-Schengen. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "fa55b3e0-062a-4ae7-95b3-a842368e6304",
+    "name": "Singapore Airlines SilverKris Lounge - Melbourne (T2)",
+    "airport_iata": "MEL",
+    "airport_name": "Melbourne Airport / Tullamarine (MEL)",
+    "terminal": "Terminal 2 (Internacional)",
+    "location_description": "Terminal 2, nivel inferior (area de lounges), via escadas em frente ao gate 7; perto das salas Cathay Pacific e Air New Zealand.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "singapore_business",
+      "singapore_first",
+      "star_alliance_gold",
+      "star_alliance_first",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.singaporeair.com/en_UK/us/plan-travel/check-in-departure/lounges/",
+    "operator": "Singapore Airlines",
+    "source_urls": [
+      "https://loungereview.com/lounges/singapore-airlines-silverkris-lounge-mel/",
+      "https://www.pointhacks.com.au/news/singapore-airlines-silverkris-first-class-terminal-2-first-look/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Singapore Airlines SilverKris Lounge no T2 internacional de Melbourne (nivel inferior, em frente ao gate 7). Ha tier Business e a nova First Class Lounge (aberta nov/2025); rebuild completo previsto para 2026/2027. Para SQ Business/First, KrisFlyer e Star Alliance Gold. Foto anterior generica removida."
+  }
+]

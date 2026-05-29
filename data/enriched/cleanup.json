@@ -1996,5 +1996,185 @@
     "recommended_action": "delete",
     "related_id_hint": null,
     "detail": "NAO E UMA SALA VIP: 'smooking lounge' = sala de fumantes airside (2o andar/L2) no aeroporto de Veneza, nao um lounge. Os lounges reais de VCE sao o Marco Polo Club e o Aspire Executive Lounge. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a4a306c6-5446-4879-bce3-62b59c82eb0e",
+    "name": "British Airways First Class Lounge",
+    "airport_iata": "VIE",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: Não há confirmação de que a British Airways opere lounge exclusivo First Class em VIE (Viena). BA provavelmente usa lounge parceiro (Austrian/Star Alliance) para passageiros Business e First. Registro pode ser duplicado ou incorreto. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7ffb38b7-b802-4123-bfc4-3147b0a99428",
+    "name": "Aerostar Táxi Aéreo",
+    "airport_iata": "SSA",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA: \"Aerostar Táxi Aéreo\" é uma empresa de táxi aéreo/fretamento, não uma sala VIP aeroportuária. Registro incorreto no banco de dados. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1baf9ad1-b6a8-4157-a111-7dd383fae9a0",
+    "name": "Dan Lounge - Tel Aviv Ben Gurion (T3)",
+    "airport_iata": "TLV",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO de localizacao: as Dan Lounge de Ben Gurion ficam nos Concourses B e C (operadas pela Dan Hotels), nao no Concourse E - o Concourse E em obras abriga apenas um bar (Schmoozy Bar). Uma das Dan Lounge encerrou no fim de 2025. Verificar concourse correto. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2adc1985-c5e9-4cc8-b638-21266bd952d8",
+    "name": "Ballada Business Lounge - Warsaw Chopin (Schengen)",
+    "airport_iata": "WAW",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: Ballada Executive/Business Lounge (Schengen) no Terminal A de Varsovia, sala paga independente do aeroporto. Ha sinais conflitantes - alguns guias a listam como inativa, mas o site do aeroporto ainda a inclui entre as duas salas executivas proprias. Confirmar operacao atual. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "32cca122-0717-4d12-ab2b-b3af3c8768d6",
+    "name": "Business Lounge (SkyTeam) - Prague (T1)",
+    "airport_iata": "PRG",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "16b2da90",
+    "detail": "DUPLICATA: 'SkyTeam Business Lounge' no T1 de Praga corresponde a mesma Business/Mastercard Lounge do Terminal 1 (Pier B, non-Schengen) ja registrada (id 16b2da90) - SkyTeam Elite Plus/Business usam essa sala. Consolidar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "80159271-2ee4-4d24-a554-b439b1a91287",
+    "name": "Salon Diplomatico - Aeropuerto de Tocumen (PTY)",
+    "airport_iata": "PTY",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP de passageiros: o Salon Diplomatico de Tocumen e um salao oficial de protocolo (Decreto Ejecutivo 367/1995) de uso exclusivo do Presidente, vice-presidentes, chefes de estado, ministros, magistrados e corpo diplomatico acreditado. Nao acessivel ao publico nem por programas. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "48dc6b82-7305-4fce-aef1-2d7d6c220437",
+    "name": "Crystal Lounge (Czech Airlines) - Prague (T1 Non-Schengen)",
+    "airport_iata": "PRG",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO de terminal: a Crystal Lounge (Czech Airlines/OK) fica no Terminal 1 non-Schengen, e nao no Terminal 2 como diz o registro. A Czech Airlines encerrou as operacoes proprias de voo em out/2024, mas a marca e a sala seguem ativas sob o grupo Smartwings. SkyTeam Elite Plus/Business. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ce247f7c-bca4-42a9-ae0e-3f9a2fe6018e",
+    "name": "VIP Lounge Terminal 2 - Riad (RUH) (generico)",
+    "airport_iata": "RUH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "6de6763e",
+    "detail": "DUPLICATA/generico: 'VIP Lounge Terminal 2' em RUH e nome generico que aponta provavelmente para a Wellcome Lounge T2 (ver #537 'Wellcome Lounge RUH', id 6de6763e) ou a Plaza Premium T2. Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3b1a5154-310f-46ab-9cde-0867c72ee309",
+    "name": "Arbel Lounge - Tel Aviv Ben Gurion (TLV) (T3)",
+    "airport_iata": "TLV",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO de cidade: registro lista 'Jerusalem' mas TLV/Ben Gurion fica em Tel Aviv (Lod). Arbel Lounge no T3, Nivel 1, Galeria Leste - sala VIP REAL com meet & greet. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "226dffaa-b898-4df9-b705-fdfe0f337739",
+    "name": "Airport Club Panama - Tocumen (PTY) (generico)",
+    "airport_iata": "PTY",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: nao ha sala chamada 'Airport Club' em PTY. As salas reais sao Copa Club, The Lounge Panama (Global Lounge Network) e Tocumen Royal Saloon (T1/T2). Nome generico - provavel DUPLICATA do Copa Club ou The Lounge. Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6de6763e-05ef-43d9-ab06-bb9c663545df",
+    "name": "Wellcome Lounge - Riad (RUH)",
+    "airport_iata": "RUH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "Wellcome Lounge em RUH (T2, 2o andar Mezanino), 24h, max ~3h, com Priority Pass. REAL. Ha unidade no T1 (LoungeBuddy indicou T1 temporariamente encerrado). Possivel duplicata do registro generico 'VIP Lounge Terminal 2' (#531). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "080673c9-ea15-4bc3-85ec-464635cb576a",
+    "name": "Panorama Bar & Smoker Lounge - Viena (VIE) (Gates G)",
+    "airport_iata": "VIE",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Panorama Bar & Smoker Lounge' nos Gates G de VIE e um restaurante/bar (Panorama) com vista e area de fumantes, aberto a todos, sem acesso por programas de lounge. As salas VIP reais de VIE sao as Austrian/Vienna Lounges. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "774e87f1-d8c2-4e67-adbc-3b103e29eda5",
+    "name": "Primeclass Lounge - Paris Orly (ORY)",
+    "airport_iata": "ORY",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: registro indica 'Terminal 3', mas a Primeclass Lounge fica em Orly 4 (area non-Schengen, perto do F22) apos a renumeracao dos terminais de Orly. So acessivel para voos non-Schengen, 07:00-21:00. Priority Pass/pay-per-use. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c62641d1-cff8-4468-a3fe-20b184ccda49",
+    "name": "Air China Economy Class Lounge - Beijing Capital (PEK)",
+    "airport_iata": "PEK",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA / NAO HA LOUNGE dedicado de classe economica da Air China em PEK. A Air China opera salas First/Business (T2 e T3C/T3E); nao ha 'Economy Class Lounge' propria - provavel registro incorreto. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "038befff-1bd4-40ea-b097-70469684c2a9",
+    "name": "Air China First Class Lounge Smoking Room - Beijing Capital (PEK)",
+    "airport_iata": "PEK",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA: este registro e a sala de fumantes (smoking room) dentro da Air China First Class Lounge no T3E, e nao uma sala VIP independente. Deve ser mesclado/removido em favor da sala principal. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "abc2160b-9934-4b34-a71b-24eb39e479c6",
+    "name": "ANA Lounge - Lisbon (LIS)",
+    "airport_iata": "LIS",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: o sufixo '(Star Alliance)' e enganoso - a 'ANA Lounge' e operada pela ANA Aeroportos de Portugal, NAO pela All Nippon Airways. E sala independente do aeroporto no T1 Schengen (6o andar), acessivel via Priority Pass e tambem por Star Alliance Business/Gold; 06:00-22:00. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "077bd8d2-3e43-41c8-a2ff-0cad14d37d37",
+    "name": "Plaza Premium Lounge LIS (a verificar)",
+    "airport_iata": "LIS",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: nao ha Plaza Premium Lounge operada em LIS. As salas do T1 sao ANA Lounge, Blue Lounge e TAP Premier Lounge (Priority Pass via Blue/ANA). Provavel nome incorreto ou duplicata de outra sala. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "08eadad5-3031-4f1c-b63d-65df709e3eb7",
+    "name": "Saudia (Saudi Arabian) Lounge MXP (a verificar)",
+    "airport_iata": "MXP",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "NAO HA LOUNGE proprio da Saudia em MXP: passageiros Business/Alfursan usam sala parceira do T1. Registro a verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "607ddc92-2a7a-4fa6-b98c-206ee80ff2b0",
+    "name": "Priority Pass VIP Lounge MEX T1 (generico - a verificar)",
+    "airport_iata": "MEX",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: 'Priority Pass VIP Lounge' e nome generico de programa, nao de sala. No T1 de MEX existem The Grand Lounge Elite, The Lounge Mexico, Lounge 19, etc. Provavel duplicata/nome generico - mesclar com a sala real. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "bde47b5e-f94b-4a8c-b7a6-95096c9c1eef",
+    "name": "Club S.E.A. - Sala Respighi - Milan Malpensa (T1)",
+    "airport_iata": "MXP",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "FECHADO PERMANENTEMENTE: a Club S.E.A. - Sala Respighi no T1 de Malpensa (landside) encerrou em 2022 e nao reabriu. Antes aceitava Priority Pass e pagantes. Foto anterior generica removida."
   }
 ]

@@ -1,0 +1,504 @@
+[
+  {
+    "lounge_id": "7fc81abb-3a55-435d-9041-523a23785bd6",
+    "name": "Virgin Australia Lounge - Sydney (T2 Domestico)",
+    "airport_iata": "SYD",
+    "airport_name": "Sydney Airport (SYD)",
+    "terminal": "Terminal 2 (Domestico)",
+    "location_description": "Terminal 2 (domestico), airside. Apos a seguranca, a direita ou via escada rolante do food court. Janelas do chao ao teto com vista da pista.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "private_rooms",
+      "conference",
+      "tv",
+      "workspace",
+      "clothes_pressing",
+      "runway_view",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "business_class",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Passe avulso ~AUD 65 adulto / AUD 45 crianca (2-17).",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.virginaustralia.com/au/en/travel-info/at-the-airport/lounge/domestic/sydney/",
+    "operator": "Virgin Australia",
+    "source_urls": [
+      "https://www.virginaustralia.com/au/en/travel-info/at-the-airport/lounge/domestic/sydney/",
+      "https://www.prioritypass.com/lounges/australia/sydney-kingsford-smith"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Virgin Australia Lounge no T2 domestico de SYD - REAL. Acesso por Velocity Gold/Platinum, business, Priority Pass (Amex Platinum) e passe avulso. Abre 60min antes do 1o voo ate o ultimo voo VA. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ce247f7c-bca4-42a9-ae0e-3f9a2fe6018e",
+    "name": "VIP Lounge Terminal 2 - Riad (RUH) (generico)",
+    "airport_iata": "RUH",
+    "airport_name": "King Khalid International Airport (Riyadh) (RUH)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, airside, International Departures, Mezanino (2o andar). Nome generico - no T2 ha a Wellcome Lounge e a Plaza Premium Lounge.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "tv",
+      "prayer_room",
+      "kids_area",
+      "conference",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "mastercard",
+      "pay_per_use",
+      "business_class"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/saudi-arabia/riyadh-intl",
+      "http://www.gosimply.com/airport-lounges/saudi-arabia/riyadh-king-khalid-airport/ruh2sau"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 30,
+    "notes": "DUPLICATA/generico: 'VIP Lounge Terminal 2' em RUH e nome generico que aponta provavelmente para a Wellcome Lounge T2 (ver #537 'Wellcome Lounge RUH', id 6de6763e) ou a Plaza Premium T2. Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b8cea16f-cbf8-46e9-9b21-ecd3f4f2c836",
+    "name": "Plaza Premium Lounge - Sydney (T1 Internacional)",
+    "airport_iata": "SYD",
+    "airport_name": "Sydney Airport (SYD)",
+    "terminal": "Terminal 1 (Internacional)",
+    "location_description": "Terminal 1, area internacional de embarque, em frente aos portoes 25-26.",
+    "hours_open_text": "06:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 120,
+    "children_policy": "Menores de 2 anos entram gratis.",
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/asia/australia/sydney/sydney-airport/international-departures-terminal-one",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/en-uk/find/asia/australia/sydney/sydney-airport/international-departures-terminal-one",
+      "https://www.prioritypass.com/en-GB/lounges/australia/sydney-kingsford-smith/syd18-plaza-premium-lounge-international-departures"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Plaza Premium Lounge no T1 internacional de SYD (Departures, em frente gates 25-26), 06:00-22:00, max 2h. REAL. Ha tambem unidade de chegadas (arrivals) no T1. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "bda1c251-dd11-4aa6-ae40-9f85b0c63739",
+    "name": "Blossom - SATS & Plaza Premium Lounge - Singapura Changi (T4)",
+    "airport_iata": "SIN",
+    "airport_name": "Singapore Changi Airport (SIN)",
+    "terminal": "Terminal 4",
+    "location_description": "Terminal 4, Nivel 2 Mezanino, area de embarque/transito (apos imigracao). Estacao de laksa e cozinha ao vivo.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "noodle_bar",
+      "bar",
+      "wine",
+      "shower",
+      "massage_chairs",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/asia/singapore/singapore/singapore-changi-airport/blossom-sats-plaza-premium-lounge-intl-dep-t4",
+    "operator": "SATS / Plaza Premium Group",
+    "source_urls": [
+      "https://www.plazapremiumlounge.com/en-uk/find/asia/singapore/singapore/singapore-changi-airport/blossom-sats-plaza-premium-lounge-intl-dep-t4",
+      "https://www.changiairport.com/en/at-changi/facilities-and-services-directory/blossom-sats-and-plaza-premium-lounge.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 60,
+    "notes": "Blossom - SATS & Plaza Premium Lounge no T4 de Changi (Nivel 2 Mezanino, area de transito), 24h, aberta a todas as classes. REAL. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "aff7105d-83df-47ee-bb2f-add909a9ed6e",
+    "name": "Qantas International First Lounge - Sydney (T1)",
+    "airport_iata": "SYD",
+    "airport_name": "Sydney Airport (SYD)",
+    "terminal": "Terminal 1 (Internacional)",
+    "location_description": "Terminal 1, airside, Nivel 4 (apos imigracao, entrada via escada rolante no nivel 3). Restaurante a la carte (Rockpool/Neil Perry) e day spa Payot.",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "a_la_carte_dining",
+      "bar",
+      "wine",
+      "champagne",
+      "coffee",
+      "shower",
+      "spa",
+      "business_center",
+      "meeting_room",
+      "private_rooms",
+      "gaming",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_first",
+      "oneworld_emerald",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.qantas.com/au/en/qantas-experience/at-the-airport/airport-lounges/all-qantas-airport-lounges.html",
+    "operator": "Qantas",
+    "source_urls": [
+      "https://www.qantas.com/au/en/qantas-experience/at-the-airport/airport-lounges/all-qantas-airport-lounges.html",
+      "https://www.pointhacks.com.au/reviews/qantas-international-first-lounge-sydney/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 62,
+    "notes": "Qantas International First Lounge no T1 de SYD (Nivel 4), com restaurante a la carte e spa. Acesso para First Qantas/oneworld e oneworld Emerald. REAL. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3b1a5154-310f-46ab-9cde-0867c72ee309",
+    "name": "Arbel Lounge - Tel Aviv Ben Gurion (TLV) (T3)",
+    "airport_iata": "TLV",
+    "airport_name": "Ben Gurion Airport (Tel Aviv) (TLV)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, Nivel 1, Galeria Leste (proximo a sinagoga). Sala VIP com servico meet & greet/escolta.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Entrada com reserva previa; sem reserva sujeita a disponibilidade.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.iaa.gov.il/en/companies/lounges/arbel-lounge/",
+    "operator": "Israel Airports Authority",
+    "source_urls": [
+      "https://www.iaa.gov.il/en/companies/lounges/arbel-lounge/",
+      "https://www.sleepinginairports.net/lounge/tel-aviv-airport/arbel-lounge-tlv.htm"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "CONFLITO de cidade: registro lista 'Jerusalem' mas TLV/Ben Gurion fica em Tel Aviv (Lod). Arbel Lounge no T3, Nivel 1, Galeria Leste - sala VIP REAL com meet & greet. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "226dffaa-b898-4df9-b705-fdfe0f337739",
+    "name": "Airport Club Panama - Tocumen (PTY) (generico)",
+    "airport_iata": "PTY",
+    "airport_name": "Tocumen International Airport (Panama City) (PTY)",
+    "terminal": null,
+    "location_description": "Aeroporto Internacional de Tocumen. Nome generico 'Airport Club' - nao corresponde a uma sala com esse nome exato no aeroporto.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "diners_club",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://panamatocumen.com/en/lounges",
+    "operator": null,
+    "source_urls": [
+      "https://panamatocumen.com/en/lounges",
+      "https://www.prioritypass.com/lounges/panama/panama-tocumen-international"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 26,
+    "notes": "VERIFICAR EXISTENCIA: nao ha sala chamada 'Airport Club' em PTY. As salas reais sao Copa Club, The Lounge Panama (Global Lounge Network) e Tocumen Royal Saloon (T1/T2). Nome generico - provavel DUPLICATA do Copa Club ou The Lounge. Verificar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6de6763e-05ef-43d9-ab06-bb9c663545df",
+    "name": "Wellcome Lounge - Riad (RUH)",
+    "airport_iata": "RUH",
+    "airport_name": "King Khalid International Airport (Riyadh) (RUH)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, airside, International Departures, 2o andar (lado direito do Mezanino, apos imigracao e raio-x). Tambem ha unidade no T1.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "tv",
+      "prayer_room",
+      "kids_area",
+      "conference",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "mastercard",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/saudi-arabia/riyadh-intl/ruh6-wellcome-lounge",
+    "operator": "Wellcome Lounge",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/saudi-arabia/riyadh-intl/ruh6-wellcome-lounge",
+      "https://loungereview.com/lounges/wellcome-lounge-ruh-terminal-2/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Wellcome Lounge em RUH (T2, 2o andar Mezanino), 24h, max ~3h, com Priority Pass. REAL. Ha unidade no T1 (LoungeBuddy indicou T1 temporariamente encerrado). Possivel duplicata do registro generico 'VIP Lounge Terminal 2' (#531). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "295eecfe-b536-4480-961a-bd1a38346c51",
+    "name": "FastTrack Lounge - Praga (PRG) (T2)",
+    "airport_iata": "PRG",
+    "airport_name": "Vaclav Havel Airport Prague (PRG)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2, hall de partidas (landside), 2o andar, acessivel pela escada com tapete vermelho. Inclui seguranca/raio-x individual.",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "kids_area",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Entrada avulsa ~CZK 1020 adulto / CZK 540 crianca (ate 14). Inclui fast track de seguranca.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prg.aero/en/fasttrack-lounge",
+    "operator": "Vaclav Havel Airport Prague",
+    "source_urls": [
+      "https://www.prg.aero/en/fasttrack-lounge",
+      "https://thepragueairport.com/airport-lounges/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "FastTrack Lounge no T2 de Praga (hall de partidas, 2o andar, landside), 05:00-22:00, max 3h, com seguranca individual. REAL, mas NAO aceito no Priority Pass - apenas pago. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "080673c9-ea15-4bc3-85ec-464635cb576a",
+    "name": "Panorama Bar & Smoker Lounge - Viena (VIE) (Gates G)",
+    "airport_iata": "VIE",
+    "airport_name": "Vienna International Airport (VIE)",
+    "terminal": "Terminal 3 (Gates G)",
+    "location_description": "Terminal 3, area dos Gates G (non-Schengen). E o Panorama Restaurant/Bar com vista da pista e area de fumantes - nao e uma sala VIP.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "view",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://viennaairport.com/en/passengers/shops__restaurants/terminal_3_gates_f__g",
+    "operator": null,
+    "source_urls": [
+      "https://viennaairport.com/en/passengers/shops__restaurants/terminal_3_gates_f__g",
+      "https://viennaairport.com/en/restaurants"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 20,
+    "notes": "NAO E UMA SALA VIP: 'Panorama Bar & Smoker Lounge' nos Gates G de VIE e um restaurante/bar (Panorama) com vista e area de fumantes, aberto a todos, sem acesso por programas de lounge. As salas VIP reais de VIE sao as Austrian/Vienna Lounges. Foto anterior generica removida."
+  }
+]

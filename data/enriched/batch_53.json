@@ -1,0 +1,487 @@
+[
+  {
+    "lounge_id": "1baf9ad1-b6a8-4157-a111-7dd383fae9a0",
+    "name": "Dan Lounge - Tel Aviv Ben Gurion (T3)",
+    "airport_iata": "TLV",
+    "airport_name": "Ben Gurion Airport (TLV)",
+    "terminal": "Terminal 3",
+    "location_description": "Terminal 3, airside. As Dan Lounge ficam nos Concourses B e C; o Concourse E (ainda em obras/expansao) tem um bar (Schmoozy Bar), nao uma Dan Lounge.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.iaa.gov.il/en/companies/lounges/dan-lounge/",
+    "operator": "Dan Hotels",
+    "source_urls": [
+      "https://my.prioritypass.com/en-GB/lounges/israel/ben-gurion/tlv-dan-lounge",
+      "https://www.iaa.gov.il/en/companies/lounges/dan-lounge/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 30,
+    "notes": "CONFLITO de localizacao: as Dan Lounge de Ben Gurion ficam nos Concourses B e C (operadas pela Dan Hotels), nao no Concourse E - o Concourse E em obras abriga apenas um bar (Schmoozy Bar). Uma das Dan Lounge encerrou no fim de 2025. Verificar concourse correto. Foto anterior generica removida.",
+    "completeness_score_": 30
+  },
+  {
+    "lounge_id": "025b00b9-71b6-487c-8732-79969e39671e",
+    "name": "First Class Lounge No.90 (Air China) - Shanghai Pudong (T2 Domestico)",
+    "airport_iata": "PVG",
+    "airport_name": "Shanghai Pudong International Airport (PVG)",
+    "terminal": "Terminal 2 (Domestico)",
+    "location_description": "Terminal 2, area domestica, airside, proximo ao gate 90 (em frente ao gate 73). Sala First & Business da Air China.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.airchina.com/",
+    "operator": "Air China",
+    "source_urls": [
+      "https://www.prioritypass.com/airport-guides/shanghai-pudong-international/terminal-2",
+      "https://thislounge.com/pvg/73-first-class-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 44,
+    "notes": "Sala First & Business da Air China no gate 90 do Terminal 2 (area DOMESTICA) de PVG. Distinta das salas internacionais (No.69, No.77). Abre conforme voos do dia. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "16b2da90-e3ed-4af5-a203-9d3d8fa4e5a4",
+    "name": "Mastercard Business Lounge - Prague (T1 Non-Schengen)",
+    "airport_iata": "PRG",
+    "airport_name": "Vaclav Havel Airport Prague (PRG)",
+    "terminal": "Terminal 1 (Non-Schengen)",
+    "location_description": "Terminal 1, airside non-Schengen, 1o andar acima dos portoes B (Pier B), ao lado do restaurante Runway. Vista para a pista e terraco.",
+    "hours_open_text": "05:30-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "coffee",
+      "shower",
+      "kids_area",
+      "outdoor_terrace",
+      "runway_view",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "diners_club",
+      "mastercard",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prg.aero/en/mastercard-lounge",
+    "operator": "Prague Airport / Mastercard",
+    "source_urls": [
+      "https://www.prg.aero/en/mastercard-lounge",
+      "https://www.prioritypass.com/lounges/czech-republic/prague-vaclav-havel/prg9-mastercard-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Business/Mastercard Lounge no Terminal 1 (non-Schengen) de Praga, Pier B, com vista de pista e terraco; renovada em 2025. Priority Pass/LoungeKey/DragonPass. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "4b8a9036-74e2-4756-949c-681102de8437",
+    "name": "LOT Business Lounge Polonez - Warsaw Chopin (Schengen)",
+    "airport_iata": "WAW",
+    "airport_name": "Warsaw Chopin Airport (WAW)",
+    "terminal": "Terminal A (Schengen)",
+    "location_description": "Terminal A, area Schengen, Nivel 2, central, proximo aos portoes 25-26. Inclui zona Gold para business intercontinental.",
+    "hours_open_text": "05:00-23:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "coffee",
+      "shower",
+      "conference",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "star_alliance_business",
+      "business_class",
+      "priority_pass"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.lot.com/us/en/journey/additional-services/executive-lounges/lot-business-lounge-polonez",
+    "operator": "LOT Polish Airlines",
+    "source_urls": [
+      "https://www.lot.com/us/en/journey/additional-services/executive-lounges/lot-business-lounge-polonez",
+      "https://loungenerd.com/news/lot-warsaw-chopin-airport-lounge-reopens-waw"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "LOT Business Lounge Polonez (Schengen) no Terminal A de Varsovia, perto dos gates 25-26; reformada e ampliada no inicio de 2025 (~860 m2) com zona Gold. Star Alliance Gold/Business. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2adc1985-c5e9-4cc8-b638-21266bd952d8",
+    "name": "Ballada Business Lounge - Warsaw Chopin (Schengen)",
+    "airport_iata": "WAW",
+    "airport_name": "Warsaw Chopin Airport (WAW)",
+    "terminal": "Terminal A (Schengen)",
+    "location_description": "Terminal A, area Schengen, junto ao controle de seguranca. Sala executiva independente operada pelo aeroporto.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "coffee",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://lotnisko-chopina.pl/en/executive-lounge.html",
+    "operator": "Warsaw Chopin Airport",
+    "source_urls": [
+      "https://lotnisko-chopina.pl/en/executive-lounge.html",
+      "https://www.prioritypass.com/airport-guides/warsaw-frederic-chopin/terminal-a"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 38,
+    "notes": "VERIFICAR EXISTENCIA: Ballada Executive/Business Lounge (Schengen) no Terminal A de Varsovia, sala paga independente do aeroporto. Ha sinais conflitantes - alguns guias a listam como inativa, mas o site do aeroporto ainda a inclui entre as duas salas executivas proprias. Confirmar operacao atual. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "32cca122-0717-4d12-ab2b-b3af3c8768d6",
+    "name": "Business Lounge (SkyTeam) - Prague (T1)",
+    "airport_iata": "PRG",
+    "airport_name": "Vaclav Havel Airport Prague (PRG)",
+    "terminal": "Terminal 1 (Non-Schengen)",
+    "location_description": "Terminal 1, airside non-Schengen, 1o andar acima dos portoes B (Pier B). E a mesma Business/Mastercard Lounge do T1 que atende passageiros SkyTeam.",
+    "hours_open_text": "05:30-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "coffee",
+      "shower",
+      "runway_view",
+      "outdoor_terrace",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class",
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prg.aero/en/mastercard-lounge",
+    "operator": "Prague Airport",
+    "source_urls": [
+      "https://www.prg.aero/en/lounges-and-vip-service",
+      "https://www.prioritypass.com/airport-guides/prague-vaclav-havel/terminal-1"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 34,
+    "notes": "DUPLICATA: 'SkyTeam Business Lounge' no T1 de Praga corresponde a mesma Business/Mastercard Lounge do Terminal 1 (Pier B, non-Schengen) ja registrada (id 16b2da90) - SkyTeam Elite Plus/Business usam essa sala. Consolidar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ba7fe96a-e9ad-46a7-a261-8e6ce97d8f89",
+    "name": "Austrian Airlines Business Lounge (Concourse D) - Vienna",
+    "airport_iata": "VIE",
+    "airport_name": "Vienna International Airport (VIE)",
+    "terminal": "Concourse D (Non-Schengen)",
+    "location_description": "Concourse D, area non-Schengen, no andar superior (4o andar) acima do gate D29; acesso por elevador perto do D29.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "star_alliance_business",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.austrian.com/at/en/lounges-vienna-airport",
+    "operator": "Austrian Airlines",
+    "source_urls": [
+      "https://www.austrian.com/at/en/lounges-vienna-airport",
+      "https://loungereview.com/lounges/austrian-business-lounge-vie-terminal-d-non-schengen/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Austrian Business Lounge no Concourse D (non-Schengen, voos extra-Schengen) de Viena, acima do gate D29. Sala menor; a Austrian tem salas maiores nos Concourses F e G. Star Alliance Gold/Business. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "80159271-2ee4-4d24-a554-b439b1a91287",
+    "name": "Salon Diplomatico - Aeropuerto de Tocumen (PTY)",
+    "airport_iata": "PTY",
+    "airport_name": "Tocumen International Airport (PTY)",
+    "terminal": null,
+    "location_description": "Salao diplomatico/de protocolo do Aeroporto de Tocumen, para recepcao de chefes de estado, autoridades e corpo diplomatico.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Aeropuerto Internacional de Tocumen",
+    "source_urls": [
+      "https://www.panamaamerica.com.pa/nacion/ex-presidentes-pueden-usar-el-salon-diplomatico-37113",
+      "https://es.foursquare.com/v/salon-diplom%C3%A1tico-aeropuerto-tocumen/526075fb498e233c7b2a7a33"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 16,
+    "notes": "NAO E UMA SALA VIP de passageiros: o Salon Diplomatico de Tocumen e um salao oficial de protocolo (Decreto Ejecutivo 367/1995) de uso exclusivo do Presidente, vice-presidentes, chefes de estado, ministros, magistrados e corpo diplomatico acreditado. Nao acessivel ao publico nem por programas. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e684fb58-dce4-40d8-8821-e3eba0966fcb",
+    "name": "Aspire Lounge - Tel Aviv Ben Gurion (T3, Concourse E)",
+    "airport_iata": "TLV",
+    "airport_name": "Ben Gurion Airport (TLV)",
+    "terminal": "Terminal 3 (Concourse E)",
+    "location_description": "Terminal 3, airside, Concourse E. Sala que substituiu o acordo com a Dan Lounge para certos cartoes (ex.: Max).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "coffee",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 120,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Walk-in ~225 ILS por pessoa; permanencia maxima ~2h.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aspirelounges.com/airport-lounges/tel-aviv-ben-gurion-airport-aspire-lounge/",
+    "operator": "Swissport (Aspire)",
+    "source_urls": [
+      "https://www.aspirelounges.com/airport-lounges/tel-aviv-ben-gurion-airport-aspire-lounge/",
+      "https://loungereview.com/lounges/aspire-lounge-tlv-concourse-e/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Aspire Lounge (Swissport) no Concourse E do Terminal 3 de Ben Gurion, aberta 24h; substituiu o acordo com a Dan Lounge para cartoes Max. Permanencia ~2h. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "48dc6b82-7305-4fce-aef1-2d7d6c220437",
+    "name": "Crystal Lounge (Czech Airlines) - Prague (T1 Non-Schengen)",
+    "airport_iata": "PRG",
+    "airport_name": "Vaclav Havel Airport Prague (PRG)",
+    "terminal": "Terminal 1 (Non-Schengen)",
+    "location_description": "Crystal Lounge da Czech Airlines fica no Terminal 1 (area non-Schengen/internacional), nao no Terminal 2 como consta no registro.",
+    "hours_open_text": "05:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "coffee",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "skyteam_elite_plus",
+      "business_class",
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.csa.cz/gb-en/travel-information/list-all-services/airport-lounges-in-prague/",
+    "operator": "Czech Airlines (Smartwings group)",
+    "source_urls": [
+      "https://www.csa.cz/gb-en/travel-information/list-all-services/airport-lounges-in-prague/",
+      "https://loungeindex.com/Europe/Czech/PRG/Czech%20Airlines%20Lounge%20T1%20(Non-Schengen)/index.htm"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "CONFLITO de terminal: a Crystal Lounge (Czech Airlines/OK) fica no Terminal 1 non-Schengen, e nao no Terminal 2 como diz o registro. A Czech Airlines encerrou as operacoes proprias de voo em out/2024, mas a marca e a sala seguem ativas sob o grupo Smartwings. SkyTeam Elite Plus/Business. Foto anterior generica removida."
+  }
+]
