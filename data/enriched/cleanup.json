@@ -1420,5 +1420,176 @@
     "recommended_action": "disable",
     "related_id_hint": null,
     "detail": "FECHADA: a SkyTeam Lounge de Istanbul foi atingida por um incendio e esta fechada; clientes elegiveis sao direcionados a IGA Lounge. Verificar reabertura. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3879a60e-1200-495c-a647-07de2289c855",
+    "name": "Derwaza Lounge - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "e17835cc",
+    "detail": "DUPLICATA da Derwaza Lounge no T1 de KWI (ver registro id e17835cc 'Derwaza Lounge Emirates'). Mesma sala, ambos rotulados 'Emirates' indevidamente - consolidar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ed76ad1b-cec7-4455-86e2-cc8405423826",
+    "name": "VIP Lounge - Helsinki (generico - a verificar)",
+    "airport_iata": "HEL",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: nao ha sala chamada 'VIP Lounge' em HEL. O aeroporto tem Aspire (Gate 13/Gate 27), Plaza Premium, OP Lounge e as salas Finnair. Nome generico - provavel duplicata de uma dessas (Aspire/Plaza Premium via Priority Pass). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "82f38fd0-62c0-4de3-8af1-562e140928c1",
+    "name": "GRU Lounge (ex-Star Alliance Lounge) - Guarulhos (T3)",
+    "airport_iata": "GRU",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO de nome: a antiga 'Star Alliance Lounge' do T3 de GRU encerrou a marca Star Alliance e passou a ser o 'GRU Lounge' / Espaco Banco Safra (mezanino, apos seguranca, internacional). Ainda usada por cias Star Alliance (Lufthansa, Swiss, TAP, Turkish, Copa, Air Canada, Ethiopian); 12:00-03:00. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "aa06e60a-59d8-4d7f-a1c9-e2fdd01e19af",
+    "name": "Area de Fumantes (IGA Lounge) - Istanbul",
+    "airport_iata": "IST",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA: 'Smoking Area' e o terraco de fumantes (com aquecimento) dentro da IGA Lounge International de IST, nao uma sala VIP propria. A sala em si e a IGA Lounge (registro distinto). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f54d78eb-826f-4da7-a4ac-a7eb1c6a2442",
+    "name": "Capital One Lounge - New York JFK (T4)",
+    "airport_iata": "JFK",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO de nome: no JFK T4 a unidade e a Capital One Lounge (flagship 24h), nao a versao reduzida 'Landing'. Nivel 3 do Retail Hall, perto dos gates B. Acesso para Venture X e Priority Pass selecionado; pago ~USD 90. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "770a4848-fbad-4ad6-9276-4c7d15c3979e",
+    "name": "The Emirates Lounge - London Gatwick (North Terminal)",
+    "airport_iata": "LGW",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO de terminal: o registro indica South Terminal, mas a Emirates Lounge de Gatwick fica no NORTH Terminal (Emirates opera no North). Acesso Skywards Gold/Platinum, Business/First e economy pago. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "8d82808b-572a-4a02-a29e-9b5d327f4168",
+    "name": "British Airways Lounge - New York JFK (T8)",
+    "airport_iata": "JFK",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO de terminal/nome: o registro cita T7 ('JFK T7'), mas a antiga Galleries do Terminal 7 encerrou e a BA opera no Terminal 8 desde dez/2022 (salas Chelsea/Soho/Greenwich com AA). Acesso First/Club World + oneworld Emerald/Sapphire. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a4810211-6b80-409c-8fcd-2dad5dd3a447",
+    "name": "Smoking Lounge - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: trata-se da area/sala de fumantes do Terminal 1 de Kuwait, nao de um lounge de cortesia. Sem servicos, acesso ou amenidades de sala VIP. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c2733c36-1b00-4132-8576-011092bd259c",
+    "name": "Mastercard Black Lounge - Guarulhos (T2 Domestico)",
+    "airport_iata": "GRU",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "CONFLITO: a Mastercard Black Lounge de GRU fica no Terminal 3 (internacional), nao no Terminal 2 domestico. No T2 domestico as salas Mastercard Black sao a Banco Inter VIP Lounge / Advantage, nao uma 'Mastercard Black Lounge' propria. Provavel registro com terminal errado/duplicata do lounge do T3. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ea9f86ce-e066-4684-baba-45e0f4732b55",
+    "name": "Smoking Lounge - Kuwait (KWI)",
+    "airport_iata": "KWI",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: trata-se de uma sala/area de fumantes do aeroporto de Kuwait (ex.: em frente ao gate B5), aberta a todos, sem servicos de lounge. Nao deve constar como lounge no indice. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1bf3cc62-84db-4f1e-80b3-c4db9339fcf1",
+    "name": "VIP Lounge JED (generico - a verificar)",
+    "airport_iata": "JED",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: 'VIP Lounge JED' e nome generico sem terminal definido. JED tem varias salas (Alfursan, GVIP/executive office, Plaza Premium). Provavel duplicata/registro generico - identificar a qual aponta. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "14b5e1d9-bec5-4c9e-b267-37537e0e5789",
+    "name": "Transfer Lounge (area de transito) - Seoul Incheon (T2)",
+    "airport_iata": "ICN",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Transfer Lounge' do T2 de ICN e uma area gratuita de descanso/transito (poltronas reclinaveis, zona de soneca, chuveiros) do aeroporto para conexoes, nao um lounge premium. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "c2d83dae-bc02-427b-9237-654a32bcbb37",
+    "name": "Plaza Premium Lounge - KUL Satellite (FECHADO)",
+    "airport_iata": "KUL",
+    "issue_type": "closed",
+    "recommended_action": "disable",
+    "related_id_hint": null,
+    "detail": "FECHADO PERMANENTEMENTE: a Plaza Premium Lounge do Satellite Building (KLIA T1, gates C11-17) encerrou; clientes redirecionados para a Plaza Premium Lounge do Contact Pier (perto do gate G). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "50587e28-efc5-4d45-90d0-5ae090b6279a",
+    "name": "Pearl Lounge (Mastercard) - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "CONFLITO/DUPLICATA: 'Master Card Lounge KWI' e nome generico; a sala Mastercard no T1 de KWI e a Pearl Lounge (gates 21-22), tambem na rede DragonPass/Priority Pass. Ha tambem a Pearl Metro Lounge no mesmo terminal. Consolidar com registro Pearl Lounge. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f0030d39-ddab-4b3c-96b6-969cad54e12d",
+    "name": "Finnair Lounge (Schengen) - Platinum/Lumo Corner - Helsinki",
+    "airport_iata": "HEL",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "DUPLICATA: o 'Lumo Area' e a area exclusiva Platinum/Lumo Corner dentro da Finnair Lounge Schengen (perto do gate 21), nao uma sala separada. Mesma sala do registro 2fb0ee10 (Finnair Lounge Schengen). So Finnair Platinum/Lumo e oneworld Emerald. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "208bcef1-ab45-4ab5-aa9c-d71d4dfb7f0d",
+    "name": "GVIP Lounge (Executive Office / المكتب التنفيذي) - Jeddah",
+    "airport_iata": "JED",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP comum: 'GVIP / المكتب التنفيذي' e o terminal/salao executivo (Executive Office) de JED (~4.000 m2, area comercial, restaurantes, sala de reuniao, oracao), nao um lounge de embarque tradicional. Acesso premium/meet&greet (DragonPass). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e5082975-b5be-4243-862b-cdb6682f5f00",
+    "name": "Living Heineken - Guarulhos T2 (bar, nao e lounge)",
+    "airport_iata": "GRU",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken (voucher de consumo). 6o registro deste tipo (CNF/BSB/CWB/FLN/GRU-T3). Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2346f1bb-b4dc-4d8a-96bd-220ef3bd91c2",
+    "name": "VIP Lounge (귀빈실) Incheon (sala protocolar - a verificar)",
+    "airport_iata": "ICN",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP comercial: '귀빈실' (gwibinsil) e uma sala protocolar/estatal para autoridades/CIP em ICN, nao um lounge acessivel por cartao/programa. Remover/recategorizar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "4215c75e-71fd-42dd-8420-a809920e0b1b",
+    "name": "Terral Taxi Aereo - Fortaleza (FBO, nao e lounge comercial)",
+    "airport_iata": "FOR",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP comercial: 'Terral Taxi Aereo' e uma empresa de taxi aereo / FBO executivo em Fortaleza, nao um lounge de embarque acessivel por cartao/programa. Remover/recategorizar. Foto anterior generica removida."
   }
 ]

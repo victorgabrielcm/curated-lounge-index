@@ -1,0 +1,461 @@
+[
+  {
+    "lounge_id": "39f124a5-6a49-41f5-b9d8-87f6f1447e73",
+    "name": "Finnair Lounge (Non-Schengen) - Helsinki",
+    "airport_iata": "HEL",
+    "airport_name": "Helsinki Airport (HEL)",
+    "terminal": "Main Terminal (Non-Schengen)",
+    "location_description": "Area non-Schengen. Inclui a Finnair Platinum Wing (First/Platinum) ao lado.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "spa",
+      "sleep_area",
+      "relaxation_area",
+      "workspace",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.finnair.com/",
+    "operator": "Finnair",
+    "source_urls": [
+      "https://www.finnair.com/en/flying-with-finnair/at-the-airport/finnair-lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Finnair Lounge non-Schengen (com sauna; Platinum Wing anexa para First/oneworld Emerald). Distinta da Finnair Lounge Schengen (#331 id 2fb0ee10). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0478e884-692f-4bcc-9124-364b0647fdf0",
+    "name": "Sky Hub Lounge (East) - Seoul Incheon (T1)",
+    "airport_iata": "ICN",
+    "airport_name": "Incheon International Airport (Seoul)",
+    "terminal": "Terminal 1 (East Wing)",
+    "location_description": "Airside East Wing, 4o andar, apos o controle de passaportes, em frente ao balcao de informacoes (perto do gate 25).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "diners_club",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 300,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/south-korea/seoul-incheon-international/icn8-sky-hub-lounge",
+    "operator": "Sky Hub Lounge",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/south-korea/seoul-incheon-international/icn8-sky-hub-lounge",
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/ICN/sky-hub-lounge-east-terminal-1-ywDSmarELe/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Sky Hub Lounge (East Wing, T1) - sala contratada Priority Pass; sem area infantil; max 5h. ICN T1 tem multiplas Sky Hub (East/West/Concourse). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e5082975-b5be-4243-862b-cdb6682f5f00",
+    "name": "Living Heineken - Guarulhos T2 (bar, nao e lounge)",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 2",
+    "location_description": "Area de embarque domestico (T2), proximo ao portao - bar/restaurante da marca Heineken.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "bar"
+    ],
+    "accepted_programs": [
+      "lounge_voucher",
+      "visa_airport_companion",
+      "priority_pass"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Voucher de consumo via Visa Airport Companion / Priority Pass (credito), nao acesso a sala VIP.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": "Heineken/concessionaria",
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO E UMA SALA VIP: 'Living Heineken' e um bar/restaurante da Heineken (voucher de consumo). 6o registro deste tipo (CNF/BSB/CWB/FLN/GRU-T3). Recomendado remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e11d6b08-7382-4c9c-a169-5b6e3e9ea35a",
+    "name": "Plaza Premium Lounge (East Hall, Gate 1) - Hong Kong",
+    "airport_iata": "HKG",
+    "airport_name": "Hong Kong International Airport (HKG)",
+    "terminal": "Terminal 1 (East Hall)",
+    "location_description": "Terminal 1, East Hall, proximo ao gate 1 (Departures Level L6).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/en-uk/find/china-regions/hong-kong/hong-kong/hong-kong-international-airport",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.americanexpress.com/en-us/travel/lounges/the-platinum-card/HKG/Plaza-Premium-Lounge-Gate-1--Terminal-1-K0i6vdHDXT/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "Plaza Premium East Hall (gate 1, L6), 24h. Distinta da West Hall/gate 60 (#325) e do gate 35 (#330). Ha tambem Plaza Premium First East Hall. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2346f1bb-b4dc-4d8a-96bd-220ef3bd91c2",
+    "name": "VIP Lounge (귀빈실) Incheon (sala protocolar - a verificar)",
+    "airport_iata": "ICN",
+    "airport_name": "Incheon International Airport (Seoul)",
+    "terminal": "Main Terminal",
+    "location_description": "'귀빈실' = sala VIP protocolar/estatal (CIP/autoridades), nao um lounge comercial de embarque.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 16,
+    "notes": "NAO E UMA SALA VIP comercial: '귀빈실' (gwibinsil) e uma sala protocolar/estatal para autoridades/CIP em ICN, nao um lounge acessivel por cartao/programa. Remover/recategorizar/verificar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3925c0ac-d30a-454c-9c09-95abab26e298",
+    "name": "Pearl Lounge - Kuwait (T1)",
+    "airport_iata": "KWI",
+    "airport_name": "Kuwait International Airport (KWI)",
+    "terminal": "Terminal 1",
+    "location_description": "Airside, Terminal 1, 2o andar (apos a imigracao, virar a esquerda; em frente ao gate 2, perto dos gates 19-20).",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "kids_area",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "diners_club",
+      "business_class",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": "Acesso pago ~KWD 10 / USD 32.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/kuwait/kuwait-international/kwi2-pearl-lounge",
+    "operator": "Pearl Lounge",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/kuwait/kuwait-international/kwi2-pearl-lounge",
+      "https://www.sleepinginairports.net/lounge/kuwait-city-airport/pearl-lounge-kwi.htm"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Pearl Lounge (T1, KWI), 24h, buffet multi-culinaria. Sala de fumantes separada. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "58098d70-13cc-4c92-a839-341097aea570",
+    "name": "Ambaar Club - Fortaleza (Domestico)",
+    "airport_iata": "FOR",
+    "airport_name": "Aeroporto Internacional de Fortaleza (Pinto Martins)",
+    "terminal": "Terminal 1 (Domestico)",
+    "location_description": "Area pos-embarque domestico, Terminal 1, apos o raio-x, ao lado do gate 8.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "coffee",
+      "kids_area",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "diners_club",
+      "bradesco_elo_nanquim",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://ambaarlounge.com/en/sala-fortaleza-domestico/",
+    "operator": "Ambaar Lounge",
+    "source_urls": [
+      "https://ambaarlounge.com/en/sala-fortaleza-domestico/",
+      "https://pontospravoar.com/sala-vip-ambaar-club-aeroporto-fortaleza-formas-acesso-servicos-oferecidos/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "Ambaar Club Fortaleza (domestico, perto do gate 8), 24h, max 4h. Ha tambem a unidade internacional (perto do gate 3). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "d40a41d4-d28f-4ae0-b364-6eef2bac863d",
+    "name": "Lufthansa Senator Lounge - Frankfurt (T1 Z, non-Schengen)",
+    "airport_iata": "FRA",
+    "airport_name": "Frankfurt Airport (FRA)",
+    "terminal": "Terminal 1, Concourse Z (non-Schengen)",
+    "location_description": "Terminal 1, Concourse Z (area non-Schengen). Senator Lounge da Lufthansa.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_first",
+      "star_alliance_gold",
+      "miles_and_more_senator",
+      "lufthansa_first"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.lufthansa.com/de/en/lounges",
+    "operator": "Lufthansa",
+    "source_urls": [
+      "https://www.lufthansa.com/de/en/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 54,
+    "notes": "Lufthansa Senator Lounge no Concourse Z (T1, non-Schengen), para Star Alliance Gold/Senator. FRA tem multiplas LH lounges (Senator/Business/First) em varios concourses. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3caea2a0-2170-4aa1-9823-ae72e351f719",
+    "name": "Escape Lounge - Edinburgh",
+    "airport_iata": "EDI",
+    "airport_name": "Edinburgh Airport (EDI)",
+    "terminal": "Main Terminal",
+    "location_description": "Terminal principal de Edimburgo, airside (apos a seguranca).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "workspace",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "http://www.escapelounges.com/",
+    "operator": "Escape Lounges",
+    "source_urls": [
+      "http://www.escapelounges.com/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "Escape Lounge em Edimburgo - sala contratada Priority Pass. Distinta da Plaza Premium EDI (#223 id 0f17bde9). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "4215c75e-71fd-42dd-8420-a809920e0b1b",
+    "name": "Terral Taxi Aereo - Fortaleza (FBO, nao e lounge comercial)",
+    "airport_iata": "FOR",
+    "airport_name": "Aeroporto Internacional de Fortaleza (Pinto Martins)",
+    "terminal": "Aviacao Geral (FBO)",
+    "location_description": "Terminal de aviacao geral / FBO executivo (Jetfor Aviation) - para jatos/taxi aereo, nao embarque comercial.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "http://terraltaxiaereo.com.br/",
+    "operator": "Terral Taxi Aereo (Jetfor Aviation)",
+    "source_urls": [
+      "http://terraltaxiaereo.com.br/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 12,
+    "notes": "NAO E UMA SALA VIP comercial: 'Terral Taxi Aereo' e uma empresa de taxi aereo / FBO executivo em Fortaleza, nao um lounge de embarque acessivel por cartao/programa. Remover/recategorizar. Foto anterior generica removida."
+  }
+]
