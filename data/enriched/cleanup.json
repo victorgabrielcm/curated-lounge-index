@@ -2176,5 +2176,77 @@
     "recommended_action": "disable",
     "related_id_hint": null,
     "detail": "FECHADO PERMANENTEMENTE: a Club S.E.A. - Sala Respighi no T1 de Malpensa (landside) encerrou em 2022 e nao reabriu. Antes aceitava Priority Pass e pagantes. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "78e6aec4-f6f3-4449-bf46-be58d86ae5eb",
+    "name": "TAP Lounge",
+    "airport_iata": "ORY",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "Sala TAP no Terminal 2 de Orly. TAP opera voos Paris–Lisboa a partir de ORY. Acesso para passageiros TAP Business e titulares de cartão Victoria Gold. VERIFICAR EXISTENCIA: confirmar se TAP mantém sala própria em ORY ou utiliza sala parceira. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "43bc758f-4d7b-4466-a516-5acc26ba86b9",
+    "name": "Elite Lounge MasterCard",
+    "airport_iata": "MEX",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "Elite Lounge com patrocínio Mastercard no Terminal 1 do Aeroporto Internacional da Cidade do México. Acesso prioritário para titulares de cartões Mastercard Black. VERIFICAR EXISTENCIA: confirmar operação atual sob este nome. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "b913dafb-25c4-41ab-9e1e-8fc9fa7a7c7a",
+    "name": "OSL Lounge domestic",
+    "airport_iata": "OSL",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "Sala VIP no terminal doméstico do Aeroporto de Oslo Gardermoen. Acesso para portadores de cartões elegíveis e membros SAS EuroBonus Gold em voos domésticos. VERIFICAR EXISTENCIA: confirmar nome/operador atual. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "6b6dfcbe-2996-4d7b-80be-04e160f9102f",
+    "name": "Business Lounge",
+    "airport_iata": "ORY",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "Business Lounge genérica no Terminal 3 do Aeroporto de Paris-Orly. Nome muito genérico; VERIFICAR EXISTENCIA para confirmar operador e nome atual. Aceita principais programas de acesso. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "977a2bb8-0280-4c2a-9cf1-77af05eaa902",
+    "name": "Sumaq Lounge LIM",
+    "airport_iata": "LIM",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "Sumaq Lounge no terminal internacional do Aeroporto Jorge Chávez de Lima. Sala independente com refeições, bebidas e duchas. DUPLICATA: verificar se é o mesmo espaço que Sumaq VIP Lounge & Business Center (fc38863c). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "0925dc06-d72d-4da7-8a4d-a4af5ce47708",
+    "name": "Sala VIP Londrina",
+    "airport_iata": "LDB",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "Sala VIP no Aeroporto de Londrina (Governador José Richa) no Paraná. Estrutura simples para embarque doméstico. VERIFICAR EXISTENCIA: confirmar operação atual e operador. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "90e125bc-156e-45dc-8cf5-755e13a90747",
+    "name": "ANA Lounge OPO",
+    "airport_iata": "OPO",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: ANA (All Nippon Airways) não opera voos para Porto Alegre (POA) — este registro aparenta referenciar o Aeroporto Francisco Sá Carneiro em Porto, Portugal (OPO). ANA também não opera rotas para OPO. Muito provavelmente trata-se de erro de cadastro ou sala inexistente. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "67755391-8e12-432a-b564-fffb0dce5331",
+    "name": "LATAM VIP Lounge SDU",
+    "airport_iata": "SDU",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": null,
+    "detail": "DUPLICATA provável: registro muito similar à 'Sala VIP LATAM · Santos Dumont' (f62fa434) — mesma companhia, mesmo aeroporto (SDU), mesmo terminal. Verificar se são salas distintas ou duplicação. Foto anterior generica removida."
   }
 ]
