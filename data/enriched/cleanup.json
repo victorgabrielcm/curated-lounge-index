@@ -1339,5 +1339,32 @@
     "recommended_action": "disable_or_verify",
     "related_id_hint": null,
     "detail": "Sala propria da Cathay Pacific no Concourse G (oneworld First/Business). Diferente do caso de BAH (#280), onde a Cathay nao opera sala propria. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1c5906dd-0bb8-4a37-8aac-bbce44719214",
+    "name": "LATAM VIP Lounge CGH (a verificar - usa Advantage)",
+    "airport_iata": "CGH",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "VERIFICAR EXISTENCIA: nao ha sala LATAM exclusiva em CGH. Congonhas tem Advantage VIP (#256/#300/#313), Bradesco, BRB Coworking e Bluma. LATAM Pass Black acessa salas parceiras. Provavel mapeamento incorreto - mesclar com a Advantage. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "21712dc8-f8ae-468b-a396-e9288ea539e2",
+    "name": "Etihad First Class Lounge & Spa AUH (T3 -> Terminal A)",
+    "airport_iata": "AUH",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO: a First Class Lounge & Spa da Etihad ficava no Terminal 3 (encerrado em nov/2023). A First Lounge atual (e a The Residence) ficam no Terminal A. Atualizar terminal/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1a1ce8ce-7bca-4533-b5e6-e21ae6af2a6c",
+    "name": "VIP Club Express - Brasilia (Pier Norte/Sul)",
+    "airport_iata": "BSB",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "b2fa6779",
+    "detail": "DUPLICATA/variante: 'VIP Club Express' (Piers Norte/Sul) e extensao do Aeroportos VIP Club de BSB (#235 id b2fa6779). Consolidar com os demais registros VIP Club de Brasilia. Foto anterior generica removida."
   }
 ]

@@ -1,0 +1,479 @@
+[
+  {
+    "lounge_id": "8fb48417-671c-4ddd-867d-a55f679637f8",
+    "name": "Etihad Business Class Lounge - Abu Dhabi (Terminal A)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal A",
+    "location_description": "Terminal A (lado norte, entre os Piers C e D). Mega-lounge de 3 andares, ate 1.000 hospedes.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "spa",
+      "kids_area",
+      "relaxation_area",
+      "workspace",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "etihad_business",
+      "etihad_first",
+      "etihad_status",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.etihad.com/en/plan/fly-with-etihad/lounges",
+    "operator": "Etihad Airways",
+    "source_urls": [
+      "https://www.etihad.com/en/news/etihad-airways-unveils-stunning-new-lounges-at-abu-dhabi-internationals-new-terminal-a",
+      "https://onemileatatime.com/reviews/etihad-business-class-lounge-abu-dhabi/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 58,
+    "notes": "Lounge Business da Etihad no novo Terminal A (entre Piers C/D) - REGISTRO CANONICO (vs registros T1/T3 desatualizados: #296 id 3b3f7ecd, #307 id 50291333, #230). Possivel relacao com #156 'Etihad Premium Lounge Terminal A'. Consolidar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "533f5f99-16e1-47b6-830b-c4a0e1fd646f",
+    "name": "Premium VIP Lounge - Barcelona T1",
+    "airport_iata": "BCN",
+    "airport_name": "Aeroporto de Barcelona-El Prat (Josep Tarradellas)",
+    "terminal": "Terminal 1",
+    "location_description": "Area do hall de chegadas, perto do Business Center e do Air Shuttle (Pont Aeri) BCN-MAD.",
+    "hours_open_text": "05:00-00:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "sleep_area",
+      "private_rooms",
+      "luggage_storage",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 240,
+    "children_policy": "Criancas <12 gratis com adulto.",
+    "guest_policy": null,
+    "voucher_info": "Priority Pass gratis; acesso avulso ~EUR 90.",
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/lounges/spain/barcelona-el-prat/bcn12-premium-vip-lounge",
+    "operator": "Aena",
+    "source_urls": [
+      "https://www.prioritypass.com/lounges/spain/barcelona-el-prat/bcn12-premium-vip-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "'Premium VIP Lounge' (T1, area de chegadas/Business Center): tem quartos, day beds, academia e chuveiros. Priority Pass ou ~EUR 90. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1c5906dd-0bb8-4a37-8aac-bbce44719214",
+    "name": "LATAM VIP Lounge CGH (a verificar - usa Advantage)",
+    "airport_iata": "CGH",
+    "airport_name": "Aeroporto de Sao Paulo/Congonhas (CGH)",
+    "terminal": "Terminal Unico",
+    "location_description": "Nao ha sala LATAM exclusiva em CGH. Lounges: Advantage VIP, Bradesco, BRB Coworking, Bluma.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "latam_pass_black",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [
+      "https://www.prioritypass.com/pt-BR/lounges/brazil/sao-paulo-congonhas/cgh-advantage-vip-lounge"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 26,
+    "notes": "VERIFICAR EXISTENCIA: nao ha sala LATAM exclusiva em CGH. Congonhas tem Advantage VIP (#256/#300/#313), Bradesco, BRB Coworking e Bluma. LATAM Pass Black acessa salas parceiras. Provavel mapeamento incorreto - mesclar com a Advantage. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "103deb45-a354-4a9d-8011-5ea44a70ca1c",
+    "name": "R12 Sports Lounge - Bahrain",
+    "airport_iata": "BAH",
+    "airport_name": "Bahrain International Airport (BAH)",
+    "terminal": "Departures",
+    "location_description": "Area de partidas (airside), com vista para a pista/concourse. Sports lounge/bar.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.bahrainairport.bh/at-the-airport/dining-restaurants/r12-sports-lounge",
+    "operator": "SSP",
+    "source_urls": [
+      "https://www.bahrainairport.bh/at-the-airport/dining-restaurants/r12-sports-lounge",
+      "https://www.foodtravelexperts.com/news-and-insights/2023/ssp-launches-new-r12-sports-lounge-at-bahrain-international-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 42,
+    "notes": "'R12' (Runway 12) e um sports lounge/bar (SSP) com esportes ao vivo 24/7, 148 lugares e sala de fumantes. Acesso pago (F&B), nao um lounge premium tradicional de programa. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "21712dc8-f8ae-468b-a396-e9288ea539e2",
+    "name": "Etihad First Class Lounge & Spa AUH (T3 -> Terminal A)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal 3 (encerrado) / Terminal A",
+    "location_description": "A First Class Lounge & Spa ficava no Terminal 3 (1o andar, encerrado). A First Lounge atual e a The Residence ficam no Terminal A.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "a_la_carte_dining",
+      "champagne",
+      "spa",
+      "shower",
+      "sleep_rooms",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "etihad_first",
+      "etihad_status"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.etihad.com/en/fly-etihad/experience/first/the-residence",
+    "operator": "Etihad Airways",
+    "source_urls": [
+      "https://loungereview.com/lounges/etihad-first-class-lounge-auh-terminal-3/",
+      "https://www.etihad.com/en/news/etihad-airways-unveils-stunning-new-lounges-at-abu-dhabi-internationals-new-terminal-a"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "CONFLITO: a First Class Lounge & Spa da Etihad ficava no Terminal 3 (encerrado em nov/2023). A First Lounge atual (e a The Residence) ficam no Terminal A. Atualizar terminal/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "1a1ce8ce-7bca-4533-b5e6-e21ae6af2a6c",
+    "name": "VIP Club Express - Brasilia (Pier Norte/Sul)",
+    "airport_iata": "BSB",
+    "airport_name": "Aeroporto Internacional de Brasilia (Juscelino Kubitschek)",
+    "terminal": "Terminal 1",
+    "location_description": "Extensoes 'Express' do Aeroportos VIP Club nos Piers Norte e Sul.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "dragonpass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.bsb.aero/salavip",
+    "operator": "Aeroportos VIP Club",
+    "source_urls": [
+      "https://www.bsb.aero/br/sala-vip/expressclub/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "DUPLICATA/variante: 'VIP Club Express' (Piers Norte/Sul) e extensao do Aeroportos VIP Club de BSB (#235 id b2fa6779). Consolidar com os demais registros VIP Club de Brasilia. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "7bffb9f2-9670-4348-9de4-915682b2082e",
+    "name": "GRU Lounge (Plaza Premium) - Sao Paulo T2 Domestico",
+    "airport_iata": "GRU",
+    "airport_name": "Aeroporto Internacional de Sao Paulo/Guarulhos (GRU)",
+    "terminal": "Terminal 2 (Domestico)",
+    "location_description": "Terminal 2, apos o controle de seguranca, area de embarque domestico.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plaza-network.com",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://www.gru.com.br/en/passenger/discover-gru/relax/vip-lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "GRU Lounge (Plaza Premium) no Terminal 2 domestico de Guarulhos. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "5d03c2b1-f9df-4fe5-870f-640e3afe4bb1",
+    "name": "The Qantas Hong Kong Lounge",
+    "airport_iata": "HKG",
+    "airport_name": "Hong Kong International Airport (HKG)",
+    "terminal": "Terminal 1",
+    "location_description": "Terminal 1, Nivel 7, proximo ao gate 15.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "qantas_first",
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "http://www.qantas.com.au/travel/airlines/lounge-locations/hong-kong/",
+    "operator": "Qantas",
+    "source_urls": [
+      "http://www.qantas.com.au/travel/airlines/lounge-locations/hong-kong/terminal-1/international-lounge-the-qantas-hong-kong-lounge/global/en"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 56,
+    "notes": "The Qantas Hong Kong Lounge (T1, Nivel 7, perto do gate 15) - para oneworld First/Business e Emerald/Sapphire. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "998a8440-0a98-4b07-a1cb-7318bf7beeaa",
+    "name": "MAS Golden Lounge (Regional) - Kuala Lumpur",
+    "airport_iata": "KUL",
+    "airport_name": "Kuala Lumpur International Airport (KUL)",
+    "terminal": "KLIA Main (Contact Pier)",
+    "location_description": "KLIA, nivel domestico, Contact Pier (LNG10). Golden Lounge Regional da Malaysia Airlines.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "oneworld_emerald",
+      "oneworld_sapphire",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "http://www.malaysiaairlines.com",
+    "operator": "Malaysia Airlines",
+    "source_urls": [
+      "https://www.malaysiaairlines.com/my/en/fly-with-us/golden-lounge.html"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 50,
+    "notes": "Golden Lounge Regional da Malaysia Airlines no KLIA (Contact Pier). Ha tambem a Golden Lounge Satellite (internacional/First). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "f06e76bb-15c3-41a7-9437-7ddc6170f05a",
+    "name": "Aspire Lounge @ Gate 13 - Helsinki",
+    "airport_iata": "HEL",
+    "airport_name": "Helsinki Airport (HEL)",
+    "terminal": "Main Terminal (Gate 13)",
+    "location_description": "Proximo ao gate 13 (area non-Schengen). Sala Aspire.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "dragonpass",
+      "loungekey",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aspirelounges.com/",
+    "operator": "Aspire",
+    "source_urls": [
+      "https://www.finavia.fi/en/airports/helsinki-airport/services/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 48,
+    "notes": "Aspire Lounge em Helsinki (perto do gate 13). Sala contratada Priority Pass. Foto anterior generica removida."
+  }
+]
