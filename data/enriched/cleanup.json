@@ -1213,5 +1213,86 @@
     "recommended_action": "merge",
     "related_id_hint": "3a5d49c9",
     "detail": "DUPLICATA do #233 'American Express Lounge by Pontus Frithiof ARN' (id 3a5d49c9, batch 24). Mesma sala Amex no T5. Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "06025343-c645-4f34-9266-308ef9cb7879",
+    "name": "American Express Lounge - Mumbai T2 (a verificar marca)",
+    "airport_iata": "BOM",
+    "issue_type": "data_conflict",
+    "recommended_action": "fix",
+    "related_id_hint": null,
+    "detail": "CONFLITO/VERIFICAR: nao ha mais uma 'American Express Platinum Lounge' autonoma em BOM; a Amex India usa o Centurion Lounge (T2 domestico) e salas parceiras (Adani East intl, Travel Club). O registro provavelmente corresponde ao antigo lounge Amex (hoje Centurion/Travel Club). Mapear/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e3c603b9-ae58-4b54-9174-5c0ba087f823",
+    "name": "General Aviation VIP Lounge ATH (FBO, nao e lounge comercial)",
+    "airport_iata": "ATH",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP comercial: e a sala do terminal de Aviacao Geral (FBO, Universal Aviation) para jatos privados, nao um lounge de embarque comercial acessivel por cartao/programa. Remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e175898a-b896-4a0f-b4cb-275bcf56ccb2",
+    "name": "Al Dhabi Lounge AUH (duplicata)",
+    "airport_iata": "AUH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "59ba2850",
+    "detail": "DUPLICATA do #285 'Al Dhabi Lounge' (id 59ba2850, batch 29) - mesma sala (Plaza Premium, Terminal 1 encerrado em nov/2023). Mesclar/desativar; operacao atual no Pearl Lounge do Terminal A (#254). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e74fb9bf-77a1-49f7-8203-925d500155e8",
+    "name": "Air France Lounge ARN T2 (a verificar - usa Pearl Lounge)",
+    "airport_iata": "ARN",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": "d4c76b60",
+    "detail": "A Air France NAO OPERA sala propria em ARN T2; passageiros AF/SkyTeam usam a Pearl Lounge (Menzies, #289 id d4c76b60). Mapear/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ed48bbca-b99e-4ed5-913d-ebabc4ebbdb0",
+    "name": "Star Alliance VIP Lounge BCN (duplicata)",
+    "airport_iata": "BCN",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "71acf705",
+    "detail": "DUPLICATA do #265 'Star Alliance Lounge T1 BCN' (id 71acf705, batch 27) - nao ha Star Alliance dedicado em BCN; usa salas contratadas Aena (Pau Casals/Miro). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3b3f7ecd-013a-4cab-982f-40f071e68390",
+    "name": "Etihad Business Class Lounge AUH (T3 -> Terminal A)",
+    "airport_iata": "AUH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "bc8923fa",
+    "detail": "CONFLITO/DUPLICATA: lounge Business da Etihad indicado no Terminal 3 (encerrado em nov/2023); operacao atual no Terminal A (ver #156 id bc8923fa, batch 16). Atualizar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a6f1b7f5-37b5-4c9a-a23d-1a6221a64fb4",
+    "name": "Sala de Autoridades - Brasilia (nao e lounge comercial)",
+    "airport_iata": "BSB",
+    "issue_type": "not_a_lounge",
+    "recommended_action": "delete",
+    "related_id_hint": null,
+    "detail": "NAO E UMA SALA VIP comercial: 'Sala de Autoridades' destina-se a autoridades/governo, nao e um lounge acessivel por cartao/programa de fidelidade. Remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "75a8512f-f71c-4930-b0e2-861acda88f2f",
+    "name": "SAS Business Lounge BRU (a verificar - usa contratada)",
+    "airport_iata": "BRU",
+    "issue_type": "nonexistent",
+    "recommended_action": "disable_or_verify",
+    "related_id_hint": null,
+    "detail": "A SAS NAO OPERA sala propria em BRU; passageiros SAS usam sala contratada (THE LOFT/Star Alliance). Obs: SAS migrou da Star Alliance para a SkyTeam em set/2024. Mapear/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "03d4c86b-c5ab-43a7-b0b0-ff63ba428389",
+    "name": "Sala VIP Congonhas [Smiles Diamante] (duplicata)",
+    "airport_iata": "CGH",
+    "issue_type": "duplicate",
+    "recommended_action": "merge",
+    "related_id_hint": "2282c20e",
+    "detail": "DUPLICATA/VERIFICAR: em Congonhas, clientes Smiles Diamante acessam a mesma sala VIP (Advantage VIP/Coworking) usada por TudoAzul Diamante (#256 id 2282c20e, batch 26). O GOL Premium Lounge proprio fica em GRU/GIG, nao em CGH. Mesclar. Foto anterior generica removida."
   }
 ]

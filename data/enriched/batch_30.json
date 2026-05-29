@@ -1,0 +1,447 @@
+[
+  {
+    "lounge_id": "06025343-c645-4f34-9266-308ef9cb7879",
+    "name": "American Express Lounge - Mumbai T2 (a verificar marca)",
+    "airport_iata": "BOM",
+    "airport_name": "Chhatrapati Shivaji Maharaj International Airport (Mumbai)",
+    "terminal": "Terminal 2",
+    "location_description": "Terminal 2. A Amex India usa o Centurion Lounge (T2 domestico), Adani Lounge East (internacional) e Travel Club.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "amex_platinum",
+      "amex_centurion",
+      "amex_business_platinum"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/BOM/",
+    "operator": "American Express",
+    "source_urls": [
+      "https://www.americanexpress.com/en-in/travel/lounges/the-platinum-card/BOM/",
+      "https://www.cardexpert.in/american-express-lounge-mumbai-t2-domestic-review/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 38,
+    "notes": "CONFLITO/VERIFICAR: nao ha mais uma 'American Express Platinum Lounge' autonoma em BOM; a Amex India usa o Centurion Lounge (T2 domestico) e salas parceiras (Adani East intl, Travel Club). O registro provavelmente corresponde ao antigo lounge Amex (hoje Centurion/Travel Club). Mapear/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e3c603b9-ae58-4b54-9174-5c0ba087f823",
+    "name": "General Aviation VIP Lounge ATH (FBO, nao e lounge comercial)",
+    "airport_iata": "ATH",
+    "airport_name": "Athens International Airport (ATH)",
+    "terminal": "General Aviation Terminal",
+    "location_description": "Terminal de Aviacao Geral (FBO, Universal Aviation) - para jatos privados.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.universalaviation.aero/locations/greece/athens-lgav",
+    "operator": "Universal Aviation",
+    "source_urls": [
+      "https://www.universalaviation.aero/locations/greece/athens-lgav"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO E UMA SALA VIP comercial: e a sala do terminal de Aviacao Geral (FBO, Universal Aviation) para jatos privados, nao um lounge de embarque comercial acessivel por cartao/programa. Remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e175898a-b896-4a0f-b4cb-275bcf56ccb2",
+    "name": "Al Dhabi Lounge AUH (duplicata)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal 1 (encerrado)",
+    "location_description": "Antigo Terminal 1 (encerrado em nov/2023).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "shower",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.plazapremiumlounge.com/",
+    "operator": "Plaza Premium Group",
+    "source_urls": [
+      "https://thepointshabibi.com/2019/02/07/auh-alreem-aldhabi-airport-lounge-review/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 22,
+    "notes": "DUPLICATA do #285 'Al Dhabi Lounge' (id 59ba2850, batch 29) - mesma sala (Plaza Premium, Terminal 1 encerrado em nov/2023). Mesclar/desativar; operacao atual no Pearl Lounge do Terminal A (#254). Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "e74fb9bf-77a1-49f7-8203-925d500155e8",
+    "name": "Air France Lounge ARN T2 (a verificar - usa Pearl Lounge)",
+    "airport_iata": "ARN",
+    "airport_name": "Stockholm Arlanda Airport (ARN)",
+    "terminal": "Terminal 2",
+    "location_description": "A Air France nao opera sala propria em ARN T2; usa a Pearl Lounge (Menzies, contrato SkyTeam).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "flying_blue",
+      "air_france_business",
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://wwws.airfrance.se/information/prepare/salons",
+    "operator": "Menzies (Pearl Lounge)",
+    "source_urls": [
+      "https://www.loungepair.com/guides/guide-pearl-lounges-stockholm-arlanda-airport/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 30,
+    "notes": "A Air France NAO OPERA sala propria em ARN T2; passageiros AF/SkyTeam usam a Pearl Lounge (Menzies, #289 id d4c76b60). Mapear/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "ed48bbca-b99e-4ed5-913d-ebabc4ebbdb0",
+    "name": "Star Alliance VIP Lounge BCN (duplicata)",
+    "airport_iata": "BCN",
+    "airport_name": "Aeroporto de Barcelona-El Prat (Josep Tarradellas)",
+    "terminal": "Terminal 1",
+    "location_description": "Nao ha Star Alliance Lounge dedicado em BCN (usa Pau Casals/Miro).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "star_alliance_gold",
+      "star_alliance_business",
+      "priority_pass"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat/vip-services/vip-lounges/t1-vip-lounges.html",
+    "operator": "Aena (contratada)",
+    "source_urls": [
+      "https://www.aeropuertobarcelona-elprat.com/ingl/vip_lounges.htm"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 28,
+    "notes": "DUPLICATA do #265 'Star Alliance Lounge T1 BCN' (id 71acf705, batch 27) - nao ha Star Alliance dedicado em BCN; usa salas contratadas Aena (Pau Casals/Miro). Mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "3b3f7ecd-013a-4cab-982f-40f071e68390",
+    "name": "Etihad Business Class Lounge AUH (T3 -> Terminal A)",
+    "airport_iata": "AUH",
+    "airport_name": "Zayed International Airport (Abu Dhabi)",
+    "terminal": "Terminal 3 (encerrado) / Terminal A",
+    "location_description": "Lounge Business da Etihad indicado no antigo Terminal 3 (encerrado). Operacao atual no Terminal A.",
+    "hours_open_text": "24h",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": true,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "shower",
+      "spa",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "etihad_business",
+      "etihad_first",
+      "etihad_status",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.etihad.com/en-gb/fly-etihad/experience/premium/lounges",
+    "operator": "Etihad Airways",
+    "source_urls": [
+      "https://www.etihad.com/en-gb/fly-etihad/experience/premium/lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 40,
+    "notes": "CONFLITO/DUPLICATA: lounge Business da Etihad indicado no Terminal 3 (encerrado em nov/2023); operacao atual no Terminal A (ver #156 id bc8923fa, batch 16). Atualizar/mesclar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "a6f1b7f5-37b5-4c9a-a23d-1a6221a64fb4",
+    "name": "Sala de Autoridades - Brasilia (nao e lounge comercial)",
+    "airport_iata": "BSB",
+    "airport_name": "Aeroporto Internacional de Brasilia (Juscelino Kubitschek)",
+    "terminal": "Terminal 1",
+    "location_description": "Sala para autoridades/governo - nao e um lounge de acesso comercial.",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [],
+    "accepted_programs": [],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": null,
+    "operator": null,
+    "source_urls": [],
+    "last_verified": "2026-05-28",
+    "completeness_score": 15,
+    "notes": "NAO E UMA SALA VIP comercial: 'Sala de Autoridades' destina-se a autoridades/governo, nao e um lounge acessivel por cartao/programa de fidelidade. Remover/recategorizar. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "75a8512f-f71c-4930-b0e2-861acda88f2f",
+    "name": "SAS Business Lounge BRU (a verificar - usa contratada)",
+    "airport_iata": "BRU",
+    "airport_name": "Brussels Airport (BRU)",
+    "terminal": "Main Terminal",
+    "location_description": "A SAS nao opera sala propria em BRU; usa sala contratada (THE LOFT/Star Alliance).",
+    "hours_open_text": null,
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "sas_business",
+      "eurobonus_gold",
+      "skyteam_elite_plus",
+      "business_class"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.brusselsairlines.com/",
+    "operator": "contratada",
+    "source_urls": [
+      "https://www.brusselsairlines.com/us/en/extra-services/lounges/brussels-airport-lounges"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 28,
+    "notes": "A SAS NAO OPERA sala propria em BRU; passageiros SAS usam sala contratada (THE LOFT/Star Alliance). Obs: SAS migrou da Star Alliance para a SkyTeam em set/2024. Mapear/corrigir. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "2ddc8f51-a9d5-409a-9eff-eebcc027bd18",
+    "name": "Sala VIP Canudas - Barcelona T2 [BCN VIP Lounge]",
+    "airport_iata": "BCN",
+    "airport_name": "Aeroporto de Barcelona-El Prat (Josep Tarradellas)",
+    "terminal": "Terminal 2 (gates U)",
+    "location_description": "T2 airside, perto dos gates U. Apos a seguranca, passar o duty free e o restaurante 'Mussol' e virar a esquerda.",
+    "hours_open_text": "06:00-21:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "bar",
+      "wine",
+      "shower",
+      "tv",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "priority_pass",
+      "loungekey",
+      "amex_platinum",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": 180,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.prioritypass.com/en-GB/lounges/spain/barcelona-el-prat/bcn11-sala-vip-canudas",
+    "operator": "Aena",
+    "source_urls": [
+      "https://www.prioritypass.com/en-GB/lounges/spain/barcelona-el-prat/bcn11-sala-vip-canudas",
+      "https://upgradedpoints.com/travel/airports/barcelona-sala-vip-canudas-review/"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 52,
+    "notes": "'BCN VIP Lounge' (T2A) -> e a Sala VIP Canudas (Aena, gates U, T2). Corrigir nome. Foto anterior generica removida."
+  },
+  {
+    "lounge_id": "03d4c86b-c5ab-43a7-b0b0-ff63ba428389",
+    "name": "Sala VIP Congonhas [Smiles Diamante] (duplicata)",
+    "airport_iata": "CGH",
+    "airport_name": "Aeroporto de Sao Paulo/Congonhas (CGH)",
+    "terminal": "Terminal Unico",
+    "location_description": "Area de embarque domestico. Mesma sala VIP usada por TudoAzul e Smiles Diamante.",
+    "hours_open_text": "04:00-22:00",
+    "open_days": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "is_24h": false,
+    "amenities": [
+      "food",
+      "hot_food",
+      "bar",
+      "wine",
+      "tv",
+      "workspace",
+      "relaxation_area",
+      "wifi"
+    ],
+    "accepted_programs": [
+      "smiles_diamante",
+      "tudoazul_diamante",
+      "priority_pass",
+      "pay_per_use"
+    ],
+    "max_stay_minutes": null,
+    "children_policy": null,
+    "guest_policy": null,
+    "voucher_info": null,
+    "photo_urls": [],
+    "photo_quality": "none",
+    "website_url": "https://www.smiles.com.br/sala-vip",
+    "operator": "Advantage Group",
+    "source_urls": [
+      "https://www.mobills.com.br/blog/viagens/sala-vip-congonhas/",
+      "https://www.smiles.com.br/clube-smiles/loungesgolsmiles"
+    ],
+    "last_verified": "2026-05-28",
+    "completeness_score": 44,
+    "notes": "DUPLICATA/VERIFICAR: em Congonhas, clientes Smiles Diamante acessam a mesma sala VIP (Advantage VIP/Coworking) usada por TudoAzul Diamante (#256 id 2282c20e, batch 26). O GOL Premium Lounge proprio fica em GRU/GIG, nao em CGH. Mesclar. Foto anterior generica removida."
+  }
+]
